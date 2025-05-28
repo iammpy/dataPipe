@@ -4,15 +4,15 @@
         "translated_problem": "1D伊辛模型是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆一个公认的统计力学模型的定义，属于事实性知识检索。"
+            "reason": "该问题询问1D Ising模型的基本定义，答案是一个普遍接受的事实性知识点，可直接从统计力学知识中提取。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆一个公认的物理学概念，即1D Ising模型的定义，这是一个普遍接受的知识点。"
+            "reason": "该问题的答案是对1D Ising模型的定义，属于客观事实性知识，可以直接通过查找或回忆获得。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回答1D Ising模型的定义，这是一个普遍接受的、事实性的知识点，无需依赖上下文即可通过记忆获得。"
+            "reason": "该问题询问1D Ising模型的定义，参考答案是一个普遍接受的、事实性的知识点，可通过直接查找或回忆获得，无需多步逻辑推理。"
         }
     },
     "fd159934864356da75f88cb7fbd1cf06": {
@@ -20,15 +20,15 @@
         "translated_problem": "半填充时的绝缘相是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从上下文中提取强耦合扩展研究的结果，无需推理或主观判断。"
+            "reason": "答案可以直接从上下文中提取，描述了半填充下绝缘相的具体特性，属于事实性信息。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，描述了半填充时绝缘相的特性。"
+            "reason": "问题的答案是一个客观的事实，可以直接从上下文中提取，无需复杂的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（上下文中明确提到‘the strong-coupling expansion maps out an insulating phase at half-filling whose magnetic correlation depends on the parity of 2S’），属于检索型知识问题。"
+            "reason": "该问题的答案可以直接从提供的上下文中提取，属于通过查找即可获得的客观事实信息。"
         }
     },
     "0cc650aa9ca0a4e88df1f9afa7f1d873": {
@@ -36,15 +36,15 @@
         "translated_problem": "分析中调查的系统是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取所分析的系统，答案明确存在于原文中。"
+            "reason": "答案可直接从上下文中提取，明确提到系统由两个两能级发射器嵌入通用光子环境组成。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，具体为描述的系统由两个两能级发射体嵌入一个通用光子环境中组成。"
+            "reason": "该问题的答案可以直接从上下文中提取，是一个明确的事实性知识点。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问分析中研究的系统，其答案可以直接从提供的上下文中提取（“We investigate a system consisting of two two-level emitters embedded in a generic photonic environment”）。"
+            "reason": "该问题询问分析中研究的系统，其答案可直接从上下文中提取（'We investigate a system consisting of two two-level emitters embedded in a generic photonic environment'），属于通过简单查找即可获得的客观事实。"
         }
     },
     "f63c6dc5688c7101e0063c16b113f942": {
@@ -52,15 +52,15 @@
         "translated_problem": "提取与施工中混凝土使用相关的事件。",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求直接从提供的上下文中提取与混凝土使用相关的事件，答案通过简单概括即可获得。"
+            "reason": "该问题要求从上下文中提取具体事件，答案可直接从提供的参考答案中列举的事实性步骤得出。"
         },
         "4o": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从答案中直接提取与混凝土在建筑中使用相关的事件，属于可直接从上下文中获取的信息。"
+            "category": "REASONING",
+            "reason": "该问题要求从参考答案中提取与混凝土使用相关的事件，涉及对信息的组织和提取。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求提取建筑中使用混凝土的相关事件，答案“pouring, curing, and finishing”是普遍接受的混凝土施工步骤的事实性知识点，无需多步逻辑推理即可回忆或查找获得。"
+            "reason": "该问题要求提取建筑中使用混凝土的相关事件，参考答案列出了具体的客观事实（浇筑、养护、修整及其解释），属于可通过回忆或查找获得的普遍知识。"
         }
     },
     "78fc593ec085e722128d86f489036b1f": {
@@ -68,15 +68,15 @@
         "translated_problem": "什么是形状记忆效应？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆形状记忆效应的定义，属于普遍接受的事实性知识点。"
+            "reason": "该问题询问的是“形状记忆效应”的客观定义，答案直接陈述了一个普遍接受的事实性知识点。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆一个公认的、事实性的知识点，即形状记忆效应的定义。"
+            "reason": "该问题要求提供对形状记忆效应的定义，这是一个客观的知识点，可以直接查找或回忆得出答案。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求解释“形状记忆效应”的定义，答案是一个普遍接受的事实性知识点，无需上下文即可回答。"
+            "reason": "该问题询问的是“形状记忆效应”的定义，答案是一个普遍接受的、事实性的知识点，可通过直接回忆或查找获得，无需多步逻辑推理。"
         }
     },
     "cc54c1bff869a8c2c029a5f87112cf67": {
@@ -84,15 +84,15 @@
         "translated_problem": "金属和陶瓷生物材料有什么区别？",
         "r1": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求比较金属与陶瓷生物材料的特性差异，涉及对两者的分析和比较。"
+            "reason": "该问题要求比较金属与陶瓷生物材料的差异，涉及对两种材料特性及用途的对比分析。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求比较金属和陶瓷生物材料的异同点，涉及分析和比较不同材料的特性。"
+            "reason": "该问题要求比较金属和陶瓷生物材料的特性差异，涉及对多个项目的分析和对比。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求比较金属生物材料和陶瓷生物材料的差异，涉及分析两者的不同特性并进行对比。"
+            "reason": "该问题要求比较金属和陶瓷生物材料的差异，需要分析两者的特性（如强度、延展性、脆性、生物相容性等）并进行对比，属于对信息的分析和比较。"
         }
     },
     "7344767450c3a004fd4d96b93fb64ea7": {
@@ -100,15 +100,15 @@
         "translated_problem": "NaNiO2在环境压力下的相变是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从提供的上下文中提取关于NaNiO$_2$在常压下的相变具体参数描述。"
+            "reason": "答案可直接从上下文中的第二句话提取，无需推理或分析。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，即关于NaNiO$_2$在常压下的相变信息。"
+            "reason": "该问题要求提供一个特定的、客观的事实性答案，直接可以从上下文中提取得出。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问的是NaNiO2在常压下的相变信息，答案可以直接从提供的上下文中提取得出。"
+            "reason": "该问题询问NaNiO₂在常压下的相变情况，答案直接从上下文中提取的客观事实，无需多步逻辑推理即可获得。"
         }
     },
     "a2bca47dc306bbca467f85d8bc54d489": {
@@ -116,15 +116,15 @@
         "translated_problem": "J.C.Hidalgo Gonzalez和J.I.Jimenez Aquino的研究结论是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取研究的结论，答案可以通过检索原文内容获得。"
+            "reason": "该问题的答案可以直接从提供的上下文中提取，即作者在论文中得出的结论是他们的方法相比Das等人的计算更准确。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求直接从上下文中提取研究的结论，属于检索型问题。"
+            "reason": "该问题的答案是基于上下文中明确提供的客观信息，可以直接提取得出。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求获取研究的结论，答案可以直接从提供的上下文中提取得出。"
+            "reason": "问题要求获取J. C. Hidalgo-Gonzalez和J. I. Jimenez-Aquino研究的结论，答案可直接从上下文中提取具体事实（通过特征函数推导Fokker-Planck方程并认为其方法较Das等人更准确），属于客观事实的查找。"
         }
     },
     "06250648068a40f7d2d60e23e7ada9de": {
@@ -132,15 +132,15 @@
         "translated_problem": "什么是skyrmions？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，明确描述了skyrmions的定义和特性。"
+            "reason": "答案可直接从上下文中提取关于skyrmions的定义，属于客观事实性知识。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，具体描述了skyrmions的特性和定义。"
+            "reason": "问题询问了一个具体术语的定义，答案可以直接从上下文中提取，是一个客观的知识点。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求解释skyrmions的定义，其答案可以直接从提供的上下文中提取（“topologically protected objects with particle-like properties, stabilized in the ground state”）。"
+            "reason": "问题询问skyrmions的定义，答案可直接从上下文中提取，属于无需多步推理的客观事实性知识点。"
         }
     },
     "43fff7447228d8670d844c75593dd69f": {
@@ -148,15 +148,15 @@
         "translated_problem": "干细胞的三种类型是什么，它们各自的来源是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆干细胞类型及其来源的公认知识点，答案为客观事实且无需推理。"
+            "reason": "该问题直接询问三类干细胞及其来源，答案是基于客观事实的既定知识分类，无需推理即可通过回忆或查找获得。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆一个公认的事实性知识点，即三种干细胞的类型及其来源。"
+            "reason": "该问题要求列出三种干细胞的类型及其来源，答案是客观事实且无需复杂推理即可得出。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆关于干细胞类型及其来源的普遍接受的事实性知识点，答案为客观事实且无需上下文即可回答。"
+            "reason": "该问题询问三种干细胞类型及其各自的来源，答案是客观事实且可通过直接查找或回忆获得，无需多步逻辑推理。"
         }
     },
     "8d1164ac33b3b4f904e7fee540f12387": {
@@ -164,15 +164,15 @@
         "translated_problem": "研究中如何验证ME与2D极限的耦合？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，涉及对研究方法的直接概括。"
+            "reason": "该问题的答案可以直接从提供的上下文中提取，即通过测量CrOCl在不同参数下的隧道电阻来验证ME耦合。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取验证ME耦合的方法，属于检索型问题。"
+            "reason": "该问题的答案是一个具体的实验方法描述，可以直接从上下文中提取，无需进一步的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取研究中验证ME耦合到2D极限的方法，答案可直接从上下文中提取得出。"
+            "reason": "问题询问研究中验证ME耦合到2D极限的方法，参考答案直接从上下文中提取了“通过测量CrOCl在温度、磁场和外加电压参数空间下的隧穿电阻”这一客观事实，无需多步推理。"
         }
     },
     "34de26624dfecb8247204dc394ff1f8c": {
@@ -180,15 +180,15 @@
         "translated_problem": "请解释以下代码：\nint[]arr={1,2,3,4,5}；\nfor（int i=0；i<arr.length；i++）{\n如果（arr[i]%2==0）{\nSystem.out.println（arr[i]+“是偶数”）；\n}\n}",
         "r1": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求对代码逻辑进行分析和推断，涉及对程序流程和条件判断的理解与解释。"
+            "reason": "该问题要求对代码逻辑进行解析，涉及对程序结构的理解和执行流程的推断，需要多步骤的逻辑分析。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求解释代码的逻辑和行为，涉及对代码的执行过程进行分析和推断。"
+            "reason": "该问题要求对代码进行逐步分析和解释，涉及对代码逻辑的理解和推理以得出结论。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求应用对代码结构（数组初始化、循环、条件判断）的理解来解释代码的功能，需要分析代码各部分的作用并推断其整体行为。"
+            "reason": "该问题要求解释代码的功能，需要分析代码中数组创建、循环遍历和条件判断的逻辑，并综合得出代码的执行过程和输出结果，涉及对信息的处理和分析。"
         }
     },
     "5ac6c520a3e96d39ec2dd39f8689a0e9": {
@@ -196,15 +196,15 @@
         "translated_problem": "GQM在相关的Qi Wu Zhang模型中用于什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从提供的上下文中提取，明确指出GQM用于检测拓扑相变。"
+            "reason": "答案可直接从上下文中提取，明确指出GQM用于检测拓扑相变，属于已陈述的客观事实。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，描述了GQM的用途作为检测拓扑相变的工具。"
+            "reason": "该问题的答案是基于提供的上下文中的明确信息，属于事实性知识点，无需额外的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取GQM在相关Qi-Wu-Zhang模型中的用途，答案可直接从上下文信息中概括得出。"
+            "reason": "该问题询问GQM在相关Qi-Wu-Zhang模型中的用途，答案可直接从上下文中提取（GQM用于检测拓扑相变），属于可客观验证的事实性信息。"
         }
     },
     "60477f20d622b99311a6cc268056e500": {
@@ -212,15 +212,15 @@
         "translated_problem": "给定文本中提出的通用缩放框架是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取关于universal scaling框架的描述，答案可通过简单检索得到。"
+            "reason": "该问题的答案可以直接从提供的上下文中提取，且不涉及多步逻辑推理或主观判断。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取关于普遍缩放框架的核心信息，这是一个直接的检索型问题。"
+            "reason": "问题要求从上下文中直接提取关于普适标度框架的定义和描述，答案是明确的客观事实。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取“通用标度框架”的具体内容，答案可直接从上下文概括得出。"
+            "reason": "该问题要求获取给定文本中提出的通用缩放框架的具体内容，答案可直接从上下文中提取，属于客观事实且无需多步逻辑推理。"
         }
     },
     "2151d72c4506c9f4cf51952d6910e29c": {
@@ -228,15 +228,15 @@
         "translated_problem": "差距修正与什么一致？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，无需进一步推理。"
+            "reason": "答案可直接从上下文中的明确陈述提取，即间隙修正与Fröhlich的简单估计一致，无需推理或主观判断。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，即‘The gap correction is shown to agree with Fröhlich's simple estimate $-\\alpha_P\\omega_L/2$ of the polaron effect’。"
+            "reason": "该问题的答案是一个明确的事实，可以直接从上下文中提取，无需进行复杂的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（“The gap correction is shown to agree with Fr\"ohlich's simple estimate $-\\alpha_P\\omega_L/2$ of the polaron effect”），属于检索型知识问题。"
+            "reason": "该问题询问能隙修正与什么一致，答案可直接从上下文中提取（Fr\"ohlich的简单估计$-\\alpha_P\\omega_L/2$的极化子效应），属于无需推理的客观事实。"
         }
     },
     "738abd95be987a0f02e0675d3f3387b1": {
@@ -244,31 +244,31 @@
         "translated_problem": "这项研究的推论是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题可直接从提供的上下文中提取研究的推论，答案无需推理或主观判断。"
+            "reason": "该问题询问研究的推论，答案可直接从上下文中提取，属于客观事实的查找。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从上下文中直接提取研究的推论作为答案，属于检索型知识问题。"
+            "reason": "该问题的答案是基于上下文中的明确陈述内容，属于客观事实，无需推理即可得出。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取研究的推论，答案可以直接从上下文的‘As a corollary’部分提取得出。"
+            "reason": "该问题询问研究的推论，参考答案直接从上下文中提取了明确的客观事实（'As a corollary, molecular junctions with achiral molecules can also exhibit spin polarization...'），无需多步逻辑推理即可获得。"
         }
     },
     "836a81c68994f6a54b251f9ff7f3301e": {
         "raw_problem": "What is the significance of the study?",
         "translated_problem": "这项研究的意义是什么？",
         "r1": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取研究的核心结论，答案可通过对研究摘要的概括得出。"
+            "category": "SUBJECTIVE",
+            "reason": "该问题询问研究的价值或贡献，需要综合研究内容进行总结和提炼，答案的详略和重点可能存在多种合理表述方式。"
         },
         "4o": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从上下文中提取关于研究意义的具体信息，这是一个直接的检索型问题。"
+            "category": "REASONING",
+            "reason": "该问题要求从上下文中提取并总结研究的意义，涉及对信息的分析和归纳。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问研究的意义，其答案可以直接从提供的上下文中提取（如“Our study shows that the CMPE provides an efficient approach for a control of not only static but also dynamic magnetic properties in extrinsic multiferroics”）。"
+            "reason": "问题询问研究的意义，参考答案直接从上下文中提取了研究的核心结论（CMPE提供了控制外在多铁性材料静态和动态磁性的有效方法），属于可直接获取的客观事实。"
         }
     },
     "9770bab015047f5bb0d3bcb7432cb884": {
@@ -276,15 +276,15 @@
         "translated_problem": "A2和B2结构对四方磁致伸缩的贡献是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，无需进一步推理或分析。"
+            "reason": "答案可以直接从提供的上下文中提取，明确说明A2和B2结构对四方磁致伸缩有正贡献，无需推理。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，即'A2和B2结构对四方磁致伸缩提供了正贡献'，无需进一步推理。"
+            "reason": "问题的答案是一个客观事实，可以直接从上下文中提取，无需进一步的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（‘The A2 and B2 structures provide a positive contribution to the tetragonal magnetostriction’），属于检索型知识问题。"
+            "reason": "问题询问A2和B2结构对四方磁致伸缩的贡献，答案可直接从上下文中提取的客观事实得出，无需多步逻辑推理。"
         }
     },
     "34bbe43d1825807bddba7d3d9dcc8246": {
@@ -292,15 +292,15 @@
         "translated_problem": "纳米粒子的尺寸范围是多少？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆一个公认的关于纳米颗粒尺寸范围的定义性知识。"
+            "reason": "该问题询问的是纳米粒子的尺寸范围，这是一个已被广泛接受的科学事实，答案可以直接通过回忆或查找获得。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆一个普遍接受的事实性知识点，即纳米粒子的典型尺寸范围。"
+            "reason": "该问题的答案是一个客观事实，可以直接查找或回忆得出，无需进行推理或组织信息。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题询问的是纳米颗粒尺寸范围这一普遍接受的事实性知识点，无需上下文即可回答。"
+            "reason": "该问题询问纳米颗粒的尺寸范围，答案是一个普遍接受的事实性知识点，可通过简单查找或回忆获得，无需多步逻辑推理。"
         }
     },
     "30fa752f9e78848eb004721cf297e04f": {
@@ -308,15 +308,15 @@
         "translated_problem": "细胞在胚胎发育过程中特化的过程叫什么名字？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆一个公认的生物学过程名称，属于事实性知识点。"
+            "reason": "该问题询问的是一个公认的生物学概念名称，答案属于可以直接回忆的事实性知识。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆一个普遍接受的生物学知识点，即细胞在胚胎发育过程中分化的过程名称。"
+            "reason": "该问题的答案是一个客观事实，直接陈述了细胞在胚胎发育过程中专门化的过程名称，不需要进一步推理或分析即可回答。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆一个普遍接受的生物学事实性知识点（胚胎发育中细胞特化过程的名称），不需要上下文即可回答。"
+            "reason": "该问题询问的是胚胎发育过程中细胞特化过程的名称，答案是一个普遍接受的事实性知识点，无需多步推理即可通过回忆或查找获得。"
         }
     },
     "7034b30c3f75a8358f4471558eda6989": {
@@ -324,15 +324,15 @@
         "translated_problem": "该方案提供的两个关键任务是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取方案提供的两个关键任务，答案可直接检索无需推理。"
+            "reason": "答案可以直接从上下文中提取，明确指出了方案提供的两个关键任务的具体名称。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，属于检索型问题。"
+            "reason": "问题的答案可以直接从上下文中提取，属于客观事实，不需要进一步的推理或信息处理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取方案所针对的两个关键任务，答案可直接从上下文中概括得出。"
+            "reason": "该问题询问方案提供方法的两个关键任务，其答案可直接从上下文中提取具体内容，属于客观事实且无需多步逻辑推理。"
         }
     },
     "afd0cde1813bcdce1345c98e27b59189": {
@@ -340,31 +340,31 @@
         "translated_problem": "双组分费米气体的涡旋结构是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从提供的上下文中提取，涉及对研究结论的概括。"
+            "reason": "答案可以直接从提供的上下文中提取，具体引用了关于涡旋结构的客观研究结果。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，描述了两组分费米气体的涡旋结构特性。"
+            "reason": "该问题的答案是客观的、可直接从上下文中提取的事实信息，不需要进一步的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取得出（上下文中明确提到‘reducing the anisotropy leads to instabilities towards pair density waves, and vortex lattices’），属于检索型知识问题。"
+            "reason": "该问题的答案可以直接从提供的上下文中提取（“reducing the anisotropy... leads to instabilities towards pair density waves, and vortex lattices”），属于可通过简单查找获得的客观事实。"
         }
     },
     "fb09b712b74a13f2fcae4405e22084fe": {
         "raw_problem": "What is the motivation for introducing the subsystem Arf invariant?",
         "translated_problem": "引入子系统Arf不变量的动机是什么？",
         "r1": {
-            "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求从已知的晶格对偶性研究中推断引入新概念的动机，涉及对因果关系的分析和知识应用。"
+            "category": "KNOWLEDGE",
+            "reason": "答案可以直接从上下文中提取，明确指出引入subsystem Arf invariant的动机在于晶格上的精确对偶性研究。"
         },
         "4o": {
-            "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求从上下文中分析和推断出引入子系统Arf不变量的动机，涉及对已知信息的应用与推理。"
+            "category": "KNOWLEDGE",
+            "reason": "问题询问的是引入子系统 Arf 不变量的动机，答案可以直接从上下文中提取，属于客观事实性知识。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问引入子系统Arf不变量的动机，答案可以直接从提供的上下文中提取（'This motivates us to introduce the subsystem Arf invariant'）。"
+            "reason": "问题询问引入子系统Arf不变量的动机，参考答案直接从上下文中提取了明确的因果关系（格点上的精确对偶性促使引入），属于可通过查找上下文获得的客观事实。"
         }
     },
     "4fe5c1b4406e14e794d3af879c875240": {
@@ -372,15 +372,15 @@
         "translated_problem": "自然选择的机制是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆自然选择机制这一普遍接受的定义，属于事实性知识点。"
+            "reason": "该问题询问自然选择机制的定义，答案是一个普遍接受的生物学知识点，无需推理即可直接回答。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆一个普遍接受的生物学知识点，即自然选择的机制。"
+            "reason": "该问题的答案是一个普遍接受的科学知识点，可以通过查找或回忆直接得出，无需进一步的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题询问自然选择的机制，答案是一个普遍接受的、事实性的知识点，不需要上下文即可回答。"
+            "reason": "该问题询问自然选择的机制，参考答案是一个普遍接受的事实性知识点（定义），可通过回忆或查找获得，无需多步逻辑推理。"
         }
     },
     "6a776c2c691f651cfbbaab99062bf14d": {
@@ -388,15 +388,15 @@
         "translated_problem": "钽原子的垂直原子位移的结果是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从提供的上下文中提取，涉及对研究结论的检索。"
+            "reason": "该问题的答案可以直接从上下文中提取，明确指出了钽原子垂直位移导致对称性降低的事实。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取出来，属于检索型知识问题。"
+            "reason": "该问题的答案是一个客观事实，可以直接从提供的上下文中提取，无需进一步推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取‘钽原子垂直位移的结果’这一信息，答案可直接从上下文中提取得出。"
+            "reason": "该问题询问钽原子垂直位移的结果，其答案可直接从上下文中提取（对称性从D₃h降低到C₃v），属于客观事实且无需多步推理。"
         }
     },
     "a5d6e4b6f5e86ba35698dfca81489b2a": {
@@ -404,15 +404,15 @@
         "translated_problem": "什么是反常的德鲁德模型？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题可以直接从提供的上下文中提取关于'anomalous Drude model'的定义，属于检索型知识问题。"
+            "reason": "答案可直接从提供的上下文中提取，属于特定模型的客观定义。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，描述了'anomalous Drude model'的定义及其在更一般模型中的位置。"
+            "reason": "该问题的答案是一个客观事实，可以直接从上下文中提取，且不需要进一步的推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问的“异常德鲁德模型”的定义可以直接从提供的上下文中提取（上下文提到其是更一般模型的特例），属于检索型知识问题。"
+            "reason": "该问题询问“anomalous Drude model”的定义，答案可直接从上下文中提取（作为更一般模型的特殊案例且属于时空耦合模型），属于可通过简单查找获得的客观事实。"
         }
     },
     "a4f0301455692286031cee7a5ea0326c": {
@@ -420,15 +420,15 @@
         "translated_problem": "云纹中有效各向异性能量的分布情况如何？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取关于moiré超晶格中有效各向异性能分布的关键信息。"
+            "reason": "答案可直接从上下文中提取，明确指出了有效各向异性能的分布由堆叠顺序耦合引入这一事实性结论。"
         },
         "4o": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取或概括得出，属于检索型知识问题。"
+            "category": "REASONING",
+            "reason": "该问题要求分析上下文中关于有效各向异性能量的复杂关系，并结合信息推断其在 moiré 超晶格中的具体表现形式，涉及信息的处理和推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取关于莫尔图案中有效各向异性能分布的信息，答案可以直接概括得出。"
+            "reason": "该问题要求获取莫尔图案中有效各向异性能分布的客观事实，答案可直接从上下文中提取，属于通过查找获得的事实性信息。"
         }
     },
     "83df60e42506001131122bb02b6a7b89": {
@@ -436,15 +436,15 @@
         "translated_problem": "集成光子电路的挑战是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题可直接从上下文中提取关于光子电路集成挑战的具体信息，无需推理或主观判断。"
+            "reason": "答案可直接从上下文中提取，明确指出光源的集成是当前挑战，属于客观事实。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，即‘light sources remain a challenge to be integrated’。"
+            "reason": "问题的答案直接可以从上下文中提取，是一个客观事实，不需要进一步的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（上下文中明确指出‘light sources remain a challenge to be integrated’），属于检索型知识问题。"
+            "reason": "问题询问集成光子电路的挑战，其答案可直接从上下文中提取关键事实（光源是集成的核心挑战），属于通过简单查找即可获得的客观事实。"
         }
     },
     "82b284724f7a1e32d4550c57edc81339": {
@@ -452,15 +452,15 @@
         "translated_problem": "本文中发展的分析理论是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求直接从提供的上下文中提取已发展的分析理论内容，属于检索型知识问题。"
+            "reason": "答案可直接从上下文中提取，明确对应文本中'develop an analytical theory to account for these correlations'的核心表述。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，描述了文本中开发的分析理论的主要内容。"
+            "reason": "该问题要求提取上下文中明确描述的理论内容，属于客观事实性知识，无需复杂推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取“文中开发的分析理论”这一信息，答案可以直接从上下文概括得出。"
+            "reason": "该问题要求获取文中发展的分析理论的具体内容，答案可直接从上下文中提取关键信息（解释颗粒自旋与线速度的相关性）得出，属于客观事实的查找。"
         }
     },
     "2dfd681ef2fd765ddc8c2ac2e2c00dcd": {
@@ -468,31 +468,31 @@
         "translated_problem": "减少量子电路中的退相干有什么意义？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取关于减少量子电路退相干重要性的结论，答案可直接由文本概括得出。"
+            "reason": "答案直接来自上下文中的明确结论，即通过量子浴抑制减少退相干对量子处理器热管理和相干管理的意义，属于可直接提取的事实性信息。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求分析和推断减少量子电路退相干的重要性，结合上下文信息对其应用意义进行解释。"
+            "reason": "该问题需要分析上下文中关于量子退相干的细节，并推断其对量子处理器性能的影响，涉及因果关系的分析和信息的整合。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求获取减少量子电路中退相干的重要性，答案可以直接从提供的上下文中提取（如‘opens a route for both thermal and coherence management in quantum processors’）得出。"
+            "reason": "问题询问减少量子电路退相干的重要性，参考答案的核心内容‘为量子处理器的热管理和相干管理开辟道路’可直接从上下文中的事实信息‘Such quantum bath suppression can reduce decoherence in quantum circuits and opens a route for both thermal and coherence management in quantum processors’提取得出，属于可通过查找获得的客观事实。"
         }
     },
     "7bb69a6a21e8e1adfe7a2963f717f812": {
         "raw_problem": "Summarize the challenges and opportunities in using nanotechnology for water treatment.",
         "translated_problem": "总结使用纳米技术进行水处理的挑战和机遇。",
         "r1": {
-            "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求比较纳米技术在水处理中的应用场景中的正反两面性，涉及对因果关系的分析和综合归纳。"
+            "category": "SUBJECTIVE",
+            "reason": "该问题要求对纳米技术在水处理中的应用进行挑战和机遇的总结，答案的详略程度和组织方式存在多种可能性。"
         },
         "4o": {
-            "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求分析纳米技术在水处理中的挑战和机遇，涉及比较和分析其优劣及潜在影响。"
+            "category": "SUBJECTIVE",
+            "reason": "该问题要求对纳米技术在水处理中的挑战和机遇进行总结，这是一种开放性问题，答案的详略和重点可以因人而异。"
         },
         "doubao": {
-            "category": "REASONING",
-            "reason": "依据标准3.1，该问题要求对纳米技术在水处理中的‘挑战’和‘机遇’这两个概念进行总结和组织，涉及对信息的归纳和分类。"
+            "category": "SUBJECTIVE",
+            "reason": "该问题要求总结使用纳米技术进行水处理的挑战和机遇，属于需要概述的开放性问题，答案在详略、重点和组织方式上有多种可接受的形式。"
         }
     },
     "c656e7cf55b7d6d3945f4da56f19fe91": {
@@ -500,15 +500,15 @@
         "translated_problem": "手性相互作用对斯通纳不稳定性阈值有何影响？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，无需进一步推理。"
+            "reason": "答案可以直接从提供的上下文中提取，明确说明手性相互作用使Stoner不稳定的阈值降低。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，属于客观事实性知识的检索型问题。"
+            "reason": "问题的答案是一个可以直接从上下文中提取的事实性陈述，无需额外的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取手性相互作用对Stoner不稳定性阈值的影响，答案可直接从上下文的‘The chiral interaction softens the threshold for Stoner instability...’概括得出。"
+            "reason": "问题询问手性相互作用对Stoner不稳定性阈值的影响，其答案可直接从上下文中提取客观事实（'The chiral interaction softens the threshold for Stoner instability...'），无需多步逻辑推理。"
         }
     },
     "733194f81f94843fa121f88853202eb5": {
@@ -516,31 +516,31 @@
         "translated_problem": "近藤效应是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从上下文中提取，涉及对‘Kondo效应’这一物理现象的定义和特征描述。"
+            "reason": "该问题询问的是Kondo效应的定义，答案是一个普遍接受的事实性知识点，无需推理即可直接回答。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，是一个客观事实性的知识点。"
+            "reason": "该问题的答案是一个客观的科学现象定义，可以直接从上下文中提取，无需进一步的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求解释近藤效应，其答案可以直接从提供的上下文中提取并概括得出。"
+            "reason": "该问题询问Kondo效应的定义，参考答案直接从上下文中提取了关于其本质（局域点自由度与传导电子形成导电单重态）和特征（低温下零偏置电导峰）的客观事实，属于可通过查找获得的知识型问题。"
         }
     },
     "f744adc51d773be28622ac121c2519b7": {
         "raw_problem": "Write a brief overview of the drug discovery process.",
         "translated_problem": "简要概述药物发现过程。",
         "r1": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆一个公认的药物研发流程知识点，属于无需推理的普遍性知识。"
+            "category": "SUBJECTIVE",
+            "reason": "该问题要求对药物发现过程进行简要概述，答案在详略程度、阶段划分和组织方式上存在多种可能性，没有唯一标准答案。"
         },
         "4o": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆并概述一个公认的知识点，即药物发现过程的阶段和步骤。"
+            "category": "SUBJECTIVE",
+            "reason": "该问题要求对药物研发过程进行简要概述，答案在详略和组织方式上具有多种可能性，且没有唯一正确答案。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.1，该问题要求对“药物发现过程”这一概念进行概述，涉及对多个阶段（如目标识别、化合物筛选、优化、临床前研究等）的组织和归纳。"
+            "reason": "该问题要求对药物发现过程进行简要概述，需要将多个阶段（如目标识别、化合物筛选、优化、临床前研究、临床试验等）组织和归纳为连贯的流程描述，涉及对信息的处理和组织。"
         }
     },
     "09d39be0596d688594d5abcc1c7a2664": {
@@ -548,15 +548,15 @@
         "translated_problem": "半填充附近的超导基态和弱扩展Hubbard相互作用的配对对称性是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，属于检索型知识问题。"
+            "reason": "答案可直接从上下文中提取，明确说明在特定条件下的配对对称性为手性d波，属于已给出的客观事实。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，描述了超导基态的配对对称性。"
+            "reason": "问题的答案是一个明确的客观事实，可直接从上下文中提取，无需复杂的推理过程。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，即上下文中明确提到‘near half-filling and weak extended Hubbard interactions, the superconducting ground state exhibits chiral d-wave pairing’。"
+            "reason": "问题询问的是特定条件下超导基态的配对对称性，其答案可直接从上下文中提取的客观事实（chiral d-wave pairing）得出，无需多步逻辑推理。"
         }
     },
     "de6811614101f455b205f1a77d2d689b": {
@@ -564,15 +564,15 @@
         "translated_problem": "请对不同类型的疫苗进行分类",
         "r1": {
             "category": "REASONING",
-            "reason": "依据标准3.1，该问题要求对“疫苗”这一概念进行分类，涉及对信息的组织和归纳。"
+            "reason": "该问题要求对疫苗类型进行分类，需要组织不同疫苗的信息并归纳其分类标准。"
         },
         "4o": {
-            "category": "REASONING",
-            "reason": "依据标准3.1，该问题要求对“疫苗”这一概念进行分类，涉及对信息的组织和归纳。"
+            "category": "KNOWLEDGE",
+            "reason": "该问题的答案是客观事实，可以直接列举疫苗的类型，无需进行复杂的推理或信息组织。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.1，该问题要求对“不同类型的疫苗”这一概念进行分类，涉及对信息的组织和归纳。"
+            "reason": "该问题要求对“疫苗”的不同类型进行分类，需要对相关信息进行组织和归纳，属于对信息的处理和分析。"
         }
     },
     "ff5d7911e80c8bbdd65baab7cd90fb0d": {
@@ -580,15 +580,15 @@
         "translated_problem": "什么是Lotka-Volterra捕食者-猎物模型？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取Lotka-Volterra捕食者-猎物模型的定义和基本特征。"
+            "reason": "该问题询问Lotka-Volterra捕食者-猎物模型的基本定义和核心特征，答案可直接从上下文中提取事实性信息，属于客观知识。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从上下文中提取关于Lotka-Volterra捕食者-猎物模型的客观描述信息。"
+            "reason": "该问题要求对Lotka-Volterra捕食者-猎物模型进行定义和描述，其答案是一个客观的、普遍接受的知识点，可以从上下文中直接提取。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求解释Lotka-Volterra捕食者-猎物模型，答案可以直接从提供的上下文中提取并概括得出（如“种群动态中竞争的范式”“无解析解，通常采用数值积分方法”等）。"
+            "reason": "该问题询问Lotka-Volterra捕食者-猎物模型的定义，参考答案直接从上下文中提取了关于该模型作为种群动态竞争描述范式、无解析解且通常使用数值积分方法等客观事实，属于可通过查找获得的知识型问题。"
         }
     },
     "92c5697b858a64ee95e8a92db19d6d5d": {
@@ -596,31 +596,31 @@
         "translated_problem": "这项工作对六方氮化硼中的硼空位有什么发现？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，属于检索型知识问题。"
+            "reason": "答案可以直接从提供的上下文中提取，具体对应最后一句的结论，属于客观事实的复现。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取得出，是一个客观事实性问题。"
+            "reason": "问题的答案是一个明确的、客观的事实，可以直接从上下文中提取，无需额外的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取‘这项工作关于六方氮化硼中硼空位所确立的结论’，答案可直接从上下文最后一句提取得出。"
+            "reason": "问题要求获取这项工作关于六方氮化硼中硼空位的结论，答案可直接从上下文中提取具体的客观事实性陈述。"
         }
     },
     "c81fd6132bed4ad4a9b5967cda386b4d": {
         "raw_problem": "Please edit the sentence: 'The activation energy of the reaction is lowered in the presence of a catalyst, which speeds up the reaction.'",
         "translated_problem": "请编辑以下句子：“在催化剂的存在下，反应的活化能会降低，从而加速反应。”",
         "r1": {
-            "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求应用语法规则和科学知识对句子结构进行逻辑重组，属于知识应用的范畴。"
+            "category": "KNOWLEDGE",
+            "reason": "该问题要求根据语法和科学表达规范进行文本修改，存在明确的语法规则和科学写作标准作为判断依据。"
         },
         "4o": {
-            "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求对给定句子进行编辑，这涉及对语言信息的分析与重组，从而生成一个改进版本。"
+            "category": "SUBJECTIVE",
+            "reason": "该问题要求对句子进行编辑，涉及语言表达的调整和改写，具有多种可能的答案形式。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求应用语法或表达习惯的知识点对原句进行调整修改，属于通过处理信息得出优化后的句子，需要应用知识解决新问题。"
+            "reason": "该问题要求编辑句子，需要分析原句的结构（如被动语态）并调整为更流畅的表达（如主动语态），涉及对信息的处理和优化。"
         }
     },
     "c6e84a1db053c9d36075df2744764258": {
@@ -628,15 +628,15 @@
         "translated_problem": "是什么控制着波动引起的缺陷周围的流动和应力模式？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，明确指出了被动弹性应力和向列质的流动排列行为是主导因素。"
+            "reason": "答案可直接从提供的上下文中提取，具体明确地指出了被动弹性应力和向列相的流动排列行为是控制因素。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，即被动弹性应力和液晶的流动对齐行为。"
+            "reason": "问题的答案可以从上下文中直接提取，是一个客观事实性的知识点。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取得出（上下文明确提到‘extensile- or contractile-like flow and stress patterns around fluctuation-induced defects are governed by passive elastic stresses and flow-aligning behavior of the nematics’）。"
+            "reason": "该问题的答案可以直接从上下文中提取，明确指出波动诱导缺陷周围的流动和应力模式由被动弹性应力和向列相的流动排列行为控制，属于可客观验证的事实性信息。"
         }
     },
     "cddb756b4319672e383f059fffdb75c3": {
@@ -644,15 +644,15 @@
         "translated_problem": "下面这行Python代码的功能是什么？'对于按顺序排列的氨基酸：分子重量+=氨基酸重量[氨基酸]'",
         "r1": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题需要分析代码结构并推断其功能，涉及对循环和字典应用的理解。"
+            "reason": "该问题要求分析代码结构并推断其功能，涉及对循环逻辑和字典查找的应用场景的理解。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求对给定的Python代码进行分析和推断其功能，这需要应用编程知识并结合代码逻辑进行推理。"
+            "reason": "该问题要求分析代码的功能，需要理解代码逻辑并推断其目的，超出了简单的知识查找。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题需要分析Python代码的结构（循环遍历序列中的氨基酸并累加对应字典中的分子量），应用编程知识推断出代码的功能是计算氨基酸序列的分子量，属于从已知信息中推断未明确说明的结论。"
+            "reason": "该问题需要分析Python代码的结构（for循环遍历）、变量操作（累加molecular_weight）和数据结构（amino_acid_weights字典）的逻辑关系，从而推断出代码的功能是计算氨基酸序列的分子量，涉及对信息的分析和推理。"
         }
     },
     "c7e23504626f4127744d3117bdc42887": {
@@ -660,15 +660,15 @@
         "translated_problem": "文中描述的相等和不相等时间自相关和互相关是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求直接从提供的上下文中提取关于时间相关性的描述，答案明确存在于文本中。"
+            "reason": "答案可以直接从提供的上下文中提取，原文明确提到了equal and unequal time auto and cross correlations被描述为遵循特定的scaling forms。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从上下文中直接提取关于'等时和不等时自相关和交叉相关'的描述，属于检索型问题。"
+            "reason": "该问题的答案是直接从上下文中提取的客观事实，不需要进一步的推理或信息处理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取对“equal and unequal time auto and cross correlations”的描述，答案可直接从上下文概括得出。"
+            "reason": "该问题要求获取上下文中对“equal and unequal time auto and cross correlations”的具体描述，答案可直接从上下文中提取，属于客观事实的查找。"
         }
     },
     "40b9e27ae929cb3858411db30d3015a7": {
@@ -676,15 +676,15 @@
         "translated_problem": "纠缠在量子应用中的意义是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从提供的上下文中提取，无需推理或分析。"
+            "reason": "答案直接引用了上下文中明确说明的关于量子纠缠重要性的客观事实，属于可直接提取的知识点。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从上下文中直接提取关于量子纠缠在量子应用中的重要性这一客观事实。"
+            "reason": "问题的答案是一个客观事实，可以直接从上下文中提取，无需进行复杂的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问量子纠缠在量子应用中的重要性，其答案可以直接从提供的上下文中提取（“Entanglement is crucial to many quantum applications including...”），属于检索型知识问题。"
+            "reason": "该问题询问量子纠缠在量子应用中的重要性，参考答案直接从上下文中提取了客观事实性描述，无需多步逻辑推理即可获得答案。"
         }
     },
     "e0ec17710f199f876c5b553f18ba2134": {
@@ -692,15 +692,15 @@
         "translated_problem": "决定系统R的缩放行为的三个不变量是什么{e}nyi-type扩展熵？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取三个明确列出的几何与动态不变量名称。"
+            "reason": "该问题要求直接列举三个不变量名称，答案可从上下文中直接提取，属于客观事实型问题。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取出三个明确的几何和动力学不变量。"
+            "reason": "问题的答案是直接从上下文中提取的三个客观事实，无需复杂的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求获取确定系统Rényi型扩展熵标度行为的三个不变量，答案可以直接从提供的上下文中提取得出。"
+            "reason": "问题询问的是确定系统Rényi型扩展熵标度行为的三个不变量，其答案可直接从上下文中提取（相关维度、相关熵和相关浓度），属于可通过简单查找获得的客观事实。"
         }
     },
     "5851987e6d1c17be0406ff5e6f59efde": {
@@ -708,15 +708,15 @@
         "translated_problem": "MoSeTe的扩散系数是多少？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取关于MoSeTe扩散系数的具体数值。"
+            "reason": "该问题的答案可直接从上下文中提取关于MoSeTe扩散系数的具体数值，属于客观事实查询。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取出来，属于检索型知识问题。"
+            "reason": "问题的答案是一个明确的客观事实（扩散系数的数值），可以直接从上下文中提取得出。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（上下文中明确提到‘the extracted diffusion coefficient is found to be of the order of 10$^{-14}$ cm$^2$s$^{-1}$’），属于检索型知识问题。"
+            "reason": "该问题询问MoSeTe的扩散系数，其答案可直接从上下文中提取的客观事实（扩散系数为10⁻¹⁴ cm²s⁻¹）得出，无需多步推理。"
         }
     },
     "c8441dc6207dd620309d4a5144a16c8f": {
@@ -724,31 +724,31 @@
         "translated_problem": "SF在有限动量k=k_0附近由质子模式驱动的条纹超固体转变中的可能应用是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，明确指出了应用场景为Helium 4和冷原子BECs。"
+            "reason": "答案可以直接从上下文中提取，明确指出该转变在Helium 4和冷原子BECs中的应用，属于客观事实陈述。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，即关于SF到stripe supersolid转变的可能应用领域。"
+            "reason": "该问题的答案是基于上下文中直接提供的事实信息，可以通过查找上下文明确得出。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，上下文明确指出当不稳定性由k=k₀附近的roton模式驱动时，SF到条纹超固体的转变可能应用于Helium 4和冷原子BECs。"
+            "reason": "该问题的答案可以直接从上下文中提取，明确指出了由有限动量k=k₀附近的roton模式驱动的SF到条纹超固体转变的可能应用是Helium 4和冷原子BECs，属于可通过查找获得的客观事实。"
         }
     },
     "1360afe2b4838311790c01eb666a3836": {
         "raw_problem": "What are some of the challenges facing the development of thermoelectric materials?",
         "translated_problem": "热电材料的发展面临哪些挑战？",
         "r1": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆热电材料开发中普遍存在的技术挑战，属于对公认事实性知识的直接提取。"
+            "category": "SUBJECTIVE",
+            "reason": "该问题要求列举热电材料开发面临的挑战，答案的范围和数量不固定，存在多种合理的回答方式。"
         },
         "4o": {
             "category": "SUBJECTIVE",
-            "reason": "依据标准1.2，该问题要求列举开发热电材料面临的一些挑战，答案的范围和数量不固定，属于开放示例类问题。"
+            "reason": "该问题要求列举热电材料开发中面临的挑战，答案的范围和数量不固定，属于开放性问题。"
         },
         "doubao": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题询问热电材料发展面临的挑战，参考答案中列举的内容（如提高效率、降低成本、高温稳定性等）是该领域普遍接受的事实性知识点，无需多步推理即可通过回忆获得。"
+            "category": "REASONING",
+            "reason": "该问题要求列举热电材料发展面临的挑战，需要对相关研究中的关键问题进行归纳和总结，涉及对信息的分析和组织。"
         }
     },
     "c10e512f818e36856d2405e471336cc0": {
@@ -756,15 +756,15 @@
         "translated_problem": "电子能带对称性的分析结果是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，属于检索型知识问题。"
+            "reason": "答案可直接从上下文中提取，明确指出了电子能带对称性分析的结果。"
         },
         "4o": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取或概括得出，无需多步逻辑推理。"
+            "category": "REASONING",
+            "reason": "该问题要求对电子能带对称性分析的结果进行总结，这需要对上下文中的信息进行处理和归纳以得出答案。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取‘电子能带对称性分析的结果’，答案可以直接从上下文中概括得出。"
+            "reason": "问题询问电子能带对称性分析的结果，参考答案可直接从上下文中提取，属于无需多步推理的客观事实。"
         }
     },
     "1032519afc071dc97833738ac579f42c": {
@@ -772,15 +772,15 @@
         "translated_problem": "通过将对称简单排斥过程中不对称示踪剂的动力学映射到零范围过程中通过原点的局部电流，我们可以研究什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从提供的上下文中提取，明确说明了通过映射可以研究的具体流体动力学现象。"
+            "reason": "答案可直接从上下文中提取，具体描述了通过该映射能够研究的特定水动力学现象及其结果。"
         },
         "4o": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，描述了通过映射研究对称简单排除过程的流体动力学的具体目标。"
+            "category": "REASONING",
+            "reason": "该问题需要应用上下文中的理论映射关系，推导出可以研究的具体内容，涉及信息的分析和应用。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（“This allows us to study the hydrodynamics of the SEP with an asymmetric tracer with a step initial condition...”），属于检索型知识问题。"
+            "reason": "问题询问通过特定映射可研究的内容，参考答案直接从上下文中提取了明确的客观事实（研究SEP的流体动力学及平均位移与偏差和密度的关系），无需多步逻辑推理即可获得。"
         }
     },
     "afe7071d81958858b3759d43dae3b732": {
@@ -788,15 +788,15 @@
         "translated_problem": "bcc金属中由（a/2）<111>和a<001>位错形成的不寻常四面体构型是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题可以直接从上下文中提取关于bcc金属中特定位错形成的四面体构型体积的计算结果，属于检索型知识问题。"
+            "reason": "答案可以直接从提供的上下文中提取，明确指出该配置是体心立方金属中由特定位错形成的四面体体积，属于客观事实。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，属于客观事实性知识的检索型问题。"
+            "reason": "该问题的答案是一个明确的事实，可以直接从上下文中提取而无需推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（上下文明确提到‘the volume of an unusual tetrahedral configuration formed by the (a/2)<111> and a<001> dislocations in a bcc metal’），属于检索型知识问题。"
+            "reason": "该问题的答案可以直接从上下文中提取（“the volume of an unusual tetrahedral configuration formed by the (a/2)<111> and a<001> dislocations in a bcc metal”），属于通过查找获得的客观事实。"
         }
     },
     "afb25d5c00126679e763a97f27fa55ff": {
@@ -804,31 +804,31 @@
         "translated_problem": "文中确定的三种渐近机制是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求直接从提供的文本中提取关于三个渐近状态的具体信息，无需推理即可获得答案。"
+            "reason": "答案可以直接从提供的上下文中提取，明确指出了三种渐近状态及其对应的密度比条件。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求直接从上下文中提取信息，即文本中明确指出的三种渐近状态。"
+            "reason": "该问题的答案可以直接从提供的上下文中提取，属于明确的客观事实，无需进一步的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取明确提到的三个渐近机制的信息，答案可以直接通过概括上下文内容得出。"
+            "reason": "该问题要求获取文本中明确提到的三个渐近区域，答案可以直接从上下文中提取并对应得出，属于可客观验证的事实性信息。"
         }
     },
     "e375e406b16b229f9cc008c56395d236": {
         "raw_problem": "What is the significance of gravitational anomalies in quantum field theories?",
         "translated_problem": "引力异常在量子场论中的意义是什么？",
         "r1": {
-            "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求从已知的量子场论和引力异常现象中推断其物理意义，涉及对复杂理论间关联性的分析和应用。"
+            "category": "KNOWLEDGE",
+            "reason": "参考答案直接从上下文中提取了关于引力异常在量子场论中作用的定义性描述，属于客观事实性知识点。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，描述了引力异常在量子场论中的意义。"
+            "reason": "问题的答案是对‘gravitational anomalies’在量子场论中的意义的定义，可以直接从上下文中提取，属于客观事实性知识。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求获取引力异常在量子场论中的意义，答案可直接从提供的上下文中提取（“captured by gravitational anomalies of quantum field theories”对应“capture the quantum energy scales associated with anomalous quantum fluctuations that become paramount in strongly curved spacetime”）。"
+            "reason": "该问题询问引力异常在量子场论中的意义，参考答案是从上下文中直接提取的客观事实（引力异常捕获了在强弯曲时空中至关重要的异常量子涨落的量子能量尺度），无需多步推理即可获得。"
         }
     },
     "bf910638a9f3d453e2495aeebbd7fc6d": {
@@ -836,15 +836,15 @@
         "translated_problem": "惠更斯视图和ARPES中的弗劳恩霍夫衍射实验有什么区别？",
         "r1": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求比较Huygens观点和Fraunhofer衍射实验在ARPES中的差异，涉及对两个概念的异同分析。"
+            "reason": "该问题要求比较Huygens观点与Fraunhofer衍射实验在ARPES中的区别，涉及对实验条件、物理近似及效果差异的分析和对比。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求比较Huygens视角和Fraunhofer衍射实验在ARPES中的差异，涉及对两者的分析和比较。"
+            "reason": "该问题要求比较和分析Huygens视角与Fraunhofer衍射实验在ARPES中的异同，涉及信息的处理和归纳。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求比较Huygens view与Fraunhofer衍射实验在ARPES中的差异，需要分析两者的特性和上下文信息以得出结论。"
+            "reason": "该问题要求比较ARPES中Huygens观点与Fraunhofer衍射实验的区别，需要分析上下文中两者的特征（如是否考虑库仑散射、对终态效应的处理能力等）并归纳其差异，涉及信息的分析和比较。"
         }
     },
     "fdc655ee6f5f5c072adfe9d24b5a7e6c": {
@@ -852,15 +852,15 @@
         "translated_problem": "信号转导通路的主要组成部分是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆信号传导途径的公认组成要素，属于事实性知识点的检索。"
+            "reason": "该问题询问的是信号传导途径的主要组成部分，答案涉及直接列举生物学领域内公认的构成要素，属于事实性知识。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆信号传导通路的主要组成部分，这是一个普遍接受的事实性知识点。"
+            "reason": "该问题要求列出信号转导通路的主要组成部分，这是一个客观的知识点，可以直接通过记忆或查找获得答案。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回答信号转导通路的主要组成部分，这是一个普遍接受的事实性知识点，无需上下文即可通过记忆获得。"
+            "reason": "该问题询问信号转导通路的主要组成部分，答案是客观事实性的知识点，可通过直接回忆或查找获得，无需多步逻辑推理。"
         }
     },
     "821ebfee58bab30dd171ab3f7087df83": {
@@ -868,15 +868,15 @@
         "translated_problem": "使用什么系统来说明本文提出的方法？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接检索出用于说明方法的系统，答案可直接在文本末段找到。"
+            "reason": "答案可以直接从提供的上下文中提取，具体在最后一句明确说明了用于说明方法的系统。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取有关系统的具体信息作为答案。"
+            "reason": "问题的答案可以直接从上下文中提取，属于客观事实性的知识点。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取用于说明论文提出方法的系统，答案可直接从上下文中概括得出。"
+            "reason": "该问题要求找出论文中用于说明方法的系统，答案可以直接从上下文中提取（应用于一维激光驱动原子阵列的里德伯激发耗散动力学系统），属于可客观验证的事实性信息。"
         }
     },
     "6967395a2b5809368a08bfd0f2b3bd70": {
@@ -884,15 +884,15 @@
         "translated_problem": "什么是Tetranaci多项式？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆Tetranacci多项式的定义，其答案是一个明确的事实性知识点，可直接从上下文中提取。"
+            "reason": "该问题询问Tetranacci polynomials的定义，答案可直接从上下文中提取其客观定义，属于事实性知识。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，即对Tetranacci多项式的定义。"
+            "reason": "该问题的答案是对 Tetranacci 多项式的定义性描述，属于客观事实，且可以直接从上下文中提取。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问Tetranacci polynomials的定义，答案可以直接从提供的上下文中提取并概括得出。"
+            "reason": "问题询问Tetranacci多项式的定义，参考答案直接从上下文中提取了其作为普通Tetranacci数的双重推广（考虑非单位系数和通用初始值）的客观事实描述，无需多步推理即可获得。"
         }
     },
     "3b7cbb3736aafbd7eb1cfe838bdfc179": {
@@ -900,15 +900,15 @@
         "translated_problem": "结果涉及什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从给定上下文中直接提取关于研究结果的具体信息。"
+            "reason": "答案直接引用了上下文中明确提到的结果内容，属于可以直接提取的客观事实。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求直接从上下文中提取信息，即结果涉及对Fredholm行列式的平均值，并使用有效形状因子方法进行分析。"
+            "reason": "该问题的答案可以直接从上下文中提取，并且涉及的是客观事实，不需要额外的推理或处理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问结果涉及的内容，答案可以直接从提供的上下文中提取得出。"
+            "reason": "问题询问结果涉及的内容，参考答案直接从上下文中提取了明确的事实性信息，无需多步推理即可获得。"
         }
     },
     "cc4d439910f08ce079cbaaf5ab81e310": {
@@ -916,15 +916,15 @@
         "translated_problem": "这些实验能否为研究和定制多层薄膜中的手性自旋纹理特征建立一个全面的微观框架？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从上下文的结论部分提取，属于检索型知识问题。"
+            "reason": "答案可以直接从上下文中提取，明确提到实验和分析模型共同建立了所需的微观框架。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求从实验结果和分析模型中推断出是否能够建立一个全面的微观框架，这需要对信息进行综合分析和推理。"
+            "reason": "问题需要结合上下文中的实验和分析模型的描述，推断实验是否建立了一个全面的微观框架，因此涉及信息的处理与推断。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，上下文中明确提到‘these experiments establish a comprehensive microscopic framework...’，因此属于检索型知识问题。"
+            "reason": "问题询问实验是否能建立研究多层膜手性自旋织构特性的微观框架，其答案可直接从上下文中提取（“Together with an analytical model, these experiments establish a comprehensive microscopic framework...”），属于通过简单查找即可获得的客观事实。"
         }
     },
     "a2d39cc05288456850f1c624cf6b2d74": {
@@ -932,15 +932,15 @@
         "translated_problem": "在Andreev反射光谱中研究BCS到BEC演化的特征背后的动机是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，明确指向研究动机的实验背景。"
+            "reason": "答案可直接从上下文中提取，明确指出研究动机源于最近的实验，属于客观事实。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，描述了研究的动机这一客观事实。"
+            "reason": "问题询问研究的动机，参考答案直接从上下文中提取了相关信息，这是一个基于事实的客观知识问题。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问研究动机，答案可以直接从提供的上下文中提取（‘Motivated by recent experiments on low-carrier-density superconductors, including twisted multilayer graphene’）。"
+            "reason": "该问题的答案可以直接从提供的上下文中提取（动机是‘最近对低载流子密度超导体（包括扭曲多层石墨烯）的实验’），属于通过简单查找即可获得的客观事实。"
         }
     },
     "9ca74b5e41ed124648a7324aa613062b": {
@@ -948,15 +948,15 @@
         "translated_problem": "skyrmion袋的膨胀在分析上取决于什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，明确指出skyrmion bag的扩展分析取决于其中包含的反斯格明子数量N。"
+            "reason": "答案可以直接从提供的上下文中提取，明确指出天斯基米子袋的扩展分析依赖于其中反天斯基米子的数量N。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，明确指出了斯格明子袋的扩展与反斯格明子数量 $N$ 的关系。"
+            "reason": "该问题的答案是一个明确的、可以直接从上下文中提取的客观事实，无需进行复杂的推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，即上下文中明确提到‘the expansion of the skyrmion bag analytically depending on the number $N$ of anti-skyrmions in it’，属于检索型知识问题。"
+            "reason": "该问题的答案可以直接从提供的上下文中提取，即‘the expansion of the skyrmion bag analytically depending on the number $N$ of anti-skyrmions in it’，属于通过简单查找即可获得的客观事实。"
         }
     },
     "100e671baf418fb0088fd489adef578a": {
@@ -964,15 +964,15 @@
         "translated_problem": "对于$d>d_{DR}$，$\\psi$和$\\theta$之间的关系是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从上下文中提取，无需推理或分析。"
+            "reason": "答案可以直接从提供的上下文中提取，明确指出了当d>d_{DR}时ψ与θ的具体关系式。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，即对于 $d>d_{DR}$，$\\psi=\theta-2\\lambda$。"
+            "reason": "该问题的答案是一个明确的数学表达式，直接从上下文中提取即可，属于客观事实性知识。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取关于d>d_DR时ψ与θ关系的事实性信息，答案可直接从上下文中概括得出。"
+            "reason": "问题询问的是当d>d_DR时ψ和θ的关系，其答案可直接从上下文中提取的客观事实得出，无需多步逻辑推理。"
         }
     },
     "3131a079478093285adb1c0db20b3785": {
@@ -980,15 +980,15 @@
         "translated_problem": "对于在非常低的温度下和在环境温度超疏水表面上的飞溅行为的相似性，有什么解释？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，具体指向关于晶体形成影响接触角的解释。"
+            "reason": "答案可以直接从提供的上下文中提取，属于研究提出的具体解释，无需推理。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取或概括得出，无需额外推理。"
+            "reason": "该问题的答案是一个明确的、客观的事实，可以直接从上下文中提取，无需进一步推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取‘在极低温度和环境温度超疏水表面飞溅行为相似性的提议解释’，答案可直接从上下文‘We propose that crystal formation can affect the dynamic contact angle of the lamella and facilitate the corolla take-off...’中提取得出。"
+            "reason": "问题询问的是上下文中明确提出的解释，答案可直接从上下文提取（“We propose that crystal formation can affect the dynamic contact angle of the lamella and facilitate the corolla take-off”），属于通过简单查找获得的客观事实。"
         }
     },
     "5fee91e39ec3f8cb04d4588009eff7c7": {
@@ -996,15 +996,15 @@
         "translated_problem": "该过程在时间t之前存活的概率是多少？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，无需推理或主观判断。"
+            "reason": "问题的答案可以直接从上下文中提取，明确指出生存概率随时间衰减的形式为$t^{-\\alpha}$，属于已证实的客观结论。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，属于客观事实性知识。"
+            "reason": "问题的答案是一个明确的事实，并且可以直接从上下文中提取得出，无需进一步的推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，上下文明确说明‘the probability that the process survives up to time t decays as t^{-α} at late times’。"
+            "reason": "问题询问的是过程存活到时间t的概率形式，答案可以直接从上下文中提取的客观事实（概率随t的-α次方衰减）得出，无需多步逻辑推理。"
         }
     },
     "5c65bef00762816a5d9de9ecf98b3bf2": {
@@ -1012,15 +1012,15 @@
         "translated_problem": "当x=0.2时，EuPd$_2$（Si$_{1-x}$Ge$_x$）$_2$中Eu的化合价是多少？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取Eu的价态信息，属于检索型知识问题。"
+            "reason": "该问题询问Eu在特定化合物中的价态，答案可直接从上下文中提取的客观事实（Eu$^{(2+\\delta)+}$）得出，无需推理或主观判断。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，即描述了Eu在特定条件下的稳定化合价和相关性质。"
+            "reason": "问题的答案可以直接从上下文中提取，属于客观事实性知识，无需复杂推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取关于x=0.2时EuPd₂(Si₁₋ₓGeₓ)₂中Eu价态的客观事实，答案可直接从上下文中提取得出。"
+            "reason": "问题询问Eu在EuPd₂(Si₁₋ₓGeₓ)₂中x=0.2时的价态，答案可直接从上下文中提取的‘stable Eu^(2+δ)+ valence’这一客观事实得出，无需多步推理。"
         }
     },
     "5ff8bcccab67cd5235edd20673963c09": {
@@ -1028,15 +1028,15 @@
         "translated_problem": "研究人员在石墨烯-绝缘体-金属异质结构的研究中发现了什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取研究结果，答案内容可直接在原文中找到对应表述。"
+            "reason": "该问题的答案可以直接从提供的上下文中提取，明确指出了研究者在石墨烯-绝缘体-金属异质结构中的具体发现。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求直接从上下文中提取研究发现的内容，属于检索型知识问题。"
+            "reason": "问题要求直接陈述研究者在研究中发现的结果，答案可以从上下文中直接提取得出。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问研究人员在石墨烯-绝缘体-金属异质结构研究中的发现，答案可以直接从提供的上下文中提取得出。"
+            "reason": "问题询问研究人员在石墨烯-绝缘体-金属异质结构研究中的发现，答案可直接从上下文中提取客观事实（异常强的光学非线性及三次谐波信号增强三个数量级），无需多步逻辑推理。"
         }
     },
     "d3340b631d0ab4d782a0ca751535ed9f": {
@@ -1044,15 +1044,15 @@
         "translated_problem": "文章对结果有什么争论？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取作者对研究结果的论点，答案可直接从文本最后一句话得出。"
+            "reason": "答案可直接从上下文的最后一句提取，属于文本明确陈述的客观论点。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取或概括研究的论点，这是一个检索型问题。"
+            "reason": "该问题要求从上下文中直接提取文本对研究结果的论述内容，答案是客观且明确的事实。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取文本对结果的论点，答案可以直接从上下文的'We argue that...'部分概括得出。"
+            "reason": "该问题要求获取文本中关于研究结果的论点，答案可直接从上下文中的“We argue that...”部分提取，属于客观事实的查找。"
         }
     },
     "a37eec9758a8a85c8a3c6631c7a66498": {
@@ -1060,15 +1060,15 @@
         "translated_problem": "数值模拟如何支持研究结果？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，明确指出数值模拟的作用是支持研究发现的具体内容。"
+            "reason": "答案直接从上下文中提取，明确指出数值模拟的作用是支持研究结果，属于客观事实的陈述。"
         },
         "4o": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从上下文中直接提取信息来回答，具体是关于数值模拟如何支持研究发现的描述。"
+            "category": "REASONING",
+            "reason": "该问题需要分析研究中的数值模拟结果与其结论之间的关系，涉及对信息的处理和推导。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（“Numerical simulations are present to support our findings”及后续具体发现内容），属于检索型知识问题。"
+            "reason": "该问题询问数值模拟支持研究发现的作用，参考答案直接从上下文中提取了具体的支持内容，属于可通过查找获得的客观事实。"
         }
     },
     "49f32479f980fbfa0c395a120999da80": {
@@ -1076,15 +1076,15 @@
         "translated_problem": "外在和内在自愈材料之间有什么区别？",
         "r1": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求比较外在和内在自修复材料的异同，涉及对两者特性及因果关系的分析。"
+            "reason": "该问题要求比较两种自修复材料的差异，涉及对多个特征的分析和对比。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求比较外在和内在自修复材料的异同点，涉及分析它们的特性和优劣。"
+            "reason": "该问题要求比较两种自愈材料的异同点，涉及信息的分析和对比。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求比较‘外在自修复材料’和‘内在自修复材料’的差异，涉及对两种材料特性的分析和比较。"
+            "reason": "该问题要求比较外在和内在自修复材料的差异，需要分析两者的触发方式、制造复杂度及优势等特征并进行归纳，属于对信息的分析和比较。"
         }
     },
     "9d14f94f1c154490ff803d4d2c9c9f0c": {
@@ -1092,15 +1092,15 @@
         "translated_problem": "研究中使用的方法是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取研究所使用的方法论，答案可直接概括原文中的核心理论工具。"
+            "reason": "答案可直接从上下文中提取，明确指出了研究所采用的具体方法论，属于客观事实性信息。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取研究中使用的方法，属于检索型知识问题。"
+            "reason": "该问题的答案可以直接从上下文中提取，并且属于对研究方法的客观描述，无需复杂推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问研究中使用的方法，答案可以直接从提供的上下文中提取得出（上下文明确提到‘Combining tools from stochastic thermodynamics and large-deviation theory, we develop a powerful theory...’）。"
+            "reason": "问题询问研究中使用的方法，参考答案直接从上下文中提取了‘结合随机热力学和大偏差理论开发计算大偏差统计的理论’这一客观事实，无需多步推理。"
         }
     },
     "39c1fd1a1893618ffe681c1a5e565a65": {
@@ -1108,15 +1108,15 @@
         "translated_problem": "量子相干振荡的意义是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，无需推理。"
+            "reason": "参考答案直接引用了上下文中明确提到的量子相干振荡的意义和应用，属于可通过查找上下文直接获得的客观事实。"
         },
         "4o": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从上下文中提取关于量子相干振荡的重要意义的答案，属于直接信息检索。"
+            "category": "REASONING",
+            "reason": "该问题需要分析量子相干振荡的意义，结合上下文中关于量子相变、对称性破缺、以及实验验证的相关信息进行归纳和推断。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求获取量子相干振荡的意义，其答案可以直接从提供的上下文中提取得出。"
+            "reason": "该问题询问量子相干振荡的意义，参考答案直接从上下文中提取了关于其意义的客观事实陈述，无需多步逻辑推理即可获得答案。"
         }
     },
     "b1aa0433af2e9e0b01e0bce7a95d155a": {
@@ -1124,15 +1124,15 @@
         "translated_problem": "本文讨论了哪些应用？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取论文讨论的具体应用，答案可直接检索获得。"
+            "reason": "答案可直接从上下文中的'As applications, we discuss...'部分直接提取，属于客观事实的查找。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求直接从提供的上下文中提取出关于论文中讨论的应用内容。"
+            "reason": "问题要求从上下文中提取具体提到的应用内容，答案是明确的客观事实，无需额外推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取论文中讨论的应用，答案可以直接从上下文中提取得出。"
+            "reason": "该问题询问论文中讨论的应用，答案可直接从上下文中提取具体内容（微分截面、总截面、电阻率的霍尔分量和逆动量弛豫时间），属于客观事实且无需多步推理。"
         }
     },
     "d77960d98859e847f7a3dccec9b47a85": {
@@ -1140,15 +1140,15 @@
         "translated_problem": "量子点中的稳态电流是多少？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题可直接从提供的上下文中关于量子点稳态电流的章节提取答案，属于对特定概念的检索型解释。"
+            "reason": "该问题询问量子点中稳态电流的定义和影响因素，其答案可直接从上下文中关于稳态电流的专题知识点（第7项）提取，涉及既定理论概念如传输系数和共振效应。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求结合量子点的稳态传输知识以及共振和相干效应的信息，从已知概念推断出稳态电流的特性和影响因素。"
+            "reason": "该问题涉及理解和应用量子点稳态电流的概念，并结合上下文中的传输系数、共振和相干效应等知识进行分析和推导。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问的是量子点中稳态电流的定义和相关特性，其答案可以从提供的上下文中（第7点明确提到“Steady state current in a quantum dot: resonance and coherence”）直接提取或概括得出。"
+            "reason": "该问题询问量子点中稳态电流的定义和基本特性，参考答案是对这一概念的客观事实性描述，可通过上下文中提到的相关主题直接提取或对应得出，无需多步逻辑推理。"
         }
     },
     "1bda74a8a45d4e7ac8086891bfda409a": {
@@ -1156,15 +1156,15 @@
         "translated_problem": "如何利用老化悬浮液的剪切和时间依赖性流变学？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，无需进行逻辑推理或分析。"
+            "reason": "答案可直接从上下文中提取，明确说明了利用流变学特性产生界面图案的具体事实，属于客观知识。"
         },
         "4o": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，属于客观事实性的知识点。"
+            "category": "REASONING",
+            "reason": "该问题需要将上下文中的信息进行分析和应用，以解释如何利用悬浮液的剪切和时间依赖流变特性来实现界面模式的生成。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（上下文中明确提到‘the shear and time-dependent rheology of an aging suspension can be exploited to generate a wide variety of interfacial patterns during its displacement by a Newtonian fluid’），属于检索型知识问题。"
+            "reason": "问题询问的是如何利用老化悬浮液的剪切和时变流变学特性，参考答案直接从上下文中提取了对应的客观事实信息，无需多步逻辑推理即可获得答案。"
         }
     },
     "e4a1f72e04cfa052b728812feeeb6026": {
@@ -1172,15 +1172,15 @@
         "translated_problem": "原子运动对材料的电子和光学性质有什么影响？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取并概括得出，涉及电子-声子相互作用和带隙重整化的具体影响。"
+            "reason": "答案可以直接从提供的上下文中提取，具体描述了原子运动通过电子-声子相互作用对材料性质的影响，并引用了具体数据。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取或概括得出，属于检索型知识问题。"
+            "reason": "问题的答案可以直接从上下文中提取，是关于原子运动对材料电子和光学性质影响的客观事实性描述，不需要额外的推理过程。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求获取原子运动对材料电子和光学性质影响的客观事实，答案可直接从提供的上下文中提取和概括得出。"
+            "reason": "问题询问原子运动对材料电子和光学性质的影响，答案可直接从上下文中提取关于电子-声子相互作用、带隙变化及零点击运动导致带隙重整化等客观事实，无需多步逻辑推理。"
         }
     },
     "f7499b960f930562293dc31420390e24": {
@@ -1188,15 +1188,15 @@
         "translated_problem": "在具有全对全长程跳跃的二维系统中，无序对量子输运的影响是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取关于无序对量子输运影响的具体研究结论，无需额外推理。"
+            "reason": "该问题的答案可以直接从提供的上下文中提取，具体描述了无序增强对电导的影响及其原因。"
         },
         "4o": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，描述了无序对量子传输的具体影响。"
+            "category": "REASONING",
+            "reason": "该问题需要分析量子传输中的无序效应，结合上下文信息推断其影响，涉及因果关系和信息处理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（明确描述了无序增强对电导的影响），属于检索型知识问题。"
+            "reason": "问题询问无序对二维全对全长程跳跃系统量子输运的影响，参考答案直接从上下文中提取了关于无序增强时电导变化的客观事实，属于可通过查找上下文获得的客观信息。"
         }
     },
     "ba1564ae120f3a008ad92a852f7783a0": {
@@ -1204,15 +1204,15 @@
         "translated_problem": "量子点阵列中$p_x$和$p_y$轨道的点间耦合有什么意义？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，无需多步推理。"
+            "reason": "答案可直接从提供的上下文中提取，明确说明了$p_x$和$p_y$轨道间耦合的具体物理效应，属于客观事实性描述。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，描述了$p_x$和$p_y$轨道之间的相互耦合如何形成二维导带。"
+            "reason": "答案直接从上下文中提取了关于 $p_x$ 和 $p_y$ 轨道间耦合的重要性，属于客观事实性知识点，无需推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求获取量子点阵列中p_x和p_y轨道点间耦合的意义，答案可以直接从提供的上下文中提取得出。"
+            "reason": "问题询问的是量子点阵列中p_x和p_y轨道点间耦合的意义，其答案可直接从上下文中提取（形成二维导带，p_z轨道局域化），属于客观事实且无需多步推理。"
         }
     },
     "46a496b8decbd37f073f2e30bba85541": {
@@ -1220,15 +1220,15 @@
         "translated_problem": "请确定以下分子中存在的所有官能团：CH3CH2CH2OH。",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆羟基（-OH）作为醇类化合物的官能团这一公认的化学知识点。"
+            "reason": "该问题要求识别分子中的官能团，答案基于对官能团定义的直接回忆和匹配，无需复杂推理。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求识别一个分子中的官能团，这是一个普遍接受的化学知识点，不需要推理即可回答。"
+            "reason": "该问题的答案是基于分子结构的客观事实，可以直接通过对化学分子式的识别得出，无需复杂的推理过程。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求识别分子中的官能团，属于普遍接受的事实性知识点（羟基是醇类的官能团），无需上下文且通过回忆有机化学知识即可回答。"
+            "reason": "该问题要求识别分子中的官能团，答案（羟基）是有机化学中可直接回忆或查找的客观事实，无需多步逻辑推理。"
         }
     },
     "1bbc78a040ace314630aa5a0782f779e": {
@@ -1236,15 +1236,15 @@
         "translated_problem": "什么是多尺度纠缠重整化分析（MERA）？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，属于对特定术语的检索型回答。"
+            "reason": "答案可直接从提供的上下文中提取，明确解释了MERA的具体定义和应用场景。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取或概括得出，属于客观的事实性知识。"
+            "reason": "该问题要求对'MERA'的定义进行描述，答案是一个明确的客观知识点，不涉及推理或主观判断。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求解释MERA的定义，其答案可以直接从提供的上下文中提取（“Using circuits derived from the multiscale entanglement renormalization ansatz (MERA), we accurately prepare the ground state...）并概括得出。"
+            "reason": "该问题询问MERA的定义，参考答案直接从上下文中提取了关于MERA的客观事实（作为制备基态和测量长程关联的电路），属于可通过查找获得的客观知识。"
         }
     },
     "4b70417c259e741c3597f19e9c7f538a": {
@@ -1252,15 +1252,15 @@
         "translated_problem": "在一维玻色-哈伯德模型中，时间周期性地改变跳跃幅度的效果是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取或概括得出，无需多步推理。"
+            "reason": "答案可以直接从提供的上下文中提取，特别是结论部分明确指出了通过Floquet engineering实现非典型哈密顿量和奇异物质态的控制。"
         },
         "4o": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取得出，属于检索型问题。"
+            "category": "REASONING",
+            "reason": "该问题需要基于上下文中的理论和实验信息，分析时间周期性变化对一维Bose-Hubbard模型跳跃幅度的影响，并归纳出其具体作用，涉及推理和综合。"
         },
         "doubao": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求获取在一维Bose-Hubbard模型中周期性改变跳跃振幅的影响，答案可以直接从提供的上下文中提取并概括得出（如‘通过新型Floquet工程产生和控制非典型哈密顿量及奇异物质状态’）。"
+            "category": "REASONING",
+            "reason": "该问题需要分析上下文中关于一维玻色-哈伯德模型中周期性改变跳跃幅度的研究结果（如Floquet理论推导、有效哈密顿量特征、多体特性及相变现象），并综合归纳出其核心效应，涉及对信息的处理和归纳。"
         }
     },
     "6e933fca16f114997f3aa02dcad8ff53": {
@@ -1268,15 +1268,15 @@
         "translated_problem": "如何使用缩减后的系统？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取关于简化系统用途的信息，答案明确存在于原文最后一段的讨论中。"
+            "reason": "答案直接引用了上下文中明确提到的'explore the transient dynamics of perturbed ensembles'，属于可直接从上下文中提取的客观事实。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求应用对简化系统的知识来推断其潜在用途，涉及知识的实际应用和分析。"
+            "reason": "该问题需要应用上下文中关于简化系统的信息，并推断其具体用途，涉及信息的处理和分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问简化系统的用途，答案可以直接从提供的上下文中提取（“We discuss how the reduced system can be used to explore the transient dynamics of perturbed ensembles”）。"
+            "reason": "该问题的答案可以直接从上下文中提取（“discuss how the reduced system can be used to explore the transient dynamics of perturbed ensembles”），属于可通过查找获得的客观事实。"
         }
     },
     "afa9a12c0e53059d0a25ce416e78d606": {
@@ -1284,15 +1284,15 @@
         "translated_problem": "对未来的实验研究有什么建议？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，明确指出了未来实验研究的具体方向。"
+            "reason": "答案直接来源于上下文中的明确结论部分，无需推理即可直接提取对未来实验建议的描述。"
         },
         "4o": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，明确指出了未来实验研究的建议。"
+            "category": "SUBJECTIVE",
+            "reason": "该问题要求对未来实验研究提出建议，答案具有开放性和主观性，没有唯一正确答案。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问未来实验研究的建议，其答案可以直接从提供的上下文中提取（“We hope this encourages future experimental investigations of the Nb and Cd dipolar fluctuations, along with their associated mode dynamics”）。"
+            "reason": "该问题询问未来实验研究的建议，参考答案直接从上下文中提取了明确的事实性内容（‘We hope this encourages future experimental investigations of the Nb and Cd dipolar fluctuations, along with their associated mode dynamics’），属于可通过查找上下文直接获得的客观信息。"
         }
     },
     "9ddd2c313ef70512203d84be39f52a5d": {
@@ -1300,15 +1300,15 @@
         "translated_problem": "V_221中平面内放热氢释放的能量势垒是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题可以直接从提供的上下文中提取明确的数值答案（not more than 2 eV），无需推理或主观判断。"
+            "reason": "答案可直接从提供的上下文中提取，明确指出V_221的in-plane放氢能量壁垒不超过2 eV。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，即'能量屏障不超过2 eV'。"
+            "reason": "该问题的答案是一个明确的客观事实，可以直接从上下文中提取得出，无需复杂的推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取关于V_221中平面外放热释氢的能量势垒的具体数值，答案可直接从上下文信息中提取得出。"
+            "reason": "问题的答案可以直接从上下文中提取（‘an energy barrier of not more than 2 eV’），属于可客观验证的事实性信息，无需多步逻辑推理。"
         }
     },
     "1c7489d81b55e46e7c4157526a8d8c39": {
@@ -1316,15 +1316,15 @@
         "translated_problem": "根据其光物理性质对以下化合物进行聚类：荧光素、罗丹明、香豆素、芘、蒽。",
         "r1": {
             "category": "REASONING",
-            "reason": "依据标准3.1，该问题要求根据光物理性质对化合物进行分类，涉及对多个项目的特征分析和组织。"
+            "reason": "该问题要求根据化合物的光物理特性进行聚类，需要对不同化合物的属性进行分析和比较，并归纳分类。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.1，该问题要求对化合物基于其光物理性质进行分类，涉及对信息的组织和归纳。"
+            "reason": "该问题要求根据化合物的光物理特性对其进行分类，涉及对信息的组织和分析。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.1，该问题要求对给定的化合物（荧光素、若丹明、香豆素、芘、蒽）基于其光物理性质进行聚类，涉及对多个项目的分类和组织。"
+            "reason": "该问题要求根据光物理性质对化合物进行聚类，需要分析各化合物的特性并进行分类组织，涉及对信息的处理和归纳。"
         }
     },
     "759c9de0026ea6e9c64b5b89d9402b9b": {
@@ -1332,15 +1332,15 @@
         "translated_problem": "请更正以下句子中的语法错误：“珊瑚礁的生物多样性受到污染和过度捕捞的威胁。”",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求应用主谓一致这一公认的英语语法规则进行纠错，属于事实性知识应用。"
+            "reason": "该问题要求根据语法规则进行简单的错误修正，正确答案可直接通过语法知识得出，无需推理或主观判断。"
         },
         "4o": {
-            "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求分析句子的语法结构并应用语法规则进行修正，属于知识的应用和推断。"
+            "category": "KNOWLEDGE",
+            "reason": "该问题要求对句子中的语法错误进行修正，属于基于语法知识的直接应用，无需复杂推理。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求应用主谓一致的语法知识点来解决具体句子的语法错误修正问题，属于应用知识点解决新问题。"
+            "reason": "该问题需要分析句子结构（识别主语'The biodiversity'为单数）并应用主谓一致的语法规则（单数主语搭配单数谓语）来纠正错误，属于应用知识点解决具体问题的推理过程。"
         }
     },
     "8b3c119764a64d96c570e4179f3bb487": {
@@ -1348,15 +1348,15 @@
         "translated_problem": "SMEL测试可以处理哪些类型的实验数据？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题可以直接从上下文中提取关于SMEL测试适用数据类型的明确答案，无需推理或主观判断。"
+            "reason": "答案直接来自上下文中明确提到的SMEL测试能处理的实验数据类型，无需推理或主观判断。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，具体描述了SMEL测试可以处理的实验数据类型。"
+            "reason": "该问题的答案可以直接从上下文中提取，是一个关于实验数据特性的客观事实性问题。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问的SMEL测试能处理的实验数据类型可以直接从提供的上下文中提取得出（如“noisy, or confined to a limited frequency range”）。"
+            "reason": "问题询问的是SMEL测试能处理的实验数据类型，答案可以直接从上下文中提取（有噪声的或频率范围受限的实验数据），属于可客观验证的事实性信息。"
         }
     },
     "14b649c7b98a0d82319ce1f8c642a254": {
@@ -1364,15 +1364,15 @@
         "translated_problem": "分析结果是否与开关和消光率的数值模拟一致？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从提供的上下文中提取，无需进一步推理。"
+            "reason": "答案可以直接从上下文中提取，原文明确提到‘We find that the analytical results agree well with the numerical simulations for both switching and extinction rates.’。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，明确指出解析结果与数值模拟结果一致。"
+            "reason": "问题的答案是一个直接陈述的事实，可以从上下文中明确提取，无需额外推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（上下文中明确提到‘the analytical results agree well with the numerical simulations for both switching and extinction rates’）。"
+            "reason": "该问题询问分析结果与数值模拟在切换率和灭绝率上是否一致，答案可直接从上下文中的明确陈述‘We find that the analytical results agree well with the numerical simulations for both switching and extinction rates.’提取得出，属于客观事实且无需多步推理。"
         }
     },
     "bb359a70cc147389af3720bd822857ea": {
@@ -1380,15 +1380,15 @@
         "translated_problem": "记忆现象的物理起源是什么？",
         "r1": {
             "category": "SUBJECTIVE",
-            "reason": "依据标准1.1，该问题询问的是科学界对某一现象物理起源的不同观点，答案明确指出该问题仍存在争议。"
+            "reason": "该问题询问一个当前存在争议的科学现象起源，答案明确指出其物理起源尚无定论，属于开放讨论的范畴。"
         },
         "4o": {
             "category": "SUBJECTIVE",
-            "reason": "依据标准1.1，该问题探讨的是对记忆现象物理起源的理解和看法，答案具有开放性和主观性。"
+            "reason": "该问题涉及对物理现象起源的讨论，而参考答案表明这一问题尚未有明确的、普遍接受的结论，因此属于主观或开放性问题。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，上下文明确指出‘the physical origin of this memory remains controversial’，属于通过查找上下文获取的客观事实。"
+            "reason": "该问题的答案可以直接从上下文中提取（“the physical origin of this memory remains controversial”），属于通过查找即可获得的客观事实。"
         }
     },
     "db103d5441f4d819cff3d38bf59bf89e": {
@@ -1396,15 +1396,15 @@
         "translated_problem": "纠正以下句子的语法：“鸟的翅膀是蓝色的。”",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求应用英语语法中主谓一致的基础知识进行错误修正，属于普遍接受的语言规则应用。"
+            "reason": "该问题要求根据英语语法规则直接修正主谓一致错误，正确答案是客观且可通过语法知识直接得出的。"
         },
         "4o": {
-            "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求对给定句子的语法错误进行分析和修正，涉及应用语法规则来解决问题。"
+            "category": "KNOWLEDGE",
+            "reason": "该问题要求识别并纠正语法错误，这是基于客观的语法规则完成的，不需要复杂的推理。"
         },
         "doubao": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求应用普遍接受的语法规则（主谓一致）来纠正句子，答案是可客观验证的事实性知识点。"
+            "category": "REASONING",
+            "reason": "该问题需要分析句子的语法结构（主语'wings'为复数），并应用主谓一致的语法规则（复数主语对应复数谓语）来纠正错误，涉及对语言规则的分析和应用。"
         }
     },
     "fcc59269c621e52c0e3efee7330e3487": {
@@ -1412,15 +1412,15 @@
         "translated_problem": "所研究的搅拌强度顺序是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取关于搅拌强度阶数的具体信息。"
+            "reason": "答案可直接从上下文中提取，明确指出研究的搅拌强度是二阶（second order）。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，描述了搅拌强度的二阶效应对能量色散的影响。"
+            "reason": "问题的答案是一个明确的客观知识点，直接从上下文中提取即可，无需进行复杂的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（上下文中明确提到‘to the second order in the strength of stirring’），属于检索型问题。"
+            "reason": "问题询问被研究的搅拌强度的阶数，答案“second order”可以直接从上下文中提取，属于可客观验证的事实性信息。"
         }
     },
     "47893af8ad9cb83b1ccdb4184e587111": {
@@ -1428,31 +1428,31 @@
         "translated_problem": "这项研究关注的是什么样的系统？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题可直接从提供的上下文中提取关于研究所聚焦系统的具体信息。"
+            "reason": "答案可直接从提供的上下文中提取，无需推理或主观判断。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从上下文中直接提取研究对象的信息，属于检索型问题。"
+            "reason": "问题的答案可以直接从上下文中提取，属于客观事实性知识。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，即‘quantum mechanical systems derived from some well-known local toric Calabi-Yau geometries, as well as some non-relativistic models’。"
+            "reason": "问题询问研究关注的系统类型，其答案可直接从上下文中提取具体信息（量子力学系统和非相对论模型），属于通过简单查找即可获得的客观事实。"
         }
     },
     "8ecce790932df1dcabcaa878fcbc522f": {
         "raw_problem": "What are some common types of magnetic materials?",
         "translated_problem": "常见的磁性材料有哪些类型？",
         "r1": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆磁性材料的基本分类，属于普遍接受的事实性知识点。"
+            "category": "SUBJECTIVE",
+            "reason": "该问题要求列举磁性材料的常见类型，答案的范围和数量不固定，存在多种可接受的回答方式。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求列举普遍接受的磁性材料类型，这是一个事实性的知识点，不需要复杂推理。"
+            "reason": "该问题要求列举磁性材料的常见类型，答案为客观事实且无需复杂推理即可得出。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题询问常见的磁性材料类型，答案是普遍接受的事实性知识点，无需上下文即可通过回忆得出。"
+            "reason": "该问题询问常见的磁性材料类型，参考答案列出了具体的磁性材料类型（如铁磁材料、抗磁材料）及其特性，属于可通过查找或回忆获得的客观事实性知识。"
         }
     },
     "34a364a89be551adaaf058c95fe8b9c5": {
@@ -1460,15 +1460,15 @@
         "translated_problem": "本公式对吸附表面电荷密度的波动有何预测？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从提供的上下文中提取，无需多步逻辑推理。"
+            "reason": "答案可以直接从提供的上下文中提取，原文明确指出了当前理论对吸附表面电荷密度波动的预测结果。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取或概括得出，描述的是当前理论对表面电荷密度波动的预测。"
+            "reason": "问题的答案可以直接从上下文中提取，属于客观事实性的知识点，无需额外推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（“Going further than existing theories, the present formulation predicts that fluctuations in the adsorbed surface charge density become increasingly suppressed with increasing crystal thickness”），属于检索型知识问题。"
+            "reason": "问题询问当前模型对吸附表面电荷密度波动的预测，答案可以直接从上下文中提取（'the present formulation predicts that fluctuations in the adsorbed surface charge density become increasingly suppressed with increasing crystal thickness'），属于可客观验证的事实性信息，无需多步推理。"
         }
     },
     "81c13647128c9d381059828bf42a6852": {
@@ -1476,15 +1476,15 @@
         "translated_problem": "这篇论文的主要论点是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文直接提取论文的核心论点，答案可直接通过检索原文内容得出。"
+            "reason": "答案可直接从提供的上下文中提取，明确指出论文的主要论点，属于客观事实的查找。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从上下文中直接提取或概括研究论文的主要论点，这是一个客观的知识型问题。"
+            "reason": "问题要求提取文章的主要论点，答案可以直接从上下文中找到并复述，无需进一步推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取论文的主要论点，答案可以直接通过概括上下文内容得出。"
+            "reason": "该问题询问论文的主要论点，参考答案直接从上下文中提取了作者明确陈述的核心观点（'we point out that...'和'we argue that...'），属于可通过简单查找获得的客观事实。"
         }
     },
     "93106094ce8b23ac1366bfb8fc1104e8": {
@@ -1492,15 +1492,15 @@
         "translated_problem": "请确定负责分解人体乳糖的酶。",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆一个公认的生物化学知识点（酶的名称），属于无需上下文的事实性检索。"
+            "reason": "该问题询问的是一个明确的生物学事实，答案可直接通过回忆或查找公认的科学知识得出。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆一个公认的生物学知识点，即分解乳糖的酶的名称。"
+            "reason": "该问题的答案是一个客观事实，可以直接查找或回忆得出，无需进行复杂的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆一个普遍接受的事实性知识点（人类分解乳糖的酶），无需上下文即可回答。"
+            "reason": "该问题询问分解乳糖的酶的名称，答案是客观事实（乳糖酶），可通过简单回忆或查找获得，无需多步推理或主观判断。"
         }
     },
     "ec6735a993ff4e89bdd633effd5fe13c": {
@@ -1508,15 +1508,15 @@
         "translated_problem": "模拟器件的预测漏极电流和其他电气特性与可用实验数据之间的一致程度是多少？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取关于模拟结果与实验数据吻合程度的结论。"
+            "reason": "答案可以直接从上下文中提取，明确指出模拟结果与实验数据具有高度一致性。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从上下文中提取关于模拟设备预测排水电流与实验数据一致性的客观信息。"
+            "reason": "问题的答案是一个客观事实，可以直接从提供的上下文中提取得出，无需进一步推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（上下文中明确提到‘the predicted drain current and other electrical characteristics for the simulated device including trapping center effects show close agreement with the available experimental data’），属于检索型知识问题。"
+            "reason": "该问题的答案可以直接从提供的上下文中提取（明确提到‘show close agreement’），属于通过简单查找获得的客观事实。"
         }
     },
     "1f2281ee6fa5d95cceaf2f5d05fd3c1d": {
@@ -1524,15 +1524,15 @@
         "translated_problem": "目前商业脱氢工艺的温度范围是多少？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接检索现有商业脱氢工艺的温度范围。"
+            "reason": "答案可直接从上下文中提取的事实性信息，无需推理或主观判断。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，即当前商业脱氢工艺的温度范围为500-900°C。"
+            "reason": "该问题的答案是上下文中明确给出的客观事实，不需要进一步的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取当前商业脱氢工艺的温度范围这一客观事实，答案可直接从上下文中提取得出。"
+            "reason": "该问题询问当前商业脱氢工艺的温度范围，答案可直接从上下文中提取的客观事实（500-900°C）得出，无需多步逻辑推理。"
         }
     },
     "765740ae7079cbe1bccc7233ed972228": {
@@ -1540,15 +1540,15 @@
         "translated_problem": "什么是非手性流形？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，具体描述了非手性流形的定义和特性。"
+            "reason": "该问题的答案可以直接从上下文中提取，明确指出了非手性流形的定义和相关特性，属于客观事实。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取或概括得出，描述了非手性流形的定义和特性。"
+            "reason": "该问题的答案是一个明确的、客观的定义，可以直接从上下文中提取，无需复杂的逻辑推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求解释‘non-chiral manifold’的定义，答案可以直接从提供的上下文中提取并概括得出。"
+            "reason": "问题询问‘非手征流形’的定义，参考答案的信息可直接从上下文中提取（‘a non-chiral manifold spanned by only a subset of symmetric tensors where a new emergent tensor conservation law is realized’），属于客观事实且无需多步推理。"
         }
     },
     "4f771c85b8f5e711f540406cf60442d5": {
@@ -1556,15 +1556,15 @@
         "translated_problem": "什么是半导体材料中的掺杂？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆一个普遍接受的、事实性的定义（掺杂在半导体材料中的含义）。"
+            "reason": "该问题询问半导体材料中掺杂的定义，答案是一个普遍接受的事实性知识点，无需推理即可直接回答。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆并解释一个普遍接受的定义，即关于半导体掺杂的概念。"
+            "reason": "该问题涉及对术语 'doping' 的定义和解释，答案是一个客观的事实性知识点，无需推理即可回答。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求解释半导体材料中“掺杂”的定义，答案是一个普遍接受的、事实性的知识点，不需要上下文即可回答。"
+            "reason": "该问题询问半导体材料中‘doping’的定义，答案是一个普遍接受的事实性知识点，可通过直接回忆或查找获得，无需多步推理。"
         }
     },
     "59813ce29b795bfd55b813c25c2d36b0": {
@@ -1572,15 +1572,15 @@
         "translated_problem": "NbVTiAl合金的温度依赖电阻率表明了什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从提供的上下文中提取，无需推理或主观判断。"
+            "reason": "答案可直接从上下文中提取，明确指出温度依赖的电阻率表明合金的金属性质，属于客观事实。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求直接从上下文中提取关于温度依赖性电阻率的客观信息，即合金的金属特性。"
+            "reason": "问题的答案是一个客观事实，可以直接从上下文中提取，说明了该合金的金属特性。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（上下文中明确提到‘Temperature-dependent resistivity indicates metallic nature’），属于检索型知识问题。"
+            "reason": "该问题的答案可以直接从上下文中提取（“Temperature-dependent resistivity indicates metallic nature”），属于无需推理的客观事实。"
         }
     },
     "13c4b339d8966879b7bbf406157dcbf6": {
@@ -1588,15 +1588,15 @@
         "translated_problem": "掺杂空穴的铜酸盐中的赝隙是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，属于对研究结论的检索型回答。"
+            "reason": "该问题的参考答案直接从给定的上下文中提取了关于伪隙在空穴掺杂铜酸盐中的定义和基本特征，属于事实性知识复现。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取关于伪能隙的描述性事实。"
+            "reason": "问题聚焦于伪能隙的定义和特点，答案是一个客观的知识点，可从上下文中直接提取。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取得出，属于检索型知识问题。"
+            "reason": "该问题询问空穴掺杂铜酸盐中赝能隙的定义，参考答案直接从上下文中提取了关于赝能隙在相图中作用及其与超导关系的事实性描述，属于可通过查找获得的客观知识。"
         }
     },
     "82a4efe04b8e636111a70368811a1fb0": {
@@ -1604,15 +1604,15 @@
         "translated_problem": "第三定律的主题是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题可直接从提供的上下文中提取答案，无需多步推理。"
+            "reason": "答案可以直接从上下文中提取，明确指出第三定律的主题是定义变形温度并描述其热力学特性。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，涉及对第三定律主题的直接检索。"
+            "reason": "问题的答案可以直接从上下文中提取，属于一个明确的、客观的知识点。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取第三定律的主题，答案可以直接从上下文‘The thermodynamical form of these laws requires us to define the temperature of deformation and express its characteristics, which is the subject of the third law’中提取得出。"
+            "reason": "问题询问第三定律的主题，其答案可直接从上下文中提取（'define the temperature of deformation and express its characteristics'），属于通过简单查找获得的客观事实。"
         }
     },
     "35fa8f1b0f19375f0f409ad67c4948f7": {
@@ -1620,15 +1620,15 @@
         "translated_problem": "什么是DSSC 2D成像探测器？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题可以通过从提供的上下文中直接提取关于DSSC 2D成像探测器的描述来回答，属于检索型知识问题。"
+            "reason": "答案可以直接从上下文中提取，明确说明了DSSC 2D成像检测器的定义、用途及所属机构。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，描述了DSSC 2D成像探测器的特性和用途。"
+            "reason": "该问题的答案是关于DSSC 2D成像探测器的客观描述，可以直接从上下文中提取，无需复杂推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求获取关于DSSC 2D成像探测器的具体信息，其答案可直接从提供的上下文中提取和概括得出。"
+            "reason": "该问题询问DSSC 2D成像探测器的定义和基本信息，参考答案的内容可直接从上下文中提取，属于客观事实的获取，无需多步逻辑推理。"
         }
     },
     "a5ce7ed4147345a2ffe316602fc320a5": {
@@ -1636,15 +1636,15 @@
         "translated_problem": "超导电路中的储层工程是如何工作的？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，具体描述了超导电路中储层工程的工作机制。"
+            "reason": "答案可以直接从提供的上下文中提取，明确描述了reservoir engineering在超导电路中的工作原理。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，描述了在超导电路中实现储存库工程的具体方法。"
+            "reason": "问题询问了关于超导电路中储库工程的工作原理，其参考答案直接从上下文中提取了客观事实，无需推理或信息处理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问超导电路中储层工程（reservoir engineering）的工作方式，其答案可以直接从提供的上下文中提取得出。"
+            "reason": "该问题询问超导电路中库工程的工作方式，答案可直接从上下文中提取关于库工程实现方式的客观事实性描述，无需多步逻辑推理。"
         }
     },
     "3b871ce4b912db786b93715c7691a3ee": {
@@ -1652,31 +1652,31 @@
         "translated_problem": "一组分形可以改变其分形维数吗？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从提供的上下文中提取，明确说明了分形集合在特定条件下可改变分形维数。"
+            "reason": "答案可以直接从上下文中提取，且问题询问的是文本明确阐述的客观结论，无需推理过程。"
         },
         "4o": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从给定上下文中提取，属于检索型知识问题。"
+            "category": "REASONING",
+            "reason": "该问题需要从上下文中提取信息，并结合推理来理解分形维度如何受幂律指数变化的影响，从而得出结论。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（上下文中明确指出当幂律指数足够大时，分形集合可以改变其分形维数），属于检索型知识问题。"
+            "reason": "该问题的答案可以直接从提供的上下文中提取（当幂律指数足够大时，分形集合的分形维数可以改变），属于可客观验证的事实性信息，无需多步逻辑推理。"
         }
     },
     "d20b46c47f934f67b952e236645d5b55": {
         "raw_problem": "Write a brief summary of the properties of semiconductors.",
         "translated_problem": "简要概述半导体的性质。",
         "r1": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆半导体材料的基本物理性质，属于普遍接受的事实性知识点。"
+            "category": "SUBJECTIVE",
+            "reason": "该问题要求对半导体特性进行简要总结，答案的组织方式和重点可以有多种合理形式。"
         },
         "4o": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆并总结半导体的性质，这是一个普遍接受的、事实性的知识点。"
+            "category": "SUBJECTIVE",
+            "reason": "该问题要求对半导体的属性进行简要总结，答案在详略和组织方式上存在多种可能性，因此属于开放性问题。"
         },
         "doubao": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求总结半导体的属性，答案是普遍接受的、事实性的知识点（如导电性、带隙特性等），不需要上下文即可回答。"
+            "category": "SUBJECTIVE",
+            "reason": "该问题要求对半导体的性质进行简要总结，总结在详略、重点和组织方式上存在多种可接受的答案，没有唯一的、可客观验证的正确答案。"
         }
     },
     "8276c5fc5a4e4602864af968d065ba99": {
@@ -1684,15 +1684,15 @@
         "translated_problem": "以下Python代码的输出是什么：print（len（光学材料））？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆Python中len()函数对字符串的处理方式及基础计算能力，属于普遍接受的编程知识点。"
+            "reason": "该问题通过直接应用Python中len()函数的定义（计算字符串字符数）即可得出确定答案，属于无需推理的客观知识点。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆和应用Python语言的基本知识点（字符串长度计算），属于普遍接受的事实性知识。"
+            "reason": "该问题的答案是一个具体的、可通过运行代码直接验证的事实，不需要多步推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆Python中`len`函数的功能（计算字符串长度）并通过简单计数得出结果，属于普遍接受的事实性知识点。"
+            "reason": "该问题要求确定Python代码的输出结果，答案是通过应用len函数计算字符串长度这一客观知识直接得出的，无需多步逻辑推理。"
         }
     },
     "092fca46417132cab711a81e0bfd7806": {
@@ -1700,31 +1700,31 @@
         "translated_problem": "该计划的重点是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，明确指出方案关注的体系是深度随n对数增长的。"
+            "reason": "答案可以直接从上下文中的'We focus on the regime where depth scales logarithmically in n'提取，属于直接获取事实性信息。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，即方案关注的是深度随n对数级增长的情形。"
+            "reason": "问题的答案可以直接从上下文中提取，无需推理或加工，属于客观事实性知识。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取“方案关注的机制”这一信息，答案可直接从上下文的“we focus on the regime where depth scales logarithmically in n”提取得出。"
+            "reason": "问题询问方案关注的机制，答案可直接从上下文中提取关键信息‘the regime where depth scales logarithmically in n’，属于通过简单查找获得的客观事实。"
         }
     },
     "1a8f31bd87614996693109f667f63ec0": {
         "raw_problem": "Edit the following sentence: 'Composites are materials made from two or more different materials that are combined to create a new material with improved properties.'",
         "translated_problem": "编辑以下句子：“复合材料是由两种或多种不同材料制成的材料，这些材料结合在一起，形成了一种性能得到改善的新材料。”",
         "r1": {
-            "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求应用对复合材料定义的知识来修正句子结构并推断更准确的表述方式，涉及信息重组和逻辑推断。"
+            "category": "SUBJECTIVE",
+            "reason": "该问题要求对句子进行编辑，存在多种合理的修改方式，答案的详略和表述方式具有开放性。"
         },
         "4o": {
-            "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求对原句进行编辑，这涉及对句子内容进行分析和改写，以表达更准确或更合适的含义。"
+            "category": "SUBJECTIVE",
+            "reason": "该问题要求对句子进行编辑，答案在措辞、重点和表达方式上可能存在多种合理的改写形式，属于开放性任务。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求对原句进行编辑，需要分析原句内容（仅提及'improved properties'）并补充更全面的信息（如'properties that are different from the individual materials'及属性可定制的说明），属于对信息的处理和应用以解决新问题。"
+            "reason": "该问题要求编辑句子，需要对原句信息（复合材料的定义和特性）进行分析、补充和调整（如扩展‘improved properties’为更全面的‘different from the individual materials’及‘tailored to meet specific requirements’），涉及对信息的处理和组织。"
         }
     },
     "06452d6583b39dd6fd65e387d5bc8f14": {
@@ -1732,31 +1732,31 @@
         "translated_problem": "子弹是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从上下文中提取，具体描述了“bullets”的形成机制和特征。"
+            "reason": "该问题的答案可以直接从提供的上下文中提取，明确说明了'bullets'是特定条件下脱离并传播的孤子。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，描述了‘bullets’的定义和形成过程。"
+            "reason": "问题的答案可以直接从上下文中提取，属于对客观事实的回忆和陈述。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取“bullets”的定义，答案可以直接从上下文中概括得出。"
+            "reason": "问题询问“bullets”是什么，参考答案直接从上下文中提取了“当施加的电场增加时，孤子（或‘bullets’）从蝴蝶翅膀分离并快速传播”这一客观事实，无需多步推理即可得出。"
         }
     },
     "71a28938d9e959d56543b82b3e5e93d0": {
         "raw_problem": "How does the coupling in the proposed system enable photon absorption?",
         "translated_problem": "所提出的系统中的耦合是如何实现光子吸收的？",
         "r1": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从提供的上下文中提取，具体描述了耦合如何通过打开能隙实现光子吸收。"
+            "category": "REASONING",
+            "reason": "该问题要求解释耦合机制如何导致光子吸收这一物理过程，需要分析因果关系并整合上下文中的多个技术细节。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取或概括得出，描述了耦合如何在系统中实现光子吸收。"
+            "reason": "问题的答案可以直接从上下文中提取，是一个明确的客观事实，无需复杂的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（“The coupling opens a gap in both the QD mode and the Majorana zero mode at the nanowire edge, enabling photon absorption in the system”），属于检索型知识问题。"
+            "reason": "问题询问系统中耦合实现光子吸收的机制，参考答案直接从上下文中提取了明确的事实性信息（耦合在量子点模式和马约拉纳零模中打开能隙从而实现光子吸收），属于可通过查找获得的客观事实。"
         }
     },
     "7b1b993208e820be8407bfc25892a9de": {
@@ -1764,15 +1764,15 @@
         "translated_problem": "什么是分数量子霍尔效应？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从上下文中提取，属于检索型知识问题。"
+            "reason": "该问题的答案可直接从上下文中提取，属于对客观事实的定义性描述，无需推理即可获得。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取或概括得出，属于检索型知识问题。"
+            "reason": "该问题的答案是对分数量子霍尔效应的定义，属于一个可以通过上下文直接提取的客观知识点。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问的是“分数量子霍尔效应”的定义，答案可以直接从提供的上下文中提取得出。"
+            "reason": "问题询问分数量子霍尔效应的定义，参考答案可直接从上下文中提取，属于可客观验证的事实性知识点，无需多步逻辑推理。"
         }
     },
     "13e99b4e85d8f73a5828a456ebe66d8a": {
@@ -1780,15 +1780,15 @@
         "translated_problem": "所讨论的固结系数和粒度分布对粉末中有效传热的影响是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接检索关于“consolidation coefficient和size distribution对热传导影响”的讨论，答案可直接从文中最后一句提取。"
+            "reason": "该问题询问上下文中明确提到的关于固结系数和尺寸分布对传热的具体影响，属于可直接从文本中提取客观信息的问题。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求直接从提供的上下文中提取或概括答案，但上下文中并未明确给出所需的具体信息。"
+            "reason": "该问题的答案可以从上下文中直接提取或验证，属于客观事实性问题，但上下文中未明确提到所需的具体信息。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取关于“固结系数和尺寸分布对有效热传递的讨论影响”的信息，属于直接检索型问题。"
+            "reason": "该问题要求获取上下文中讨论的“固结系数和粒度分布对粉末有效传热的影响”这一客观事实信息，属于通过查找上下文内容即可回答的知识型问题（尽管上下文未具体说明，但问题本质是对客观事实的查询）。"
         }
     },
     "f87d7775c3be9d5e113cec91565d1863": {
@@ -1796,15 +1796,15 @@
         "translated_problem": "近似线性响应机制是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题可直接从上下文中提取关于近似线性响应区域的定义和特性描述，属于检索型知识问题。"
+            "reason": "该问题询问的是“approximate linear response regime”的定义，答案可以直接从上下文中提取，属于客观事实性的知识点。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取或概括得出，描述了近似线性响应区域的特性。"
+            "reason": "问题要求解释一个特定术语的定义和特性，答案是一个客观的知识点，可以直接从上下文中提取。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求解释“approximate linear response regime”的定义，答案可以直接从提供的上下文中提取和概括得出（如上下文提到‘Despite FDT violation, an approximate linear response regime allows for the identification of effective non-equilibrium temperatures which are different for each variable’）。"
+            "reason": "该问题询问‘近似线性响应区域’的定义，其答案可直接从上下文中提取关于该区域的客观描述（系统违反FDT但表现出线性响应并能识别有效非平衡温度），属于通过查找获得的客观事实。"
         }
     },
     "a0acf02a0b56084e7cbf1e646cfcf04a": {
@@ -1812,15 +1812,15 @@
         "translated_problem": "硫酸的化学式是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆一个公认的化学式，属于无需推理的客观事实。"
+            "reason": "答案是一个普遍接受的事实性知识点（化学式），无需推理即可直接回答。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆一个普遍接受的化学式，不需要上下文即可回答。"
+            "reason": "该问题的答案是一个客观事实，可以直接查找或回忆得出，无需推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆一个普遍接受的、事实性的知识点（硫酸的化学式），不需要上下文即可回答。"
+            "reason": "该问题询问硫酸的化学式，答案是客观事实且可通过回忆或查找直接获得，无需多步逻辑推理。"
         }
     },
     "0f4e7a6f1ecd65136e9cad4d838eda20": {
@@ -1828,15 +1828,15 @@
         "translated_problem": "请编辑以下句子：铁的熔点是1538摄氏度。",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求确认一个公认的科学事实（铁的熔点数值），无需任何修改或推理。"
+            "reason": "该问题要求直接提供铁的熔点这一客观事实，无需任何推理或主观判断，答案具有唯一性和可验证性。"
         },
         "4o": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆或确认一个公认的事实性知识点，即铁的熔点为1538摄氏度。"
+            "category": "SUBJECTIVE",
+            "reason": "该问题要求对句子进行编辑，编辑方式可能因语言风格、语法调整或个人偏好而有所不同，因此属于主观或开放性问题。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求判断句子中“铁的熔点是1538摄氏度”这一陈述的正确性，其答案依赖于对铁熔点这一普遍接受的事实性知识点的回忆。"
+            "reason": "该问题要求编辑句子，参考答案与原句一致，说明原句内容（铁的熔点为1538摄氏度）是客观事实，答案可通过验证已知的事实性知识直接得出。"
         }
     },
     "083796773839faa716eba2c460e04dee": {
@@ -1844,15 +1844,15 @@
         "translated_problem": "确定气候变化与北极熊种群减少之间的关系。",
         "r1": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求分析气候变迁与北极熊数量下降之间的因果关系，涉及对信息的分析和推断。"
+            "reason": "该问题要求分析气候变化与北极熊数量下降之间的因果关系，涉及对信息的组织、分析和推断。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求分析气候变化与北极熊数量下降之间的因果关系，涉及比较和分析。"
+            "reason": "该问题要求分析气候变化与北极熊种群数量下降之间的关系，涉及因果分析和信息的归纳。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求分析气候变化与北极熊种群减少之间的因果关系，需要对信息进行分析和归纳以得出结论。"
+            "reason": "该问题要求识别气候变化与北极熊数量减少之间的关系，需要分析因果关系（气候变化导致海冰减少，进而引发食物短缺和种群下降），涉及信息的处理和因果分析。"
         }
     },
     "3db20cda2e3858143296cb3c5c987610": {
@@ -1860,15 +1860,15 @@
         "translated_problem": "通过鞍形表面的合并可以形成哪些拓扑上不同的结构？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，明确列出了通过鞍形表面合并形成的拓扑不同结构。"
+            "reason": "答案可直接从提供的上下文中提取，明确列举了通过鞍形表面融合形成的拓扑结构名称列表。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，属于对已知信息的简单检索。"
+            "reason": "问题要求列举鞍形表面合并后形成的拓扑结构，而答案可以直接从上下文中提取，属于客观事实性知识。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问的鞍形表面聚结形成的拓扑不同结构的答案可以直接从提供的上下文中提取，属于检索型知识问题。"
+            "reason": "该问题询问的是鞍形表面合并形成的拓扑不同结构，其答案可直接从上下文中提取具体的结构名称（如catenoids, tri-noids等），属于可通过简单查找获得的客观事实。"
         }
     },
     "0b733bf505c01c85a6862649038751a7": {
@@ -1876,15 +1876,15 @@
         "translated_problem": "总磁矩和原子内库仑斥力U之间的关系是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，明确说明总磁矩随库仑排斥U增加而减少的定量关系。"
+            "reason": "答案可以直接从提供的上下文中提取，明确指出总磁矩随原子内库仑排斥U的增加而减少。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，即‘总磁矩随着原子内库仑排斥U的增加而减小’。"
+            "reason": "问题的答案是一个客观事实，可以直接从提供的上下文中提取，无需进行复杂的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问总磁矩与库仑排斥U的关系，答案可以直接从提供的上下文中提取（'The total magnetic moment decreases with the intra-atomic Coulomb repulsion U'）。"
+            "reason": "该问题询问总磁矩与原子内库仑排斥U的关系，答案可直接从上下文中提取的客观事实‘总磁矩随U的增大而减小’得出，无需多步逻辑推理。"
         }
     },
     "13a976a2e2e3a2aa551198d6af586428": {
@@ -1892,15 +1892,15 @@
         "translated_problem": "缺陷铋纳米带的潜在应用是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取关于缺陷铋烯纳米带潜在应用的信息。"
+            "reason": "问题的答案可以直接从提供的上下文中提取，明确提到有缺陷的铋烯纳米带在自旋电子学中的应用潜力。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，即确定缺陷铋烯纳米带在自旋电子学中的潜在应用。"
+            "reason": "问题的答案是一个具体的事实，可以直接从上下文中提取，无需复杂的逻辑推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问缺陷铋烯纳米带的潜在应用，其答案可以直接从提供的上下文中提取（“promising candidates for spintronic applications”），属于检索型知识问题。"
+            "reason": "该问题询问缺陷铋烯纳米带的潜在应用，参考答案可直接从上下文中提取客观事实（自旋电子学应用），无需多步逻辑推理。"
         }
     },
     "7889545a8a96c90c7dd44ebd45e80d40": {
@@ -1908,15 +1908,15 @@
         "translated_problem": "什么是“极地灾难”？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取关于‘polar catastrophe’的定义，答案明确存在于原文描述中。"
+            "reason": "该问题询问的是'polar catastrophe'这一术语的定义，其答案可直接从提供的上下文中提取，属于客观事实性知识点。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，并描述了'polar catastrophe'的定义和特性。"
+            "reason": "该问题的答案是一个客观事实，可以直接从上下文中提取，无需额外的逻辑推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问的'polar catastrophe'的定义可以直接从提供的上下文中提取得出，答案通过检索上下文信息即可获得。"
+            "reason": "问题询问'polar catastrophe'的定义，参考答案直接从上下文中提取了其客观事实性描述（在溶液中的晶体系统中表现为扰动系统偏离平衡态时发散的自由能成本），属于可通过查找获得的客观知识。"
         }
     },
     "93b692b4209efc7150be24d912f06e0d": {
@@ -1924,15 +1924,15 @@
         "translated_problem": "马尔可夫链亚稳态行为的第二个分析特征是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从上下文中提取，明确指出第二种分析特征基于大偏差率泛函。"
+            "reason": "答案直接来自上下文中的明确陈述，无需推理或主观判断。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取或概括得出，即关于马尔可夫链亚稳态行为的第二种分析表征。"
+            "reason": "问题要求从上下文中提取与马尔可夫链亚稳态行为的第二种分析表征相关的具体信息，这是一个客观的知识型问题。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，上下文明确指出第二个分析特征是‘in terms of its large deviations rate functional’。"
+            "reason": "该问题要求获取马尔可夫链亚稳态行为的第二个分析特征，答案可直接从上下文中提取（第二个特征是‘其大偏差率泛函’），属于客观事实且无需多步推理。"
         }
     },
     "15b1e63eecd3c6fc35d3dfb0f73812c0": {
@@ -1940,15 +1940,15 @@
         "translated_problem": "螺旋的可调螺距角范围是多少？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从给定上下文中直接检索关于螺旋俯仰角可调范围的具体数值信息。"
+            "reason": "答案可以直接从上下文中提取，明确说明了螺距角的可调范围为约0-70度，属于客观事实性信息。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，属于对具体范围的检索型问题。"
+            "reason": "问题要求提供一个明确的数值范围，答案可以直接从上下文中提取，是一个客观的事实性知识点。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取螺旋可调俯仰角的范围，答案可以直接通过查找上下文得出。"
+            "reason": "该问题询问螺旋可调俯仰角的范围，答案可直接从上下文中提取的客观事实（约0-70度）得出，无需多步逻辑推理。"
         }
     },
     "9057b4fc9785561ca3277ca0f61f44bf": {
@@ -1956,15 +1956,15 @@
         "translated_problem": "操纵Mn3Ge手性反铁磁织构的科学依据是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从提供的上下文中提取，无需多步推理。"
+            "reason": "答案可以直接从提供的上下文中提取，具体对应原文最后一句明确表述的结论性陈述。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，描述了研究提供的科学基础。"
+            "reason": "问题要求提供与已知上下文内容直接相关的科学依据，答案可以通过简单查找上下文中的明确描述获得。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（“Our work provides the scientific basis for manipulation of the chiral antiferromagnetic texture of Mn3Ge to control its topological quantum transport.”），属于检索型知识问题。"
+            "reason": "问题询问Mn3Ge手性反铁磁织构调控的科学基础，其答案可直接从上下文中提取（'Our work provides the scientific basis for manipulation...'），属于客观事实且无需多步推理。"
         }
     },
     "fa9c8b8ed8d3200a513bf45273164a26": {
@@ -1972,15 +1972,15 @@
         "translated_problem": "过渡金属二硫化物对费米能级的总态密度有何影响？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，明确说明了WSe2对费米能级总态密度的影响。"
+            "reason": "答案可直接从上下文中提取，明确指出过渡金属二硫族化物导致费米能级总态密度的增加。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，描述了过渡金属二硫属化物对费米能级总态密度的影响。"
+            "reason": "该问题的答案可以直接从上下文中提取，属于客观事实性知识点，无需进一步推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，上下文中明确提到了过渡金属二硫属化物对费米能级处总态密度的影响。"
+            "reason": "该问题询问过渡金属二硫属化物对费米能级处总态密度的影响，其答案可直接从上下文中提取（'There is an increase in the overall total density of states at the Fermi level due to WSe₂'），属于可客观验证的事实性信息。"
         }
     },
     "2bfb1b708a9844d090d7b78eaf650fcb": {
@@ -1988,15 +1988,15 @@
         "translated_problem": "理论计算中的假设是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取理论计算中所做的假设，属于检索型知识问题。"
+            "reason": "答案可以直接从上下文中提取，明确指出了理论计算中使用的假设是均匀自旋混合角依赖于外部磁场。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取出关于理论计算假设的具体描述。"
+            "reason": "该问题的答案是一个明确的事实，可以直接从提供的上下文中提取，无需额外的推理或信息处理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取理论计算中所做的假设，答案可直接从上下文的‘With the assumption of a uniform spin-mixing angle that depends on the externally applied field’提取得出。"
+            "reason": "问题要求获取理论计算中所做的假设，答案可直接从上下文中提取（假设为“a uniform spin-mixing angle that depends on the externally applied field”），属于可通过简单查找获得的客观事实。"
         }
     },
     "7ce78ff6015f77da61a464ae8ee5895f": {
@@ -2004,15 +2004,15 @@
         "translated_problem": "阳极和阴极有什么区别？",
         "r1": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求比较阳极和阴极的差异，涉及对两个概念的分析和对比。"
+            "reason": "该问题要求比较阳极和阴极的差异，涉及对两个概念的对比分析，属于需要组织信息并推导结论的推理过程。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求比较“阳极”和“阴极”之间的异同，涉及分析和比较的过程。"
+            "reason": "该问题要求比较阳极和阴极的差异，这涉及对概念的分析和比较。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求比较阳极（anode）和阴极（cathode）的异同，涉及对两个概念的分析和比较。"
+            "reason": "该问题要求比较阳极和阴极的差异，需要分析两者的特性并进行对比，属于对信息的分析和比较以得出结论。"
         }
     },
     "0c69badf4b88b77231c7bac1303d623c": {
@@ -2020,15 +2020,15 @@
         "translated_problem": "对结果的解释是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取对研究结果的解释，答案明确存在于原文结论部分。"
+            "reason": "答案可以直接从提供的上下文中提取，具体对应最后一句的结论部分。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，属于对研究结果的直接总结。"
+            "reason": "参考答案直接从上下文中提取，属于对研究结果的客观描述和总结，无需额外推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求获取研究结果的解释，而答案可以直接从提供的上下文中提取得出。"
+            "reason": "该问题询问研究结果的解释，参考答案直接从上下文中提取了明确的解释内容（'the complex dynamics of vortices and antivortices influenced by the underlying structure of magnetic domains'），属于可通过简单查找上下文获得的客观事实。"
         }
     },
     "512ff0c42ad4b03c68891fdfb9764604": {
@@ -2036,15 +2036,15 @@
         "translated_problem": "使用哪些技术来阐明反铁磁序的发展？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，明确列出了两种具体技术。"
+            "reason": "答案直接且明确地从上下文中提取出两个具体技术名称，无需推理即可定位。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，属于检索型问题。"
+            "reason": "该问题的答案是客观事实，可以直接从上下文中提取具体的技术名称，无需进一步推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取用于阐明反铁磁序发展的技术，答案可直接从上下文概括得出。"
+            "reason": "问题询问用于阐明反铁磁序发展的技术，其答案可直接从上下文中提取（两种互补技术：小系统的蒙特卡洛波函数模拟和开放量子系统的变分方法），属于可通过查找获得的客观事实。"
         }
     },
     "d18f439cccef0f67755952c0220eb6b3": {
@@ -2052,31 +2052,31 @@
         "translated_problem": "什么是辐射阻尼？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从提供的上下文中提取或概括得出，属于检索型知识问题。"
+            "reason": "该问题询问辐射阻尼的定义，答案直接引用上下文中的客观事实性描述，无需推理或主观判断。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求直接从上下文中提取关于辐射阻尼的定义，这是一个可以直接检索的信息。"
+            "reason": "问题的答案是一个客观事实，可以直接从上下文中提取，无需进一步的推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问'辐射阻尼'的定义，其答案可直接从提供的上下文中提取得出。"
+            "reason": "该问题询问“radiative damping”的定义，参考答案直接从上下文中提取了其客观事实性描述，属于通过简单查找即可获得的知识型问题。"
         }
     },
     "7fb6858189f099a58154bda3d28e3cbe": {
         "raw_problem": "What is the rate constant for the reaction A + B → C + D, given that the rate of disappearance of A is 0.02 M/s and the initial concentrations of A and B are both 0.1 M?",
         "translated_problem": "反应A+B的速率常数是多少→ C+D，假设A的消失速率为0.02M/s，A和B的初始浓度均为0.1M？",
         "r1": {
-            "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求应用速率定律公式并通过已知数据计算出速率常数，涉及代数运算和逻辑推理。"
+            "category": "KNOWLEDGE",
+            "reason": "该问题通过直接应用速率定律公式即可得出速率常数，属于已知条件下的事实性计算。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求利用已知的反应速率和初始浓度，通过应用速率公式推导出速率常数，涉及知识的应用和计算推理。"
+            "reason": "该问题需要根据反应速率公式和已知数据计算反应速率常数，涉及信息的处理和应用化学知识进行推导。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题需要应用化学反应速率的知识点（速率方程），通过已知的反应速率和浓度计算速率常数，属于应用知识点解决新问题的推理过程。"
+            "reason": "该问题需要应用化学反应速率公式（速率=k×[A]×[B]或其他可能的速率方程形式），结合已知的反应速率和浓度数据进行计算，才能得出速率常数，涉及对知识点的应用和推理。"
         }
     },
     "d45adc64cdb9e7408499095a6aa4c01a": {
@@ -2084,15 +2084,15 @@
         "translated_problem": "获得分布的基本原理是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接检索出基本原理的名称，答案明确存在于文本中。"
+            "reason": "答案可直接从上下文中提取，明确指出基本原理的名称为Dimensionless Fluctuation Balance Principle。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，描述了一个具体的基础原理（Dimensionless Fluctuation Balance Principle）。"
+            "reason": "问题的答案是一个明确的客观知识点，即通过波动平衡获得分布的基本原理，可以直接从上下文中提取。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取用于获取分布的基本原理，答案可直接从上下文中概括得出（即Dimensionless Fluctuation Balance Principle）。"
+            "reason": "问题询问用于获取分布的基本原理，其答案可直接从上下文中提取（Dimensionless Fluctuation Balance Principle），属于可客观验证的事实性知识点。"
         }
     },
     "a530e6363af13da53f332de07737e8a4": {
@@ -2100,15 +2100,15 @@
         "translated_problem": "几何相拓扑跃迁研究的实验结果是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取实验研究的结果，答案可直接概括得出。"
+            "reason": "答案可直接从提供的上下文中提取，具体指出了实验使用的平台和发现的协议鲁棒性，属于客观事实。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从上下文中直接提取研究的实验结果，属于知识型问题的检索型类别。"
+            "reason": "问题要求报告实验研究的结果，答案可以直接从上下文中提取，是客观事实性的知识点。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求获取研究的实验结果，答案可以直接从提供的上下文中提取得出（如‘employing an optical platform’‘robustness to certain generalizations’等关键信息）。"
+            "reason": "该问题询问研究的实验结果，参考答案直接从上下文中提取了实验采用的平台（光学平台）、展示的鲁棒性及协议解释等客观事实，无需多步逻辑推理即可获得答案。"
         }
     },
     "3bc3b0e41d7d33ce54918274500e3d28": {
@@ -2116,15 +2116,15 @@
         "translated_problem": "在具有大介电常数的薄膜中，可变范围跳跃电导率的特殊温度依赖性是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，具体描述了变程跳跃电导率的温度依赖性特征。"
+            "reason": "该问题的答案可以直接从提供的上下文中提取，具体描述了变程跳跃电导率的温度依赖性，无需进一步推理或主观判断。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，属于客观的知识性问题。"
+            "reason": "该问题的答案是一个客观的事实，可以直接从上下文中提取，无需复杂的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取得出，属于检索型知识问题。"
+            "reason": "问题询问的是具有大介电常数的薄膜中可变程跳跃电导率的特殊温度依赖性，其答案可以直接从提供的上下文中提取关键事实（lnσ(T) ∝ (T₀/T)^p的p≈0.7区域被p=1/2的区域夹在中间），属于通过简单查找即可获得的客观事实。"
         }
     },
     "bba07a8a15d24de8354fdd0330769dde": {
@@ -2132,15 +2132,15 @@
         "translated_problem": "什么是自旋混合电导？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题可直接从上下文中提取关于spin-mix conductance的定义，答案无需推理或主观判断。"
+            "reason": "答案直接来源于上下文中的明确陈述，即'we found the spin-mix conductance, the additional damping from the angular momentum injection into the normal metal side'，属于可直接提取的客观事实。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，描述了spin-mix conductance的定义和来源。"
+            "reason": "该问题的答案是关于自洽谐近似方法（SCHA）研究中的一个具体定义性知识点，可以直接从上下文中提取并不需要复杂推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求解释自旋混合电导的定义，答案可以直接从提供的上下文中提取（‘spin-mix conductance, the additional damping from the angular momentum injection into the normal metal side’）。"
+            "reason": "问题询问“自旋混合电导”的定义，参考答案直接从上下文中提取了其客观事实性描述（使用SCHA方法得到的属性，角动量注入正常金属侧引起的额外阻尼），无需多步推理即可获得。"
         }
     },
     "ab9dbcf72af787534da4864533aed0d8": {
@@ -2148,15 +2148,15 @@
         "translated_problem": "解释用于模拟光通过光子晶体传播的MATLAB代码。",
         "r1": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求对MATLAB代码的算法原理和物理模型进行解释，涉及对技术方法的分析与应用层面的推理。"
+            "reason": "该问题要求对MATLAB代码的物理建模方法和数学算法进行解释，涉及对多步骤计算过程和电磁场理论应用的理解与分析。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求对MATLAB代码的功能进行解释，这需要应用对光子晶体和数值方法的知识，并推断代码实现的物理意义。"
+            "reason": "该问题要求对MATLAB代码的功能和实现进行解释，这涉及对信息的分析和归纳，而不仅仅是直接查找事实性知识。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求解释MATLAB代码的功能和原理，需要分析代码中使用的方法（如有限差分时域法、完全匹配层）及其作用，属于应用知识点并推断代码实现逻辑的过程。"
+            "reason": "该问题要求解释MATLAB代码的功能，需要对代码中使用的方法（如有限差分时域法）、边界处理（完全匹配层）及计算结果（能带结构、透射谱）等信息进行分析和综合，属于对信息的处理和解释。"
         }
     },
     "8c5681bc4769a9c131a72593f8ed0acf": {
@@ -2164,15 +2164,15 @@
         "translated_problem": "对Cr2Ge2Te6进行了哪些研究？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中列出的实验研究类型中提取，属于检索型知识问题。"
+            "reason": "答案可直接从上下文中提取出具体的研究类型，无需推理或分析。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，属于检索型知识问题。"
+            "reason": "问题的答案可以直接从上下文中提取，是一个客观事实，无需推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问在Cr2Ge2Te6上进行的研究类型，答案可以直接从提供的上下文中提取得出。"
+            "reason": "该问题询问在Cr2Ge2Te6上进行的研究类型，答案可以直接从上下文中提取具体的研究类型（结构、磁性、X射线散射、电子、热输运和第一性原理计算研究），属于可客观验证的事实性信息。"
         }
     },
     "55ebd014e0a39bef705baf3c64be8281": {
@@ -2180,15 +2180,15 @@
         "translated_problem": "哪些超导设备使用弱连接？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求直接从提供的上下文中检索使用弱链接的超导设备示例，答案可从原文中直接提取。"
+            "reason": "答案可以直接从提供的上下文中提取，明确列举了使用超导weak-links的具体设备。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，明确列举了使用超导弱连接的设备。"
+            "reason": "问题要求列举使用超导弱连接的设备，答案可以直接从上下文中提取，是一个客观的知识型问题。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取使用弱连接的超导设备的示例，答案可直接从上下文“fundamental to many superconducting devices such as nanoSQUIDs, single-photon detectors, and bolometers”中提取得出。"
+            "reason": "该问题询问使用弱连接的超导设备，答案可直接从上下文中提取具体示例（如nanoSQUIDs、单光子探测器和测辐射热计），属于可通过简单查找获得的客观事实。"
         }
     },
     "018f59b8cc69e1524187efb09176b538": {
@@ -2196,15 +2196,15 @@
         "translated_problem": "动物交流的目的是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆动物交流功能这一公认的生物学知识，答案内容属于客观事实性陈述。"
+            "reason": "该问题询问动物沟通的目的，答案提供了事实性的定义和常见示例，属于可直接回忆的客观知识。"
         },
         "4o": {
-            "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求分析动物交流的目的，涉及对不同类型交流形式及其功能的归纳和解释。"
+            "category": "KNOWLEDGE",
+            "reason": "该问题的答案是关于动物交流目的的客观事实，答案可以直接陈述，并不需要复杂的推理或主观判断。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题询问动物交流的目的，答案是一个普遍接受的、事实性的知识点（动物交流的核心目的是传递信息），不需要上下文即可回答。"
+            "reason": "该问题询问动物交流的目的，参考答案提供了普遍接受的事实性信息（传递信息及其具体内容），可通过直接回忆或查找获得，无需多步逻辑推理。"
         }
     },
     "531b405a70c1fb38305e9a13b973b549": {
@@ -2212,15 +2212,15 @@
         "translated_problem": "应力-应变关系最大值的高度与剪切范围之间的关系是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从上下文中提取关于应力应变关系最大值高度与剪切范围关系的明确结论。"
+            "reason": "该问题的答案可直接从上下文中提取，明确指出最大高度与剪切范围的关系遵循幂律增长，属于客观事实的复现。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，即应答描述了应力-应变关系的峰值高度与剪切范围之间的关系。"
+            "reason": "答案直接从上下文中提取，是一个客观的、可验证的事实，无需额外的推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问应力-应变关系最大值高度与剪切范围的关系，答案可以直接从提供的上下文中提取（‘the height of this maximum, σ_p, increases via a power law with an increasing shear range’）。"
+            "reason": "问题询问应力-应变关系最大值高度与剪切范围的关系，答案可直接从上下文中提取（σ_p随剪切范围增加呈幂律增长），属于客观事实且无需多步推理。"
         }
     },
     "8d7e6d2cb68b195cfd80a42ab8dbd025": {
@@ -2228,15 +2228,15 @@
         "translated_problem": "研究中使用的最小模型是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求直接从提供的上下文中提取关于'minimal model'的具体描述。"
+            "reason": "答案可以直接从上下文中的'By introducing a minimal model where six species compete for space'提取，属于客观事实的查找。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从上下文中直接提取关于研究所用最小模型的信息，这是一个检索型问题。"
+            "reason": "该问题的答案是客观事实，可以直接从上下文中提取，无需进行复杂的推理或信息处理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取研究中使用的最小模型的具体信息，答案可直接从上下文中提取得出。"
+            "reason": "该问题的答案可以直接从上下文中提取（‘a minimal model where six species compete for space’），属于客观事实且无需多步逻辑推理即可获得。"
         }
     },
     "eebf9f96536ae68676f563e5f3c7759e": {
@@ -2244,31 +2244,31 @@
         "translated_problem": "使用什么方法来研究相互作用费米子的多体物理学？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，明确指出使用的是密度矩阵重整化群数值方法。"
+            "reason": "答案可直接从上下文中提取，明确指出使用了密度矩阵重整化群数值方法。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，即使用了密度矩阵重正化群数值方法。"
+            "reason": "该问题的答案是客观事实，可以直接从上下文中提取，无需进行复杂的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（上下文中明确提到‘using state-of-the-art density-matrix renormalization-group numerical method’），属于检索型知识问题。"
+            "reason": "该问题询问研究相互作用费米子多体物理所使用的方法，答案可以直接从上下文中提取（使用了最先进的密度矩阵重正化群数值方法），属于可客观验证的事实性信息，无需多步推理。"
         }
     },
     "f21c36231f452d0da52e4af66dee38f1": {
         "raw_problem": "Can this study be used to predict the behavior of other materials?",
         "translated_problem": "这项研究可以用来预测其他材料的行为吗？",
         "r1": {
-            "category": "SUBJECTIVE",
-            "reason": "依据标准1.1，该问题询问的是特定研究的适用范围判断，属于需要科学验证的开放性观点问题，无唯一客观答案。"
+            "category": "REASONING",
+            "reason": "该问题要求评估研究结论的可推广性，需要分析该研究的具体对象和实验设计是否支持对其他材料的预测，涉及信息推断和应用。"
         },
         "4o": {
             "category": "SUBJECTIVE",
-            "reason": "依据标准1.1，该问题涉及对研究适用性的看法，并没有唯一的、可客观验证的正确答案。"
+            "reason": "该问题涉及对研究适用性的评估，这是一种开放性问题，因为答案依赖于研究范围、个人判断以及未来研究的可能性。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题需要从已知研究内容（针对Sr2RuO4的磁能景观及应变影响的具体研究）中推断出未明确说明的结论（是否可预测其他材料行为），涉及对信息的分析和推断。"
+            "reason": "该问题需要根据研究内容（专注于Sr2RuO4的磁能景观及应变影响）分析其结论的推广性，涉及对研究范围和结论适用性的推断。"
         }
     },
     "e900e49176afc3379235f5d9a56355a2": {
@@ -2276,15 +2276,15 @@
         "translated_problem": "在Cu$_{1.18}$Mn$_{0.82}$As和CuMn$_{0.964}$As$_{1.036}$中发现了哪些转变？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从上下文中提取具体实验结果，属于检索型知识问题。"
+            "reason": "答案可直接从上下文中的实验发现部分提取，无需多步推理。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，描述了两个明确的物理转变及其特性。"
+            "reason": "问题的答案是明确的客观事实，可以直接从上下文中提取，涉及两个明确标记的转变及其特征。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取在Cu₁.₁₈Mn₀.₈₂As和CuMn₀.₉₆₄As₁.₀₃₆中识别出的转变类型，答案可直接从上下文中提取得出。"
+            "reason": "问题询问的是在特定材料中识别出的转变类型，答案可以直接从上下文中提取，属于客观事实且无需多步逻辑推理。"
         }
     },
     "58aae562b2ec7785fe554440afc3bf17": {
@@ -2292,15 +2292,15 @@
         "translated_problem": "什么是WOT-RSH泛函，它与$G_0W_0$计算中的其他泛函相比如何？",
         "r1": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求比较WOT-SRSH泛函与其他$G_0W_0$计算中使用的泛函的异同和优劣，涉及分析比较过程。"
+            "reason": "该问题要求解释WOT-SRSH泛函的功能，并与其他泛函在计算精度和准确性方面进行比较，涉及多步骤的信息分析和综合判断。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求比较WOT-SRSH功能与其他功能在$G_0W_0$计算中的表现，涉及对多个方法的优劣分析和比较。"
+            "reason": "该问题要求对WOT-SRSH功能与其他功能在$G_0W_0$计算中的性能进行比较，涉及分析、比较和归纳信息。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求比较WOT-SRSH functional与其他functionals在G₀W₀计算中的情况，涉及对不同功能的分析和比较。"
+            "reason": "该问题不仅要求解释WOT-SRSH功能的定义，还要求比较其与其他功能在G₀W₀计算中的表现，需要对上下文中的精度、准确性等信息进行分析和比较才能得出结论。"
         }
     },
     "ae857c74464b35ade9a052d33ee8d3f9": {
@@ -2308,15 +2308,15 @@
         "translated_problem": "在将他们的简化理论与实验进行比较时，他们观察到了什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，无需推理或分析。"
+            "reason": "答案可直接从上下文中的陈述'Compared with our simplified theory, we observed an accelerated evolution of interference fringes in time-domain.'提取，属于客观事实。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，即‘他们观察到的现象是干涉条纹在时间域中的加速演化’。"
+            "reason": "该问题的答案是一个客观事实，可以直接从上下文中提取而无需进一步推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（上下文中明确提到'Compared with our simplified theory, we observed an accelerated evolution of interference fringes in time-domain'），属于检索型知识问题。"
+            "reason": "问题询问在比较简化理论与实验时观察到的结果，答案可直接从上下文中提取‘observed an accelerated evolution of interference fringes in time-domain’这一客观事实，无需多步推理。"
         }
     },
     "d6a06c4df9416191148d099d9d87b647": {
@@ -2324,15 +2324,15 @@
         "translated_problem": "无参考的XRF分析用于什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从上下文中提取，涉及对特定技术应用场景的明确描述。"
+            "reason": "答案可直接从上下文中提取，明确指出reference-free XRF分析的具体用途是验证物理模型的可靠性，属于客观事实。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，描述了reference-free XRF analysis的具体用途。"
+            "reason": "该问题的答案是一个客观事实，可以直接从提供的上下文中提取得出，无需复杂的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取‘无参考XRF分析的用途’这一事实性答案，答案可直接从上下文‘We use reference-free XRF analysis to validate the reliability of the physical model for secondary fluorescence, which includes a thorough uncertainty estimation’中提取得出。"
+            "reason": "问题询问无参考XRF分析的用途，其答案可直接从上下文中提取（验证二次荧光物理模型的可靠性并包含不确定性估计），属于无需多步推理的客观事实。"
         }
     },
     "7206b5e3b4a201b0ce90ee3c348ca14f": {
@@ -2340,15 +2340,15 @@
         "translated_problem": "相干隧穿破坏现象是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取或概括得出，属于对特定量子力学现象定义的客观解释。"
+            "reason": "该问题询问特定物理现象的定义，答案可直接从上下文中提取事实性描述，无需推理或主观判断。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取或概括出一个定义性的知识点，即‘coherent tunneling destruction’的现象含义。"
+            "reason": "问题的答案是一个具体的定义，可以通过上下文直接提取，无需复杂的推理过程。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取“相干隧穿破坏”现象的定义，答案可直接从上下文中概括得出。"
+            "reason": "该问题询问“相干隧穿破坏”现象的定义，答案可以直接从提供的上下文中提取并整合得出，属于可客观验证的事实性知识点。"
         }
     },
     "bf85334e47733c61ff89bf100d06959f": {
@@ -2356,15 +2356,15 @@
         "translated_problem": "哪些因素控制着载体的浓度？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，明确指出载流子浓度由门电压和平面内电场控制。"
+            "reason": "答案可以直接从上下文中提取，明确指出载流子浓度由栅极电压和平面内电场控制。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，具体为载流子浓度由门电压和面内电场控制。"
+            "reason": "问题的答案可以直接从上下文中提取，属于客观事实，不需要进一步的推理或信息处理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（上下文中明确提到‘concentrations, which are controlled by gate voltage and in-plane electric field’），属于检索型知识问题。"
+            "reason": "问题询问控制载流子浓度的因素，答案可以直接从上下文中提取（由栅极电压和平面内电场控制），属于可通过查找获得的客观事实。"
         }
     },
     "de44161ce83997b09151ea9d52976273": {
@@ -2372,31 +2372,31 @@
         "translated_problem": "模式分解学习如何节省培训成本？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从上下文中提取，涉及对模式分解学习节省训练成本机制的直接概括。"
+            "reason": "答案可直接从上下文中提取，明确说明mode decomposition learning通过解释权重矩阵的潜在模式层次来节省训练成本，属于客观事实。"
         },
         "4o": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，属于检索型知识问题。"
+            "category": "REASONING",
+            "reason": "该问题需要分析上下文中关于模式分解学习的机制，并从中归纳出其如何节省训练成本的结论，涉及信息的处理和推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（通过将深度神经网络的权重矩阵解释为潜在模式的层次结构来节省训练成本），属于检索型知识问题。"
+            "reason": "问题询问模式分解学习如何节省训练成本，答案可直接从上下文中提取（通过将深度神经网络的权重矩阵解释为潜在模式的层次结构），属于可客观验证的事实性信息。"
         }
     },
     "9ea5c2fa9e7c34c25b46d5fff3fe8efd": {
         "raw_problem": "What does the following code do? for i in range(len(graphene)): print(graphene[i])",
         "translated_problem": "以下代码的作用是什么？对于范围内的i（len（石墨烯））：打印（石墨烯[i]）",
         "r1": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从给定的代码片段中直接提取其功能描述，属于对代码行为的直接解释。"
+            "category": "REASONING",
+            "reason": "该问题需要分析代码的结构和执行逻辑，涉及对循环和列表索引操作的理解与解释，属于信息处理和应用。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求直接从代码内容中提取其功能描述，并不需要额外的逻辑推理。"
+            "reason": "该问题要求对代码的功能进行解释，答案是对代码行为的直接描述，不需要复杂的逻辑推理。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题需要应用对for循环、range函数、列表索引及print语句的理解，分析代码各部分的作用并推断出整体功能，属于应用知识点解决新问题。"
+            "reason": "该问题需要分析代码的结构（遍历列表索引、通过索引访问元素、打印操作）并综合各部分功能，得出代码整体作用的结论，涉及对信息的处理和分析。"
         }
     },
     "5984253f115cd47929df5889d24f307a": {
@@ -2404,15 +2404,15 @@
         "translated_problem": "通过修改底层拓扑结构，可以调整2D链式DNA网络的弹性特性吗？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从提供的上下文中提取，明确指出了研究结论。"
+            "reason": "参考答案直接引用了上下文中明确陈述的研究结论（'provides a route to tune...'），属于通过查找上下文即可获得的客观事实性答案。"
         },
         "4o": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取得出，属于基于上下文的客观事实性问题。"
+            "category": "REASONING",
+            "reason": "该问题需要结合上下文中的研究结论，分析分子拓扑对弹性性质的影响，涉及对信息的处理和推断。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，上下文明确指出‘This study provides a route to tune the elastic properties of 2D catenated DNA networks by modifying the underlying topology...’，属于通过检索上下文直接得出的客观事实。"
+            "reason": "该问题询问2D链状DNA网络的弹性性质是否可通过修改基础拓扑结构调节，参考答案直接从上下文中提取研究结论‘this study provides a route to tune...’，属于可通过上下文直接获取的客观事实。"
         }
     },
     "0fdd004357f23e02ce28b9ccf4556665": {
@@ -2420,15 +2420,15 @@
         "translated_problem": "纠正以下句子中的语法：活化能是反应发生所需的最小能量，受温度和催化剂等因素的影响。",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题涉及判断句子的语法正确性，这依赖于对公认语法规则的记忆和应用。"
+            "reason": "该问题验证特定句子的语法正确性，参考答案直接给出客观判断，属于无需推理的事实确认。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求检查并确认句子的语法正确性，这是一个直接的检索任务，不需要复杂的推理。"
+            "reason": "该问题要求验证句子的语法正确性，这是一个客观事实判断，不涉及推理或主观性。"
         },
         "doubao": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求判断句子的语法正确性，答案基于普遍接受的语法规则这一事实性知识点，无需多步推理。"
+            "category": "REASONING",
+            "reason": "该问题要求纠正句子的语法错误，需要应用语法规则对句子结构进行分析和验证，属于对信息的处理和应用。"
         }
     },
     "0f0808a780a6ed86a0b49df44f5d8d88": {
@@ -2436,15 +2436,15 @@
         "translated_problem": "在多粒子系统中，通过扭曲边界条件定义的拓扑不变量与质心动量状态之间的关系是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，明确说明了两种方法在Berry相位和Chern数上的等价关系。"
+            "reason": "该问题的答案直接对应于上下文中明确提出的研究成果，属于通过查找即可获得的客观事实。"
         },
         "4o": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，属于客观事实的检索型知识问题。"
+            "category": "REASONING",
+            "reason": "该问题要求分析拓扑不变量与中心质心动量状态之间的关系，需要对提供的上下文进行理解并推理两者之间的等价性。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求获取拓扑不变量（通过扭曲边界条件定义）与多粒子系统中质心动量态的关系，其答案可直接从提供的上下文中提取得出。"
+            "reason": "该问题的答案是上下文中明确陈述的客观事实（Berry相位通过TBC定义与质心动量态多粒子Wilson回路的等价性及Chern数的等价性），可直接从上下文中提取获得。"
         }
     },
     "b45ac7a7f7ca7bddc629a12e49dd9626": {
@@ -2452,15 +2452,15 @@
         "translated_problem": "研究高度可变形颗粒物质有哪些挑战？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从上下文中提取，无需多步推理。"
+            "reason": "答案直接引用了上下文中明确列举的三个挑战，属于通过查找上下文即可获得的客观事实。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，并且是一个客观的事实性总结。"
+            "reason": "该问题的答案可以直接从上下文中提取，属于客观事实性知识，无需进行复杂推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问研究高可变形颗粒物质的挑战，其答案可以直接从提供的上下文中提取得出。"
+            "reason": "问题询问研究高可变形颗粒物质的挑战，参考答案直接从上下文中提取了明确列出的具体挑战内容，属于可客观验证的事实性信息，无需多步逻辑推理。"
         }
     },
     "b4ac897402ec7ae5985fe3d9e27ca870": {
@@ -2468,15 +2468,15 @@
         "translated_problem": "在具有分裂栅极p-n结的石墨烯双层中，电诱导带隙对THz检测有何影响？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，明确指出电致带隙对THz检测的具体影响。"
+            "reason": "答案可以直接从提供的上下文中提取，明确说明了电场诱导带隙对THz检测的具体影响，属于客观事实。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取或概括得出，属于检索型知识问题。"
+            "reason": "问题的答案是一个可以直接从上下文中提取的客观事实，无需复杂的推理过程。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（上下文中明确提到‘gap induction leads to simultaneous increase in current and voltage responsivities’），属于检索型知识问题。"
+            "reason": "该问题的答案是关于电诱导带隙对双层石墨烯太赫兹检测影响的客观事实，且可以直接从提供的上下文中提取得出，无需多步逻辑推理。"
         }
     },
     "ea0cef1d47745b01ba03f075ddce1962": {
@@ -2484,31 +2484,31 @@
         "translated_problem": "为低O/Ti比形成的缓冲层是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取关于低O/Ti比率下形成的缓冲层的具体描述。"
+            "reason": "答案可以直接从提供的上下文中提取，明确指出在低O/Ti比例下形成的缓冲层结构。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，是一个客观的事实性知识点。"
+            "reason": "问题的答案是一个明确的客观事实，可以直接从上下文中提取得出，无需进一步推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，属于通过查找获得的客观事实。"
+            "reason": "该问题询问低O/Ti比下形成的缓冲层类型，答案可直接从上下文中提取（'A cubic c-TiO_{1±δ} buffer layer is formed for low O/Ti ratios'），属于无需多步推理的客观事实。"
         }
     },
     "aa5fbb894e3f26f11a0f96c056e63b42": {
         "raw_problem": "What is the significance of the fractal symmetries in the Pascal's triangle model?",
         "translated_problem": "帕斯卡三角模型中分形对称性的意义是什么？",
         "r1": {
-            "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求应用关于分形对称性的知识来推断其在模型行为中的重要性，涉及对信息的分析和综合。"
+            "category": "KNOWLEDGE",
+            "reason": "答案直接从上下文中提取了分形对称性的存在及其在多临界点的具体表现，属于客观事实的陈述。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求分析Pascal三角模型中分形对称性的意义，涉及对模型行为及其后代模型的因果关系和特性进行深入分析。"
+            "reason": "该问题要求分析和理解Pascal's三角形模型中分形对称性的意义，这需要对上下文信息进行综合处理和推理。"
         },
         "doubao": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求获取帕斯卡三角模型中分形对称性的意义，其答案可直接从提供的上下文中提取关键信息（如无限分形对称性的存在、多临界点的幂律衰减特性及其对衍生模型的影响）并概括得出。"
+            "category": "REASONING",
+            "reason": "该问题要求分析分形对称性在帕斯卡三角模型中的重要性，需要结合上下文中的信息（如无限分形对称性、子模型特性、多临界点幂律衰减等）进行归纳和分析，以得出其对模型行为的意义。"
         }
     },
     "a3f7be680beb1968780b00add51ef899": {
@@ -2516,15 +2516,15 @@
         "translated_problem": "什么是化疗？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆一个普遍接受的医学概念定义，属于事实性知识的直接提取。"
+            "reason": "该问题询问化疗的定义和治疗原理，答案是基于客观医学知识的标准化解释，无需推理即可通过查找获得。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆一个普遍接受的事实性知识点，即化疗的定义和基本原理。"
+            "reason": "该问题要求定义化疗的概念和基本作用，答案为客观事实且无需复杂推理即可得出。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求解释“化疗”的定义，答案是一个普遍接受的事实性知识点，不需要上下文即可回答。"
+            "reason": "该问题询问化疗的定义，参考答案提供了客观的事实性描述，属于可通过查找或回忆获得的普遍接受的知识点。"
         }
     },
     "faaa479b93d963fca09fe871a328b859": {
@@ -2532,31 +2532,31 @@
         "translated_problem": "在三维空间中达到腐蚀性形成阈值的最可能方法是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，属于检索型知识问题。"
+            "reason": "该问题的答案可以直接从上下文中提取，明确指出了'optimal fluctuation'这一客观存在的机制作为答案。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求从给定的上下文中推断出一种特定的机制（即通过‘最优波动’达到阈值），需要理解并应用文中提到的动态原理和相关机制。"
+            "reason": "该问题需要结合上下文中的信息，分析和推断三维情况下达到临界条件的最可能机制，属于推理型问题。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取得出，即“最可能的方式是通过一个在相似变换下唯一的‘最优波动’沿Vieillefosse线传播”。"
+            "reason": "该问题的答案可以直接从提供的上下文中提取，即‘最可能达到阈值的方式是通过唯一的（在相似变换下）“最优涨落”沿Vieillefosse线传播’，属于无需多步逻辑推理的客观事实提取。"
         }
     },
     "8157a1c449ab035991d15d8f382f1485": {
         "raw_problem": "Analyze the sentiment of a review for a smart fabric that can change color.",
         "translated_problem": "分析评论对可以改变颜色的智能织物的看法。",
         "r1": {
-            "category": "SUBJECTIVE",
-            "reason": "依据标准1.1，该问题要求分析评论中的主观情感倾向，属于对观点或看法的判断，答案会因文本解读差异而具有主观性。"
+            "category": "REASONING",
+            "reason": "该问题要求对评论文本的情感进行分析，涉及对多维度信息（积极评价、缺点指出）的处理、权衡和综合判断。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求对评论的情感进行分析，涉及对信息的比较和归纳（如优点和缺点的分析）。"
+            "reason": "该问题要求对评论内容进行情感分析，需要对信息进行处理和归纳以得出结论。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求分析评论的情感倾向，需要处理评论中的正面（赞扬变色能力和耐用性）与负面（清洁困难、不适合所有衣物）信息并综合判断，属于对信息的分析。"
+            "reason": "该问题要求分析评论的情感倾向，需要从评论内容中识别积极和消极元素并综合判断，涉及对信息的分析和处理。"
         }
     },
     "8ad0fa48f4c428f41a417d2590a737aa": {
@@ -2564,15 +2564,15 @@
         "translated_problem": "为非对称量子奥托发动机循环选择的工作物质是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，明确指出工作物质是谐振子或两能级系统。"
+            "reason": "答案可直接从上下文中提取，明确指出工作物质是谐振子或二能级系统，属于事实性知识点。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，即工作物质是谐振子或两能级系统。"
+            "reason": "问题的答案是一个客观事实，可以直接从上下文中提取，无需进行复杂推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（上下文中明确提到'working substance chosen as a harmonic oscillator or a two-level system'），属于检索型知识问题。"
+            "reason": "问题询问非对称量子奥托引擎循环中选择的工作物质，答案可直接从上下文中提取（'working substance chosen as a harmonic oscillator or a two-level system'），属于无需推理的客观事实。"
         }
     },
     "e96365d381ccbdd3de6d8ae97d5649ad": {
@@ -2580,15 +2580,15 @@
         "translated_problem": "解释抗体的功能。",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆抗体的功能这一公认的生物学知识点，答案可直接通过记忆或查找获得。"
+            "reason": "该问题询问抗体的功能，答案是基于生物学中普遍接受的事实性知识，无需多步推理即可回答。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆并描述抗体的功能，这是一个普遍接受的事实性知识点。"
+            "reason": "该问题的答案是一个客观事实，直接描述了抗体的功能，无需进行复杂的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求解释抗体的功能，答案是一个普遍接受的、事实性的知识点（免疫系统蛋白质的作用机制），不需要上下文即可回答。"
+            "reason": "该问题要求解释抗体的功能，参考答案提供的是关于抗体功能的普遍接受的事实性知识点，可通过简单回忆或查找获得，无需多步逻辑推理。"
         }
     },
     "b2620babd15f4a0aa06d6701bcedc1d8": {
@@ -2596,15 +2596,15 @@
         "translated_problem": "使用新代码可以研究的最大系统是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，无需推理或分析。"
+            "reason": "答案可直接从上下文中提取，明确指出新代码可以研究比之前大一个数量级的系统。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，描述的是新代码能处理的最大系统规模。"
+            "reason": "该问题的答案是一个客观事实，可以直接从上下文中提取，无需进行复杂的推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（“新代码允许研究比以前大一个数量级的系统”），属于检索型问题。"
+            "reason": "问题询问新代码能研究的最大系统，答案可直接从上下文中提取事实信息‘新代码允许研究比以前大一个数量级的系统’，无需多步逻辑推理。"
         }
     },
     "ebda00939adc6c816408d14b8427c774": {
@@ -2612,15 +2612,15 @@
         "translated_problem": "对称性在结果中起什么作用？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，无需推理或分析。"
+            "reason": "答案可以直接从提供的上下文中提取，上下文明确提到讨论了不同对称性在结果中的作用。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，明确指出了不同对称性在结果中的作用被讨论。"
+            "reason": "问题直接询问对称性在结果中的作用，而答案可以从上下文中直接提取，无需复杂推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（上下文明确提到‘The role of the different symmetries in our results is also discussed’），属于检索型知识问题。"
+            "reason": "问题询问对称性在结果中的作用，参考答案直接从上下文中提取了‘不同对称性的作用也被讨论’这一客观事实，无需多步推理或主观判断。"
         }
     },
     "befb81be3d0dfd1dfd9e2e2542c06e15": {
@@ -2628,15 +2628,15 @@
         "translated_problem": "探测粒子的两种主要方法是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从上下文中的实验方法描述部分提取，属于检索型知识问题。"
+            "reason": "答案可直接从提供的上下文中提取，明确对应问题询问的两种主要探测方法。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，描述了用于探测粒子的两种主要方法。"
+            "reason": "该问题的答案是直接从上下文中提取的客观事实，不需要复杂的推理或信息处理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（上下文中明确提到‘probed using two main methods’并分别描述了两种方法），属于检索型知识问题。"
+            "reason": "该问题询问探测粒子的两种主要方法，答案可以直接从上下文中提取（‘probed using two main methods. Firstly,...Secondly,...’），属于可客观验证的事实性信息，无需多步逻辑推理。"
         }
     },
     "17aa0c691aee01adffc51507723afe52": {
@@ -2644,15 +2644,15 @@
         "translated_problem": "在有限的实验时间内有效利用初步数据在成功进行测量中的作用是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题可以直接从提供的上下文中提取答案，文中明确说明有效利用初步数据在有限实验时间内的关键作用。"
+            "reason": "该问题的答案可以直接从上下文中提取，特别是上下文明确指出了高效利用初步数据的具体作用，如快速模拟实验、辅助决策实验条件等。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，明确指出了高效利用初步数据在有限实验时间内成功测量中的关键作用。"
+            "reason": "问题的答案可以直接从上下文中提取，是一个客观事实，无需推理或主观判断。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取得出，属于检索型知识问题。"
+            "reason": "问题询问有效利用初步数据在有限实验时间内进行成功测量的作用，其答案可直接从上下文中提取（'plays a crucial role'），属于可通过查找获得的客观事实。"
         }
     },
     "32ac51ac7ac9f3100f78be14d60605ee": {
@@ -2660,15 +2660,15 @@
         "translated_problem": "研究中使用的不同巯基分子连接体是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，明确列出了研究中使用的四种硫醇分子连接体。"
+            "reason": "答案明确列举了研究中使用的四种硫醇分子连接体名称，这些信息可以直接从上下文中提取。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从上下文中直接提取关于研究中使用的硫醇分子连接剂的具体名称，这是一个可直接检索的信息。"
+            "reason": "该问题的答案是一个明确的事实列表，可以直接从提供的上下文中提取，无需复杂的推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取研究中使用的不同硫醇分子连接体，答案可以直接从上下文中概括得出。"
+            "reason": "该问题询问研究中使用的不同硫醇分子连接体，其答案可直接从上下文中提取具体名称，属于可客观验证的事实性信息，无需多步推理。"
         }
     },
     "c41fd9e8968f0c92a591c84df67b37c9": {
@@ -2676,15 +2676,15 @@
         "translated_problem": "什么是具有两个平行磁场的复曲面代码模型？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，具体描述了该模型作为示例的用途及其相关推导结果。"
+            "reason": "该问题询问的是特定模型的定义或解释，答案可以直接从上下文中提取（如该模型作为示例的用途和其导出的具体模型）。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取或概括得出，描述了特定模型及其相关概念。"
+            "reason": "问题要求对特定模型（toric code model with two parallel magnetic fields）进行描述，其答案是基于上下文中明确提供的客观知识点。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取并概括得出，上下文明确说明了‘使用具有两个平行磁场的toric code模型作为例子来解释这些想法并导出三维Z2格点规范-希格斯模型的配分函数’。"
+            "reason": "问题询问的是‘带有两个平行磁场的toric code模型’的定义或作用，参考答案直接从上下文中提取了该模型作为示例解释RK波函数框架和热场双重态，并推导三维Z₂格点规范-Higgs模型配分函数的事实信息，属于可通过查找上下文获得的客观事实。"
         }
     },
     "f4bcdfb64dd41fe92656b7a727e6740a": {
@@ -2692,15 +2692,15 @@
         "translated_problem": "这项研究的目的是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从提供的上下文中提取，明确指出了研究的目的是发展基于角动量交换的拉曼散射微观理论。"
+            "reason": "答案可以直接从上下文中提取，明确指出研究的目的是发展关于拉曼散射的微观理论。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，属于检索型知识问题。"
+            "reason": "该问题的答案可以直接从上下文中提取，是一个明确的、客观的事实性知识点。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问研究的目的，答案可以直接从提供的上下文中提取得出（如“develop a microscopic theory of Raman scattering for the ROC in MHP based on...”）。"
+            "reason": "问题询问研究的目的，答案可直接从上下文中提取（‘develop a microscopic theory of Raman scattering for the rotational organic cation (ROC) in the inorganic framework of the metal halide perovskites (MHP) based on the angular momentum of a ROC exchanging with that of the photon and phonon’），属于通过简单查找即可获得的客观事实。"
         }
     },
     "2e2541fddfcf0dfd09c34917f67f8503": {
@@ -2708,15 +2708,15 @@
         "translated_problem": "有什么证据表明磁极化子在Eu$_{5}$in$_{2}$Sb$_{6}$中的尺寸小于T'？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取关于磁极化子尺寸变化的实验证据，答案内容完全基于文本中的描述。"
+            "reason": "答案直接从上下文中提取了关于ESR线宽变化和线条形状变化的实验观察结果，这些是客观存在的事实证据，无需进一步推理即可得出。"
         },
         "4o": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取或概括得出，无需进一步推理。"
+            "category": "REASONING",
+            "reason": "该问题要求结合上下文中提供的多个实验观察结果（如线宽变化和温度相关性）进行分析和综合推理，以得出磁极化子在 T' 以下增长的证据。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问的证据可直接从提供的上下文中提取（Eu²⁺ ESR线宽的减小和线形在T'以下的显著变化），属于通过查找上下文获得的客观事实。"
+            "reason": "问题询问的是Eu₅In₂Sb₆中磁性极化子在T'以下尺寸增大的证据，答案可直接从上下文中提取具体的观察事实（Eu²⁺ ESR线宽的减小和线形变化），属于通过查找获得的客观事实。"
         }
     },
     "5a313ba24e559e75f716be24e77bce5f": {
@@ -2724,15 +2724,15 @@
         "translated_problem": "间隙函数零点的拓扑解释是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题可以直接从提供的上下文中提取关于能隙函数零点的拓扑解释，无需多步推理。"
+            "reason": "答案可以直接从上下文中提取，明确指出零点对应于动态涡旋的拓扑解释，属于客观事实。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求从上下文中的物理理论推断出零点的拓扑解释，这涉及对已知信息的分析与推断。"
+            "reason": "该问题需要结合上下文中关于超导性和间隙函数的理论背景信息，分析和推导其零点的拓扑意义，涉及推理和信息处理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（上下文中明确提到‘These zeros of Δ(ωₘ) have a topological interpretation in terms of dynamical vortices’），属于检索型知识问题。"
+            "reason": "该问题询问能隙函数零点的拓扑解释，其答案可直接从上下文中提取（'These zeros of Δ(ωₘ) have a topological interpretation in terms of dynamical vortices'），属于可通过查找获得的客观事实。"
         }
     },
     "51d8e704903508eca92bb51e6e21610b": {
@@ -2740,15 +2740,15 @@
         "translated_problem": "测量热导率平均自由程累积函数的方法是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，文中明确提到使用了瞬态光栅光谱法进行测量。"
+            "reason": "答案可以直接从上下文中提取，具体提到使用瞬态光栅光谱法（transient grating spectroscopy）进行测量，属于客观事实的查找。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，这是一个客观的检索型知识问题。"
+            "reason": "问题的答案是一个具体的、可验证的事实，可以直接从上下文中提取，无需进一步推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问的测量方法可以直接从提供的上下文中提取（“using transient grating spectroscopy”），属于通过查找上下文获得的客观事实。"
+            "reason": "问题询问测量热导率平均自由程累积函数的方法，其答案可直接从上下文中提取（'using transient grating spectroscopy'），属于通过简单查找即可获得的客观事实。"
         }
     },
     "024683f26aa5cc000747249b40dc2fdd": {
@@ -2756,15 +2756,15 @@
         "translated_problem": "分析文章中关于将核能用作能源的观点。",
         "r1": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求应用文本分析技能从文章中推断未明确说明的情感倾向，涉及对信息的综合处理与推断。"
+            "reason": "该问题要求对文章中的观点进行情感分析，需要综合处理、比较不同信息点的倾向性并进行归纳判断。"
         },
         "4o": {
-            "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求对文章的情感进行分析和总结，涉及对信息的比较和归纳。"
+            "category": "SUBJECTIVE",
+            "reason": "问题涉及分析文章情感，这是一种主观性任务，答案可能因分析者的视角和关注点不同而有所差异。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求分析文章关于核能作为能源使用的情感倾向，需要对文章中涉及的信息（如核能的潜力与风险）进行分析并得出结论。"
+            "reason": "该问题要求分析文章对核能作为能源使用的情感倾向，需要理解并综合文章中的信息（如低碳排放的潜力和核事故、核废料的风险）进行归纳和判断，属于对信息的处理和分析过程。"
         }
     },
     "7f23479d58832168ca249de84b279461": {
@@ -2772,15 +2772,15 @@
         "translated_problem": "形状记忆合金为什么有用？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆形状记忆合金的公认特性及其应用场景，属于事实性知识点。"
+            "reason": "该问题的答案直接陈述了形状记忆合金的基本特性及其应用领域，属于无需推理的客观事实性知识。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求分析形状记忆合金的特性并推断其在实际应用中的用途，涉及知识的应用和推断。"
+            "reason": "该问题要求解释形状记忆合金的用途，需要分析其特性并将其与实际应用相关联，涉及因果分析和信息的应用。"
         },
         "doubao": {
-            "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求应用形状记忆合金的特性（变形后恢复原始形状）这一知识点来解释其有用性，属于通过已知信息推断其应用价值的推理过程。"
+            "category": "KNOWLEDGE",
+            "reason": "该问题询问形状记忆合金有用的原因，参考答案提供了基于其形状恢复特性及应用领域的客观事实性解释，可通过回忆或查找普遍接受的知识点获得，无需多步逻辑推理。"
         }
     },
     "637bc86fd75e3b39fae477e7d1521f17": {
@@ -2788,15 +2788,15 @@
         "translated_problem": "周期性驱动的扩展Su-Schrieffer-Heeger模型能否通过实验实现？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，明确指出该模型可通过光晶格中的脉冲序列方案实验实现。"
+            "reason": "答案可以直接从提供的上下文中提取，明确说明该模型可通过光学晶格中的脉冲序列方案实验实现。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，表明该模型可以通过光学晶格设置中的脉冲序列方案实现。"
+            "reason": "问题的答案是一个明确的事实，并且可以直接从上下文中提取，无需进一步的推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取（“This system can be experimentally realized through a pulse sequence scheme in the optical lattice setup”），属于检索型知识问题。"
+            "reason": "该问题的答案可以直接从上下文中提取（“This system can be experimentally realized through a pulse sequence scheme in the optical lattice setup”），属于可通过查找获得的客观事实。"
         }
     },
     "f2682f7453f4b21ef7b82c4c35e89dcb": {
@@ -2804,15 +2804,15 @@
         "translated_problem": "本文考虑的两种限制情况是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接检索论文讨论的两个极限情况，答案内容明确存在于原文中。"
+            "reason": "答案可直接从提供的上下文中提取，明确指出了论文中讨论的两个极限情况的具体内容。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，描述了论文中讨论的两个极限情况。"
+            "reason": "问题要求识别论文中明确提到的两个极限情况，答案可以直接从上下文中提取，属于客观事实性知识。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取论文中考虑的两个极限情况，答案可以直接从上下文内容中概括得出。"
+            "reason": "该问题要求获取论文中提到的两个极限情况，答案可直接从上下文中提取具体的客观事实（Brownian环境和Anderson-Kubo型光谱），无需多步推理。"
         }
     },
     "2b2b357fd972a2458954167db59dd01b": {
@@ -2820,15 +2820,15 @@
         "translated_problem": "提取电池中电压和电流之间的关系。",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆一个普遍接受的物理定律（欧姆定律），属于事实性知识检索。"
+            "reason": "该问题的答案直接基于欧姆定律这一普遍接受的事实性知识，属于可以通过简单回忆或查找获得的客观信息。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆一个普遍接受的物理定律（欧姆定律），无需多步逻辑推理即可回答。"
+            "reason": "该问题的答案是基于已知的物理定律（欧姆定律），属于一个普遍接受的事实性知识点，无需复杂的推理过程。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆电压与电流关系这一普遍接受的事实性知识点（欧姆定律），无需多步逻辑推理。"
+            "reason": "该问题要求提取电池中电压与电流的关系，其答案是基于欧姆定律的客观事实，可以通过回忆或查找普遍接受的知识点直接得出。"
         }
     },
     "49afe8b101e173e894f988b1d226ecbe": {
@@ -2836,15 +2836,15 @@
         "translated_problem": "你是一名编辑，正在撰写一份关于量子计算的研究提案。为了语法和清晰度，需要对提案进行编辑。该提案包括技术术语和先进的科学语言。",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，参考答案的内容直接概括了上下文描述的提案编辑结果，属于从给定信息中提取的客观事实。"
+            "reason": "该问题涉及对研究提案的语法和清晰度进行编辑，属于直接应用语言规范和技术写作准则的客观操作。"
         },
         "4o": {
             "category": "SUBJECTIVE",
-            "reason": "依据标准1.1，该问题涉及编辑提案的任务，这种任务具有主观性，因为编辑过程对语言的清晰度和风格的判断因人而异，没有唯一正确答案。"
+            "reason": "该问题涉及对研究提案的编辑和改进，这是一项开放性任务，编辑的方式和重点会因个人判断而异，且没有唯一正确的答案。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求应用编辑语法和清晰度的知识点来处理包含技术术语的研究提案，属于通过应用知识解决新问题的推理过程。"
+            "reason": "问题要求对包含技术术语和高级科学语言的研究提案进行语法和清晰度编辑，需要分析原文内容并应用语法规则和表达优化技巧进行处理，属于对信息的分析和应用过程。"
         }
     },
     "a7e3eab67522f489b41bf9dad0ad5e57": {
@@ -2852,15 +2852,15 @@
         "translated_problem": "研究中发现的非线性流态是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取关于非线性流动状态的具体研究发现，答案明确存在于文本描述中。"
+            "reason": "该问题的答案可以直接从提供的上下文中提取，具体指向研究中发现的具体非线性流动状态，属于客观事实的查找。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，属于检索型问题。"
+            "reason": "问题要求从上下文中直接提取研究中发现的非线性流动状态，答案是明确的客观事实，无需额外推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取研究中发现的非线流流动状态，答案可直接从上下文中提取得出。"
+            "reason": "该问题要求获取研究中发现的非线性流动状态，答案可直接从上下文中提取具体信息（intra-cycle strain stiffening and plasticity），属于客观事实的查找。"
         }
     },
     "c6b0b1f0eff35992fcab8e25f2210219": {
@@ -2868,15 +2868,15 @@
         "translated_problem": "撰写一份关于热电材料在可再生能源系统中的潜在应用的报告。",
         "r1": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求综合热电材料特性与可再生能源系统的相关知识，推断并组织其潜在应用场景，涉及信息的应用与推断。"
+            "reason": "该问题要求对热电材料的应用场景进行系统性梳理，需要整合不同能源系统的知识并分析其适用性，涉及信息组织与知识应用。"
         },
         "4o": {
             "category": "SUBJECTIVE",
-            "reason": "依据标准1.2，该问题要求列举热电材料在可再生能源系统中的潜在应用，这是一个开放性问题，答案的范围和数量不固定。"
+            "reason": "该问题要求撰写一份报告，这是一种开放性任务，答案可以根据详略、组织方式和重点有所不同，没有唯一正确答案。"
         },
         "doubao": {
-            "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求应用热电材料的特性（如废热转换为电能）来推断其在可再生能源系统中的潜在应用，需要对信息进行分析和应用才能得出结论。"
+            "category": "SUBJECTIVE",
+            "reason": "该问题要求撰写关于热电材料在可再生能源系统中潜在应用的报告，涉及内容的详略、重点选择和组织方式存在多种可接受的答案，属于没有唯一客观验证正确答案的开放性问题。"
         }
     },
     "1c6c2ba0b2793151c12e2767ad0242b7": {
@@ -2884,15 +2884,15 @@
         "translated_problem": "这两个原则的实施引发了哪些涌现属性？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，不需要多步推理或主观判断。"
+            "reason": "答案直接引用上下文中明确列出的涌现属性列表，属于可直接提取的客观事实。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，属于检索型知识问题。"
+            "reason": "问题的答案可以直接从上下文中提取，属于客观事实性知识，无需推理或组织信息。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取由两个原则实施所引发的涌现属性，答案可直接从上下文内容中提取得出。"
+            "reason": "问题询问的是两个原则实施后诱导的涌现属性，答案可以直接从上下文中提取的客观事实得出，无需多步逻辑推理。"
         }
     },
     "e18faf813fda4430430f2c5f8a44e7ed": {
@@ -2900,15 +2900,15 @@
         "translated_problem": "F5GT的铁磁有序温度是多少？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，明确提到F5GT的铁磁有序温度约为315 K。"
+            "reason": "答案可直接从上下文中提取，明确提到F5GT的铁磁有序温度$T_{\\text{C}}$约为315 K。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，属于检索型知识问题。"
+            "reason": "该问题的答案是一个具体的、可客观验证的事实（F5GT的铁磁有序温度为约315 K），并且可以直接从提供的上下文中提取。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取F5GT的铁磁有序温度，答案可直接从上下文中获取。"
+            "reason": "该问题询问F5GT的铁磁有序温度，答案可直接从上下文中提取的客观事实（T_C ~ 315 K）得出，无需多步逻辑推理。"
         }
     },
     "94bb02789744c8218df685d0c51043af": {
@@ -2916,31 +2916,31 @@
         "translated_problem": "双层和三层石墨烯显示选择性的原因是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，具体解释了双层和三层石墨烯选择性的原因。"
+            "reason": "答案可直接从上下文中提取，明确指出了双层和三层石墨烯选择性产生的原因，属于事实性信息的直接引用。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，描述了双层和三层石墨烯选择性行为的原因。"
+            "reason": "答案直接从上下文中提取，描述了双层和三层石墨烯选择性的原因，这是一个客观事实，无需进行额外推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问的双层和三层石墨烯选择性的原因可直接从提供的上下文中提取（“due to the more significant water loss from the second hydration layer”），属于通过查找上下文获得的客观事实。"
+            "reason": "该问题询问双层层和三层层石墨烯表现出选择性的原因，其答案可直接从上下文中提取（由于第二层水合层的更显著失水），属于可客观验证的事实性信息，无需多步逻辑推理。"
         }
     },
     "caad02318b477e324c335f3a9f7615d6": {
         "raw_problem": "Write a brief essay on the history of semiconductor technology.",
         "translated_problem": "写一篇关于半导体技术历史的短文。",
         "r1": {
-            "category": "REASONING",
-            "reason": "依据标准3.1，该问题要求对半导体技术发展历程进行系统性组织，需要将历史事件按时间线归纳整理，属于信息组织类任务。"
+            "category": "SUBJECTIVE",
+            "reason": "该问题要求撰写概述半导体技术发展历程的短文，其答案在内容组织、详略取舍和表达方式上存在多种可能，没有唯一标准答案。"
         },
         "4o": {
             "category": "SUBJECTIVE",
-            "reason": "依据标准1.1，该问题要求撰写一篇简短的文章，这是一种开放性任务，答案没有唯一的正确形式。"
+            "reason": "该问题要求撰写一篇简短的文章，属于开放性问题，答案在详略、重点和组织方式上可以有多种形式。"
         },
         "doubao": {
-            "category": "REASONING",
-            "reason": "依据标准3.1，该问题要求对半导体技术的历史事件（如19世纪末的固态二极管发明、20世纪中期的晶体管和集成电路发明等）进行组织和排序，形成连贯的短文，涉及对信息的处理和组织。"
+            "category": "SUBJECTIVE",
+            "reason": "该问题要求撰写关于半导体技术历史的简短文章，属于总结或概述类问题，答案在详略、重点和组织方式上有多种可接受的表达方式，无唯一客观标准答案。"
         }
     },
     "c6a82ddccf7c63e2ec974428b6f9c17b": {
@@ -2948,31 +2948,31 @@
         "translated_problem": "所得公式可用于非步进初始条件下的TASEP吗？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题可直接从上下文中提取答案，确认公式仅适用于特定初始条件。"
+            "reason": "答案直接引用上下文中明确指出的研究结论，即该公式仅适用于阶跃初始条件，属于可验证的客观事实。"
         },
         "4o": {
-            "category": "REASONING",
-            "reason": "依据标准3.3，该问题需要应用已知的研究结果（关于TASEP的公式）并推断其适用性，从而得出结论。"
+            "category": "KNOWLEDGE",
+            "reason": "该问题的答案是基于上下文中明确提供的信息得出的客观事实，无需进一步的推理或信息处理。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题需要从上下文中已知的‘公式在阶跃初始条件下成立’这一信息，推断出其是否适用于非阶跃初始条件这一未明确说明的结论，涉及对信息的分析和应用。"
+            "reason": "该问题需要根据上下文中提到的‘概率公式在粒子初始位置满足阶跃初始条件时成立’这一信息，推断其是否适用于非阶跃初始条件，涉及对已知信息的分析和推断。"
         }
     },
     "6eb76bb96fd7538cce4715f275eb4399": {
         "raw_problem": "What is the difference between ergodic and nonergodic configurations?",
         "translated_problem": "遍历配置和非遍历配置之间有什么区别？",
         "r1": {
-            "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求比较ergodic和nonergodic配置在热化过程和最终状态上的差异，涉及对信息的分析和对比。"
+            "category": "KNOWLEDGE",
+            "reason": "答案直接提取自上下文对ergodic和nonergodic配置的定义和特征描述，属于客观事实的查找。"
         },
         "4o": {
-            "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求比较两个配置（ergodic和nonergodic）的异同，需要分析其特性和行为的差异。"
+            "category": "KNOWLEDGE",
+            "reason": "问题要求比较两个具体术语（ergodic 和 nonergodic configurations）的定义和特性，答案直接从上下文中提取即可，无需进一步推理。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求比较ergodic和nonergodic配置的差异，需要分析两者在弛豫行为和状态特征上的不同，属于比较/分析类推理。"
+            "reason": "该问题要求比较ergodic和nonergodic配置的差异，需要从上下文中提取两者的特征并进行分析比较，属于对信息的处理和分析。"
         }
     },
     "ee2fc65c7c3010203c4205bfcd67862c": {
@@ -2980,15 +2980,15 @@
         "translated_problem": "堵塞系统的有效导热系数的行为是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从上下文中提取，明确说明有效热导率遵循颗粒有效介质理论的预测行为。"
+            "reason": "答案可直接从上下文中提取，明确指出jammed系统的有效热导率遵循颗粒有效介质理论预测的行为。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取或概括得出，描述了受限系统的有效热导率行为。"
+            "reason": "该问题的答案是一个客观事实，可以直接从上下文中提取，无需进一步的推理或信息处理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取被卡住系统的有效热导率的行为，答案可直接从上下文中提取得出。"
+            "reason": "问题询问的是被卡住系统有效热导率的行为，其答案可直接从上下文中提取（遵循颗粒有效介质理论预测的行为），属于可通过查找获得的客观事实。"
         }
     },
     "ee42aabd4621496a03aa0666dea2fdf6": {
@@ -2996,15 +2996,15 @@
         "translated_problem": "你能解释一下自愈混凝土材料是如何工作的吗？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求解释自修复混凝土材料的工作原理，其答案是基于公认的科学事实和技术描述，无需多步推理即可回答。"
+            "reason": "该问题询问自修复混凝土材料的工作原理，参考答案提供了该技术的客观事实性描述，可直接从材料科学知识中提取。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆和描述一个普遍接受的、事实性的技术工作原理，不需要复杂的推理。"
+            "reason": "该问题的答案是基于已知的客观事实，对自愈混凝土材料的工作原理进行描述，无需复杂的逻辑推理即可回答。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求解释自修复混凝土材料的工作原理，答案是一个普遍接受的、事实性的知识点（具体描述了修复剂胶囊破裂、释放、反应修复的过程），不需要上下文即可回答。"
+            "reason": "该问题询问自修复混凝土材料的工作原理，参考答案是对其客观工作机制的事实性描述，可通过直接陈述已知知识点获得，无需多步逻辑推理。"
         }
     },
     "afd0cb05b7d044ac3d49fcdd48e8e2bd": {
@@ -3012,15 +3012,15 @@
         "translated_problem": "提取蜘蛛丝与材料工程的关系。",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求回忆蜘蛛丝在材料工程中的应用这一公认的事实性知识点。"
+            "reason": "该问题的答案直接陈述了蜘蛛丝与材料工程之间的客观事实关系，属于可以通过查找获得的普遍知识点。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求从蜘蛛丝的特性推断其与材料工程的关系，涉及分析和应用知识来得出结论。"
+            "reason": "该问题要求分析蜘蛛丝与材料工程之间的关系，这需要对信息进行归纳和推理，而不仅仅是直接查找或回忆事实。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.2，该问题要求提取蜘蛛丝与材料工程之间的关系，答案是一个普遍接受的事实性知识点（蜘蛛丝因独特性能在材料工程中的潜在应用），不需要上下文即可回答。"
+            "reason": "该问题要求提取蜘蛛丝与材料工程之间的关系，参考答案直接陈述了两者的客观联系（蜘蛛丝因独特性能被研究用于材料工程），属于可通过简单查找或回忆获得的事实性信息。"
         }
     },
     "b6374f4bc07c9f2f6e1713e6fccd496e": {
@@ -3028,15 +3028,15 @@
         "translated_problem": "晶粒纵横比的各向异性是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可直接从上下文中提取，明确指出各向异性来源于晶粒纵横比，属于直接检索信息。"
+            "reason": "答案直接从提供的上下文中提取，明确指出各向异性的起源是晶粒长宽比的各向异性，属于客观事实陈述。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，属于检索型知识问题。"
+            "reason": "该问题的答案直接来自提供的上下文，属于一个可以通过查找上下文得出的客观事实。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取关于‘晶粒长宽比各向异性’的定义信息，答案可直接从上下文‘identifying the origin of this anisotropy in grain aspect ratios’概括得出。"
+            "reason": "问题询问的是‘晶粒长宽比的各向异性’的定义，参考答案直接从上下文中提取了‘该各向异性是横向构建样品在高应力下更好疲劳性能的起源’这一客观事实，属于可通过上下文直接提取的客观信息。"
         }
     },
     "2467a427062ed4548fba87f55b752050": {
@@ -3044,15 +3044,15 @@
         "translated_problem": "映射到一维手性费米子无限集合的理论是什么？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，无需进一步推理或主观判断。"
+            "reason": "答案直接引用上下文中的原句，可以通过简单的信息提取获得，无需进一步分析或推理。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，是对已提供信息的简单检索。"
+            "reason": "问题的答案可以直接从上下文中提取，属于客观事实性知识，无需进一步推理或分析。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，即‘At low energies and sufficiently weak disorder, the theory maps onto an infinite collection of 1d chiral fermions (associated to each point on the Fermi surface) coupled by a random vector potential’。"
+            "reason": "问题要求获取‘映射到无限多个一维手性费米子的理论’的具体描述，其答案可以直接从提供的上下文中提取，属于客观事实且无需多步逻辑推理。"
         }
     },
     "53ffa4ddeb1b810759e5900fcd5c256d": {
@@ -3060,15 +3060,15 @@
         "translated_problem": "学习马尔可夫动力学和非马尔可夫动力学有什么区别？",
         "r1": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求比较Markovian和non-Markovian dynamics在学习上的差异，涉及对两种系统特性的分析和对比。"
+            "reason": "该问题要求比较Markovian与non-Markovian dynamics的特性差异，涉及对两者本质特征的分析和因果关系的推理。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求比较Markovian和non-Markovian动力学的异同，涉及对两个概念的分析和比较。"
+            "reason": "该问题要求对马尔可夫动态和非马尔可夫动态进行比较和分析，涉及信息的组织和异同点的推理。"
         },
         "doubao": {
-            "category": "REASONING",
-            "reason": "依据标准3.2，该问题要求比较Markovian和non-Markovian动力学在学习上的差异，涉及分析两者的异同，属于对信息的分析处理。"
+            "category": "KNOWLEDGE",
+            "reason": "该问题询问马尔可夫与非马尔可夫动力学在学习上的差异，答案可直接从上下文中提取（马尔可夫动力学易学习，非马尔可夫需要过去状态的记忆知识），属于可客观验证的事实性信息。"
         }
     },
     "8577644e4c7eaa16c6a4e1075307f1c2": {
@@ -3076,15 +3076,15 @@
         "translated_problem": "H-空位缺陷如何影响石墨烯中的间隙大小？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，说明H空位缺陷的数量和分布影响能隙大小。"
+            "reason": "答案可直接从上下文中提取关于H-vacancy缺陷对带隙大小影响的具体描述，属于客观事实。"
         },
         "4o": {
-            "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从上下文中提取，描述了H-vacancy缺陷对graphane带隙大小的影响。"
+            "category": "REASONING",
+            "reason": "该问题需要结合上下文中的信息（如H-空位缺陷的数量和分布）进行分析和推导，才能得出关于能隙大小变化的结论。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问H-vacancy缺陷对graphane带隙大小的影响，其答案可以直接从提供的上下文中提取（‘the H-vacancy defects also influence the size of the gap depending on the number of defects and their distribution between the two sides of the graphane plane’）。"
+            "reason": "问题询问H空位缺陷如何影响石墨烯的能隙大小，参考答案直接从上下文中提取了客观事实（缺陷数量和分布影响能隙大小），无需多步推理即可得出。"
         }
     },
     "623b0d4e96a2447a443f61d069ce6404": {
@@ -3092,15 +3092,15 @@
         "translated_problem": "将以下元素归入各自的家族：锂、钠、钾、铷和铯。",
         "r1": {
             "category": "REASONING",
-            "reason": "依据标准3.1，该问题要求将多个元素按照所属化学族进行分类，涉及对信息的组织和归纳。"
+            "reason": "该问题要求对多个元素进行家族分类，涉及对已知化学元素属性的组织和归纳。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.1，该问题要求将给定的元素分类到对应的家族中，涉及对信息的分类和组织。"
+            "reason": "该问题要求将元素分组到各自的家族中，涉及对元素周期表知识的应用和信息组织。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.1，该问题要求将锂、钠、钾、铷、铯等元素分组到各自的族中，涉及对多个项目的分类和组织。"
+            "reason": "该问题要求将给定的元素分组到各自的族中，需要应用元素周期表的知识对多个元素进行分类，涉及信息的组织和归纳。"
         }
     },
     "f9a93334672091f1adda674e54b4eccf": {
@@ -3108,15 +3108,15 @@
         "translated_problem": "什么是Rice-Mele交互模型？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接检索关于'interacting Rice-Mele model'的定义和特性，答案可直接概括得出。"
+            "reason": "该问题的答案可以直接从上下文中提取，具体说明了interacting Rice-Mele model的定义和包含的特定案例。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取或概括得出，描述了交互式Rice-Mele模型的定义及其相关特性。"
+            "reason": "该问题的答案可以直接从上下文中提取，描述了一个具体模型及其特性，属于客观事实性知识。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问的是‘interacting Rice-Mele model’的定义及特性，其答案可以直接从提供的上下文中提取和概括得出。"
+            "reason": "该问题询问“interacting Rice-Mele model”的定义，其答案可直接从上下文中提取关键事实（包含的具体模型、相关不变量的作用等），属于通过查找获得的客观事实。"
         }
     },
     "c81f63e9d1ed116ec148e53dd2b39e26": {
@@ -3124,15 +3124,15 @@
         "translated_problem": "什么是受控的渐近长期误差，自适应Troturitization方案如何允许它？",
         "r1": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求分析自适应Trotterization方案如何通过算法设计控制误差，涉及对技术原理的推断和应用。"
+            "reason": "该问题需要解释自适应Trotterization方案如何控制渐近长期误差，这涉及对算法机制的分析和因果关系的推断，需结合上下文信息进行逻辑推导。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求分析和应用上下文中的信息（如‘Trotterization’和‘adaptive Trotterization scheme’），并推断其与‘controlled asymptotic long-time error’的关系，这需要一定的推理过程。"
+            "reason": "该问题需要从上下文中提取信息并分析其意义，结合对Trotter化方法的适应性机制的理解，才能得出关于受控渐近长期误差的具体结论。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取‘controlled asymptotic long-time error’的定义及自适应Trotterization方案如何实现这一点的信息，答案可直接通过概括上下文得出。"
+            "reason": "问题询问的是‘controlled asymptotic long-time error’的定义及自适应Trotterization方案如何实现它，答案可直接从上下文中提取（如‘controlled asymptotic long-time error’被描述为‘Trotterized dynamics generically enters challenging regimes’，且自适应方案‘allows for a controlled asymptotic long-time error’），属于通过查找上下文即可获得的客观事实。"
         }
     },
     "8f3a135e9d310852918e66d9f30b3864": {
@@ -3140,15 +3140,15 @@
         "translated_problem": "张量系数的函数依赖关系有什么意义？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题的答案可以直接从提供的上下文中提取，特别是关于张量系数功能依赖关系的意义部分。"
+            "reason": "答案可以直接从上下文中提取，明确指出功能依赖关系的作用是提供通过调控微观相互作用控制宏观现象的途径。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.3，该问题要求分析和推断张量系数的功能性依赖如何影响宏观气体现象的控制，涉及对信息的应用和推断。"
+            "reason": "该问题需要基于上下文中关于张量系数的功能依赖性及其物理意义的信息进行分析和归纳，从而得出对宏观气体现象控制的重要性。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求获取张量系数函数依赖关系的意义，其答案可以直接从提供的上下文中提取（“These functional dependencies open up a pathway for control of macroscopic gas phenomena via tuning of the microscopic atomic interactions”）。"
+            "reason": "问题询问张量系数的函数依赖关系的意义，参考答案直接从上下文中提取了明确的客观事实（‘These functional dependencies open up a pathway for control of macroscopic gas phenomena via tuning of the microscopic atomic interactions’），无需多步推理即可得出。"
         }
     },
     "02092684d0bef7ff8d49f8ff5ebd84a2": {
@@ -3156,15 +3156,15 @@
         "translated_problem": "作者能否提供更多关于他们研究中使用的补充实验和理论技术的信息？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接检索关于实验与理论技术的信息，而答案确认了该信息未被包含。"
+            "reason": "该问题的答案可以直接从提供的上下文中提取，明确指出文本未提供更多关于实验和理论技术的信息。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求直接从上下文中检索有关实验和理论技术的信息，但上下文未提供相关细节。"
+            "reason": "问题要求提供关于研究中使用的实验和理论技术的更多信息，而参考答案明确指出文本中没有提供相关内容，这是一项直接的事实性陈述。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题询问上下文中是否提供了关于互补实验和理论技术的更多信息，答案可直接从提供的上下文中提取（上下文未具体说明这些技术）。"
+            "reason": "问题询问作者是否提供了关于研究中使用的实验和理论技术的更多信息，参考答案直接基于上下文内容（未提供相关信息）得出，属于可通过查找上下文验证的客观事实。"
         }
     },
     "59dc22d2d07b72578cc18692429645b0": {
@@ -3172,15 +3172,15 @@
         "translated_problem": "请根据物质的物理性质对以下物质进行分类：氧、氮、硫、汞、金",
         "r1": {
             "category": "REASONING",
-            "reason": "依据标准3.1，该问题要求对多个物质基于物理性质进行分类，涉及对信息的组织和归纳。"
+            "reason": "该问题要求根据物质的物理属性进行分类，涉及对多个项目属性的比较与组织归类。"
         },
         "4o": {
             "category": "REASONING",
-            "reason": "依据标准3.1，该问题要求对给定的物质列表根据其物理性质进行分类，涉及对信息的组织和归纳。"
+            "reason": "该问题要求根据物质的物理性质对其进行分类，涉及对信息的分析、比较和组织。"
         },
         "doubao": {
             "category": "REASONING",
-            "reason": "依据标准3.1，该问题要求对给定的物质列表根据其物理性质进行聚类，涉及对多个项目的分类和组织。"
+            "reason": "该问题要求根据物理性质对给定物质进行聚类，需要分析每个物质的物理状态并进行分类组织，涉及对信息的处理和归纳。"
         }
     },
     "1749b9bd37f8cdffb5d478a5e92771d9": {
@@ -3188,15 +3188,15 @@
         "translated_problem": "什么是具有穿透磁性的晶格模型？",
         "r1": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中直接提取关于“lattice models with pierced magnetism”的描述，尽管上下文未提供详细解释。"
+            "reason": "该问题询问具体术语的定义，属于可通过上下文直接检索的事实性问题，但上下文未提供详细解释，符合知识型问题的核心特征。"
         },
         "4o": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从上下文中提取关于'穿磁性晶格模型'的描述，属于直接的检索型问题。"
+            "reason": "问题要求定义或描述'带穿透磁性的晶格模型'，答案可以直接从上下文中提取或查找，无需复杂推理。"
         },
         "doubao": {
             "category": "KNOWLEDGE",
-            "reason": "依据标准2.1，该问题要求从提供的上下文中提取关于'具有刺穿磁性的晶格模型'的解释，属于需从上下文检索信息的检索型问题。"
+            "reason": "该问题询问“具有刺穿磁性的晶格模型”的定义，属于对客观事实的查询，答案应为可验证的知识点，尽管上下文中未提供详细解释，但问题本身性质属于知识型。"
         }
     }
 }
