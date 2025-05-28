@@ -1,0 +1,1002 @@
+[
+    {
+        "id": "738abd95be987a0f02e0675d3f3387b1",
+        "raw_problem": "What is the corollary of the study?",
+        "translated_problem": "这项研究的推论是什么？"
+    },
+    {
+        "id": "5c65bef00762816a5d9de9ecf98b3bf2",
+        "raw_problem": "What is the valence of Eu in EuPd$_2$(Si$_{1-x}$Ge$_x$)$_2$ for x = 0.2?",
+        "translated_problem": "当x=0.2时，EuPd$_2$（Si$_{1-x}$Ge$_x$）$_2$中Eu的化合价是多少？"
+    },
+    {
+        "id": "f744adc51d773be28622ac121c2519b7",
+        "raw_problem": "Write a brief overview of the drug discovery process.",
+        "translated_problem": "简要概述药物发现过程。"
+    },
+    {
+        "id": "fb09b712b74a13f2fcae4405e22084fe",
+        "raw_problem": "What is the motivation for introducing the subsystem Arf invariant?",
+        "translated_problem": "引入子系统Arf不变量的动机是什么？"
+    },
+    {
+        "id": "e0ec17710f199f876c5b553f18ba2134",
+        "raw_problem": "What are the three invariants that determine the scaling behaviour of the system's R\\'{e}nyi-type extended entropy?",
+        "translated_problem": "决定系统R的缩放行为的三个不变量是什么{e}nyi-type扩展熵？"
+    },
+    {
+        "id": "82b284724f7a1e32d4550c57edc81339",
+        "raw_problem": "What is the analytical theory developed in the text?",
+        "translated_problem": "本文中发展的分析理论是什么？"
+    },
+    {
+        "id": "8d1164ac33b3b4f904e7fee540f12387",
+        "raw_problem": "How was the ME coupling down to the 2D limit verified in the study?",
+        "translated_problem": "研究中如何验证ME与2D极限的耦合？"
+    },
+    {
+        "id": "5ac6c520a3e96d39ec2dd39f8689a0e9",
+        "raw_problem": "What is the GQM used for in a correlated Qi-Wu-Zhang model?",
+        "translated_problem": "GQM在相关的Qi Wu Zhang模型中用于什么？"
+    },
+    {
+        "id": "100e671baf418fb0088fd489adef578a",
+        "raw_problem": "What is the relationship between $\\psi$ and $\\theta$ for $d>d_{DR}$?",
+        "translated_problem": "对于$d>d_{DR}$，$\\psi$和$\\theta$之间的关系是什么？"
+    },
+    {
+        "id": "de6811614101f455b205f1a77d2d689b",
+        "raw_problem": "Please classify the different types of vaccines",
+        "translated_problem": "请对不同类型的疫苗进行分类"
+    },
+    {
+        "id": "4fe5c1b4406e14e794d3af879c875240",
+        "raw_problem": "What is the mechanism of natural selection?",
+        "translated_problem": "自然选择的机制是什么？"
+    },
+    {
+        "id": "1032519afc071dc97833738ac579f42c",
+        "raw_problem": "What can we study by mapping the dynamics of an asymmetric tracer in the symmetric simple exclusion process to the local current through the origin in the zero-range process?",
+        "translated_problem": "通过将对称简单排斥过程中不对称示踪剂的动力学映射到零范围过程中通过原点的局部电流，我们可以研究什么？"
+    },
+    {
+        "id": "9770bab015047f5bb0d3bcb7432cb884",
+        "raw_problem": "What is the contribution of the A2 and B2 structures to the tetragonal magnetostriction?",
+        "translated_problem": "A2和B2结构对四方磁致伸缩的贡献是什么？"
+    },
+    {
+        "id": "cddb756b4319672e383f059fffdb75c3",
+        "raw_problem": "What is the function of the following line of Python code? 'for amino_acid in sequence: molecular_weight += amino_acid_weights[amino_acid]'",
+        "translated_problem": "下面这行Python代码的功能是什么？'对于按顺序排列的氨基酸：分子重量+=氨基酸重量[氨基酸]'"
+    },
+    {
+        "id": "afe7071d81958858b3759d43dae3b732",
+        "raw_problem": "What is the unusual tetrahedral configuration formed by the (a/2)<111> and a<001> dislocations in a bcc metal?",
+        "translated_problem": "bcc金属中由（a/2）<111>和a<001>位错形成的不寻常四面体构型是什么？"
+    },
+    {
+        "id": "bf910638a9f3d453e2495aeebbd7fc6d",
+        "raw_problem": "What is the difference between Huygens view and Fraunhofer diffraction experiment in ARPES?",
+        "translated_problem": "惠更斯视图和ARPES中的弗劳恩霍夫衍射实验有什么区别？"
+    },
+    {
+        "id": "fd159934864356da75f88cb7fbd1cf06",
+        "raw_problem": "What is the insulating phase at half-filling?",
+        "translated_problem": "半填充时的绝缘相是什么？"
+    },
+    {
+        "id": "09d39be0596d688594d5abcc1c7a2664",
+        "raw_problem": "What is the pairing symmetry of the superconducting ground state near half-filling and weak extended Hubbard interactions?",
+        "translated_problem": "半填充附近的超导基态和弱扩展Hubbard相互作用的配对对称性是什么？"
+    },
+    {
+        "id": "afd0cde1813bcdce1345c98e27b59189",
+        "raw_problem": "What are the vortex structures of a two-component Fermi gas?",
+        "translated_problem": "双组分费米气体的涡旋结构是什么？"
+    },
+    {
+        "id": "f63c6dc5688c7101e0063c16b113f942",
+        "raw_problem": "Extract the events related to the use of concrete in construction.",
+        "translated_problem": "提取与施工中混凝土使用相关的事件。"
+    },
+    {
+        "id": "d77960d98859e847f7a3dccec9b47a85",
+        "raw_problem": "What is the steady state current in a quantum dot?",
+        "translated_problem": "量子点中的稳态电流是多少？"
+    },
+    {
+        "id": "a4f0301455692286031cee7a5ea0326c",
+        "raw_problem": "What is the landscape of effective anisotropic energy across the moir\\'{e}?",
+        "translated_problem": "云纹中有效各向异性能量的分布情况如何？"
+    },
+    {
+        "id": "06250648068a40f7d2d60e23e7ada9de",
+        "raw_problem": "What are skyrmions?",
+        "translated_problem": "什么是skyrmions？"
+    },
+    {
+        "id": "7344767450c3a004fd4d96b93fb64ea7",
+        "raw_problem": "What is the phase transition of NaNiO2 at ambient pressure?",
+        "translated_problem": "NaNiO2在环境压力下的相变是什么？"
+    },
+    {
+        "id": "34bbe43d1825807bddba7d3d9dcc8246",
+        "raw_problem": "What is the size range of nanoparticles?",
+        "translated_problem": "纳米粒子的尺寸范围是多少？"
+    },
+    {
+        "id": "34de26624dfecb8247204dc394ff1f8c",
+        "raw_problem": "Please interpret the following code: \n\nint[] arr = {1, 2, 3, 4, 5};\nfor(int i=0; i<arr.length; i++){\n    if(arr[i]%2 == 0){\n        System.out.println(arr[i] + \" is even\");\n    }\n}",
+        "translated_problem": "请解释以下代码：\nint[]arr={1,2,3,4,5}；\nfor（int i=0；i<arr.length；i++）{\n如果（arr[i]%2==0）{\nSystem.out.println（arr[i]+“是偶数”）；\n}\n}"
+    },
+    {
+        "id": "8315f65b591919121b9602c8bb28d699",
+        "raw_problem": "What is the 1D Ising model?",
+        "translated_problem": "1D伊辛模型是什么？"
+    },
+    {
+        "id": "6a776c2c691f651cfbbaab99062bf14d",
+        "raw_problem": "What is the result of the vertical atomic shift of the tantalum atom?",
+        "translated_problem": "钽原子的垂直原子位移的结果是什么？"
+    },
+    {
+        "id": "7034b30c3f75a8358f4471558eda6989",
+        "raw_problem": "What are the two key tasks that the scheme provides methods for?",
+        "translated_problem": "该方案提供的两个关键任务是什么？"
+    },
+    {
+        "id": "c656e7cf55b7d6d3945f4da56f19fe91",
+        "raw_problem": "What is the effect of the chiral interaction on the threshold for Stoner instability?",
+        "translated_problem": "手性相互作用对斯通纳不稳定性阈值有何影响？"
+    },
+    {
+        "id": "1360afe2b4838311790c01eb666a3836",
+        "raw_problem": "What are some of the challenges facing the development of thermoelectric materials?",
+        "translated_problem": "热电材料的发展面临哪些挑战？"
+    },
+    {
+        "id": "a5d6e4b6f5e86ba35698dfca81489b2a",
+        "raw_problem": "What is the anomalous Drude model?",
+        "translated_problem": "什么是反常的德鲁德模型？"
+    },
+    {
+        "id": "a2bca47dc306bbca467f85d8bc54d489",
+        "raw_problem": "What is the conclusion of J. C. Hidalgo-Gonzalez and J. I. Jimenez-Aquino's study?",
+        "translated_problem": "J.C.Hidalgo Gonzalez和J.I.Jimenez Aquino的研究结论是什么？"
+    },
+    {
+        "id": "733194f81f94843fa121f88853202eb5",
+        "raw_problem": "What is the Kondo effect?",
+        "translated_problem": "近藤效应是什么？"
+    },
+    {
+        "id": "c10e512f818e36856d2405e471336cc0",
+        "raw_problem": "What is the result of the analysis of the electronic band symmetries?",
+        "translated_problem": "电子能带对称性的分析结果是什么？"
+    },
+    {
+        "id": "30fa752f9e78848eb004721cf297e04f",
+        "raw_problem": "What is the name of the process by which cells become specialized during embryonic development?",
+        "translated_problem": "细胞在胚胎发育过程中特化的过程叫什么名字？"
+    },
+    {
+        "id": "8276c5fc5a4e4602864af968d065ba99",
+        "raw_problem": "What is the output of the following Python code: print(len('optical materials'))?",
+        "translated_problem": "以下Python代码的输出是什么：print（len（光学材料））？"
+    },
+    {
+        "id": "2dfd681ef2fd765ddc8c2ac2e2c00dcd",
+        "raw_problem": "What is the significance of reducing decoherence in quantum circuits?",
+        "translated_problem": "减少量子电路中的退相干有什么意义？"
+    },
+    {
+        "id": "60477f20d622b99311a6cc268056e500",
+        "raw_problem": "What is the universal scaling framework proposed in the given text?",
+        "translated_problem": "给定文本中提出的通用缩放框架是什么？"
+    },
+    {
+        "id": "6e933fca16f114997f3aa02dcad8ff53",
+        "raw_problem": "How can the reduced system be used?",
+        "translated_problem": "如何使用缩减后的系统？"
+    },
+    {
+        "id": "0cc650aa9ca0a4e88df1f9afa7f1d873",
+        "raw_problem": "What is the system investigated in the analysis?",
+        "translated_problem": "分析中调查的系统是什么？"
+    },
+    {
+        "id": "c7e23504626f4127744d3117bdc42887",
+        "raw_problem": "What are the equal and unequal time auto and cross correlations described as in the text?",
+        "translated_problem": "文中描述的相等和不相等时间自相关和互相关是什么？"
+    },
+    {
+        "id": "1bda74a8a45d4e7ac8086891bfda409a",
+        "raw_problem": "How can the shear and time-dependent rheology of an aging suspension be exploited?",
+        "translated_problem": "如何利用老化悬浮液的剪切和时间依赖性流变学？"
+    },
+    {
+        "id": "2151d72c4506c9f4cf51952d6910e29c",
+        "raw_problem": "What is the gap correction shown to agree with?",
+        "translated_problem": "差距修正与什么一致？"
+    },
+    {
+        "id": "e375e406b16b229f9cc008c56395d236",
+        "raw_problem": "What is the significance of gravitational anomalies in quantum field theories?",
+        "translated_problem": "引力异常在量子场论中的意义是什么？"
+    },
+    {
+        "id": "836a81c68994f6a54b251f9ff7f3301e",
+        "raw_problem": "What is the significance of the study?",
+        "translated_problem": "这项研究的意义是什么？"
+    },
+    {
+        "id": "759c9de0026ea6e9c64b5b89d9402b9b",
+        "raw_problem": "Please correct the grammar errors in the following sentence: 'The biodiversity of coral reefs are threatened by pollution and overfishing.'",
+        "translated_problem": "请更正以下句子中的语法错误：“珊瑚礁的生物多样性受到污染和过度捕捞的威胁。”"
+    },
+    {
+        "id": "ff5d7911e80c8bbdd65baab7cd90fb0d",
+        "raw_problem": "What is the Lotka-Volterra predator-prey model?",
+        "translated_problem": "什么是Lotka-Volterra捕食者-猎物模型？"
+    },
+    {
+        "id": "78fc593ec085e722128d86f489036b1f",
+        "raw_problem": "What is the shape memory effect?",
+        "translated_problem": "什么是形状记忆效应？"
+    },
+    {
+        "id": "cc54c1bff869a8c2c029a5f87112cf67",
+        "raw_problem": "What is the difference between metallic and ceramic biomaterials?",
+        "translated_problem": "金属和陶瓷生物材料有什么区别？"
+    },
+    {
+        "id": "7bb69a6a21e8e1adfe7a2963f717f812",
+        "raw_problem": "Summarize the challenges and opportunities in using nanotechnology for water treatment.",
+        "translated_problem": "总结使用纳米技术进行水处理的挑战和机遇。"
+    },
+    {
+        "id": "43fff7447228d8670d844c75593dd69f",
+        "raw_problem": "What are the three types of stem cells and what are their respective sources?",
+        "translated_problem": "干细胞的三种类型是什么，它们各自的来源是什么？"
+    },
+    {
+        "id": "e4a1f72e04cfa052b728812feeeb6026",
+        "raw_problem": "What is the effect of atomic motion on electronic and optical properties of materials?",
+        "translated_problem": "原子运动对材料的电子和光学性质有什么影响？"
+    },
+    {
+        "id": "fdc655ee6f5f5c072adfe9d24b5a7e6c",
+        "raw_problem": "What are the main components of a signal transduction pathway?",
+        "translated_problem": "信号转导通路的主要组成部分是什么？"
+    },
+    {
+        "id": "3b7cbb3736aafbd7eb1cfe838bdfc179",
+        "raw_problem": "What do the results involve?",
+        "translated_problem": "结果涉及什么？"
+    },
+    {
+        "id": "8b3c119764a64d96c570e4179f3bb487",
+        "raw_problem": "What types of experimental data can the SMEL test cope with?",
+        "translated_problem": "SMEL测试可以处理哪些类型的实验数据？"
+    },
+    {
+        "id": "c81fd6132bed4ad4a9b5967cda386b4d",
+        "raw_problem": "Please edit the sentence: 'The activation energy of the reaction is lowered in the presence of a catalyst, which speeds up the reaction.'",
+        "translated_problem": "请编辑以下句子：“在催化剂的存在下，反应的活化能会降低，从而加速反应。”"
+    },
+    {
+        "id": "92c5697b858a64ee95e8a92db19d6d5d",
+        "raw_problem": "What does this work establish about boron vacancies in hexagonal boron nitride?",
+        "translated_problem": "这项工作对六方氮化硼中的硼空位有什么发现？"
+    },
+    {
+        "id": "5851987e6d1c17be0406ff5e6f59efde",
+        "raw_problem": "What is the diffusion coefficient of MoSeTe?",
+        "translated_problem": "MoSeTe的扩散系数是多少？"
+    },
+    {
+        "id": "40b9e27ae929cb3858411db30d3015a7",
+        "raw_problem": "What is the significance of entanglement in quantum applications?",
+        "translated_problem": "纠缠在量子应用中的意义是什么？"
+    },
+    {
+        "id": "83df60e42506001131122bb02b6a7b89",
+        "raw_problem": "What is the challenge in integrating photonic circuits?",
+        "translated_problem": "集成光子电路的挑战是什么？"
+    },
+    {
+        "id": "c8441dc6207dd620309d4a5144a16c8f",
+        "raw_problem": "What is a possible application of the SF to a stripe supersolid transition driven by the roton mode near a finite momentum k=k_0?",
+        "translated_problem": "SF在有限动量k=k_0附近由质子模式驱动的条纹超固体转变中的可能应用是什么？"
+    },
+    {
+        "id": "c6e84a1db053c9d36075df2744764258",
+        "raw_problem": "What governs the flow and stress patterns around fluctuation-induced defects?",
+        "translated_problem": "是什么控制着波动引起的缺陷周围的流动和应力模式？"
+    },
+    {
+        "id": "9d14f94f1c154490ff803d4d2c9c9f0c",
+        "raw_problem": "What is the methodology used in the study?",
+        "translated_problem": "研究中使用的方法是什么？"
+    },
+    {
+        "id": "afb25d5c00126679e763a97f27fa55ff",
+        "raw_problem": "What are the three asymptotic regimes identified in the text?",
+        "translated_problem": "文中确定的三种渐近机制是什么？"
+    },
+    {
+        "id": "49f32479f980fbfa0c395a120999da80",
+        "raw_problem": "What are the differences between extrinsic and intrinsic self-healing materials?",
+        "translated_problem": "外在和内在自愈材料之间有什么区别？"
+    },
+    {
+        "id": "9ca74b5e41ed124648a7324aa613062b",
+        "raw_problem": "What is the expansion of the skyrmion bag analytically depending on?",
+        "translated_problem": "skyrmion袋的膨胀在分析上取决于什么？"
+    },
+    {
+        "id": "821ebfee58bab30dd171ab3f7087df83",
+        "raw_problem": "What system is used to illustrate the approach presented in this paper?",
+        "translated_problem": "使用什么系统来说明本文提出的方法？"
+    },
+    {
+        "id": "d3340b631d0ab4d782a0ca751535ed9f",
+        "raw_problem": "What does the text argue about the results?",
+        "translated_problem": "文章对结果有什么争论？"
+    },
+    {
+        "id": "8ecce790932df1dcabcaa878fcbc522f",
+        "raw_problem": "What are some common types of magnetic materials?",
+        "translated_problem": "常见的磁性材料有哪些类型？"
+    },
+    {
+        "id": "49afe8b101e173e894f988b1d226ecbe",
+        "raw_problem": "You are an editor working on a research proposal about quantum computing. The proposal needs to be edited for grammar and clarity. The proposal includes technical terms and advanced scientific language.",
+        "translated_problem": "你是一名编辑，正在撰写一份关于量子计算的研究提案。为了语法和清晰度，需要对提案进行编辑。该提案包括技术术语和先进的科学语言。"
+    },
+    {
+        "id": "6967395a2b5809368a08bfd0f2b3bd70",
+        "raw_problem": "What are Tetranacci polynomials?",
+        "translated_problem": "什么是Tetranaci多项式？"
+    },
+    {
+        "id": "a37eec9758a8a85c8a3c6631c7a66498",
+        "raw_problem": "What do numerical simulations do to support the findings of the study?",
+        "translated_problem": "数值模拟如何支持研究结果？"
+    },
+    {
+        "id": "1749b9bd37f8cdffb5d478a5e92771d9",
+        "raw_problem": "What are lattice models with pierced magnetism?",
+        "translated_problem": "什么是具有穿透磁性的晶格模型？"
+    },
+    {
+        "id": "3131a079478093285adb1c0db20b3785",
+        "raw_problem": "What is the proposed explanation for the similarity in splashing behavior at very low temperatures and on ambient temperature superhydrophobic surfaces?",
+        "translated_problem": "对于在非常低的温度下和在环境温度超疏水表面上的飞溅行为的相似性，有什么解释？"
+    },
+    {
+        "id": "a2d39cc05288456850f1c624cf6b2d74",
+        "raw_problem": "What is the motivation behind the study of signatures of the BCS to BEC evolution in Andreev reflection spectroscopy?",
+        "translated_problem": "在Andreev反射光谱中研究BCS到BEC演化的特征背后的动机是什么？"
+    },
+    {
+        "id": "f7499b960f930562293dc31420390e24",
+        "raw_problem": "What is the effect of disorder on quantum transports in a two dimensional system with all-to-all long range hopping?",
+        "translated_problem": "在具有全对全长程跳跃的二维系统中，无序对量子输运的影响是什么？"
+    },
+    {
+        "id": "db103d5441f4d819cff3d38bf59bf89e",
+        "raw_problem": "Correct the grammar in the following sentence: 'The bird's wings is blue.'",
+        "translated_problem": "纠正以下句子的语法：“鸟的翅膀是蓝色的。”"
+    },
+    {
+        "id": "46a496b8decbd37f073f2e30bba85541",
+        "raw_problem": "Please identify all the functional groups present in the following molecule: CH3CH2CH2OH.",
+        "translated_problem": "请确定以下分子中存在的所有官能团：CH3CH2CH2OH。"
+    },
+    {
+        "id": "bb359a70cc147389af3720bd822857ea",
+        "raw_problem": "What is the physical origin of the memory phenomenon?",
+        "translated_problem": "记忆现象的物理起源是什么？"
+    },
+    {
+        "id": "765740ae7079cbe1bccc7233ed972228",
+        "raw_problem": "What is the non-chiral manifold?",
+        "translated_problem": "什么是非手性流形？"
+    },
+    {
+        "id": "ba1564ae120f3a008ad92a852f7783a0",
+        "raw_problem": "What is the significance of the inter-dot coupling of $p_x$ and $p_y$ orbitals in the QD arrays?",
+        "translated_problem": "量子点阵列中$p_x$和$p_y$轨道的点间耦合有什么意义？"
+    },
+    {
+        "id": "b1aa0433af2e9e0b01e0bce7a95d155a",
+        "raw_problem": "What are the applications discussed in the paper?",
+        "translated_problem": "本文讨论了哪些应用？"
+    },
+    {
+        "id": "cc4d439910f08ce079cbaaf5ab81e310",
+        "raw_problem": "Can the experiments establish a comprehensive microscopic framework for investigating and tailoring chiral spin texture character in multilayer films?",
+        "translated_problem": "这些实验能否为研究和定制多层薄膜中的手性自旋纹理特征建立一个全面的微观框架？"
+    },
+    {
+        "id": "7889545a8a96c90c7dd44ebd45e80d40",
+        "raw_problem": "What is the 'polar catastrophe'?",
+        "translated_problem": "什么是“极地灾难”？"
+    },
+    {
+        "id": "14b649c7b98a0d82319ce1f8c642a254",
+        "raw_problem": "Do the analytical results agree with the numerical simulations for both switching and extinction rates?",
+        "translated_problem": "分析结果是否与开关和消光率的数值模拟一致？"
+    },
+    {
+        "id": "5ff8bcccab67cd5235edd20673963c09",
+        "raw_problem": "What did the researchers find in their study of graphene-insulator-metal heterostructures?",
+        "translated_problem": "研究人员在石墨烯-绝缘体-金属异质结构的研究中发现了什么？"
+    },
+    {
+        "id": "4b70417c259e741c3597f19e9c7f538a",
+        "raw_problem": "What is the effect of time-periodically varying the hopping amplitude in a one-dimensional Bose-Hubbard model?",
+        "translated_problem": "在一维玻色-哈伯德模型中，时间周期性地改变跳跃幅度的效果是什么？"
+    },
+    {
+        "id": "47893af8ad9cb83b1ccdb4184e587111",
+        "raw_problem": "What kind of systems did the study focus on?",
+        "translated_problem": "这项研究关注的是什么样的系统？"
+    },
+    {
+        "id": "0f4e7a6f1ecd65136e9cad4d838eda20",
+        "raw_problem": "Please edit the following sentence: The melting point of iron is 1538 degrees Celsius.",
+        "translated_problem": "请编辑以下句子：铁的熔点是1538摄氏度。"
+    },
+    {
+        "id": "5fee91e39ec3f8cb04d4588009eff7c7",
+        "raw_problem": "What is the probability that the process survives up to time t?",
+        "translated_problem": "该过程在时间t之前存活的概率是多少？"
+    },
+    {
+        "id": "9ddd2c313ef70512203d84be39f52a5d",
+        "raw_problem": "What is the energy barrier for exothermic hydrogen release from the in-plane in V_221?",
+        "translated_problem": "V_221中平面内放热氢释放的能量势垒是什么？"
+    },
+    {
+        "id": "82a4efe04b8e636111a70368811a1fb0",
+        "raw_problem": "What is the subject of the third law?",
+        "translated_problem": "第三定律的主题是什么？"
+    },
+    {
+        "id": "13c4b339d8966879b7bbf406157dcbf6",
+        "raw_problem": "What is the pseudogap in hole-doped cuprates?",
+        "translated_problem": "掺杂空穴的铜酸盐中的赝隙是什么？"
+    },
+    {
+        "id": "b6374f4bc07c9f2f6e1713e6fccd496e",
+        "raw_problem": "What is the anisotropy in grain aspect ratios?",
+        "translated_problem": "晶粒纵横比的各向异性是什么？"
+    },
+    {
+        "id": "1c7489d81b55e46e7c4157526a8d8c39",
+        "raw_problem": "Cluster the following compounds based on their photophysical properties: fluorescein, rhodamine, coumarin, pyrene, anthracene.",
+        "translated_problem": "根据其光物理性质对以下化合物进行聚类：荧光素、罗丹明、香豆素、芘、蒽。"
+    },
+    {
+        "id": "13e99b4e85d8f73a5828a456ebe66d8a",
+        "raw_problem": "What are the discussed effects of the consolidation coefficient and size distribution on effective heat transfer in powders?",
+        "translated_problem": "所讨论的固结系数和粒度分布对粉末中有效传热的影响是什么？"
+    },
+    {
+        "id": "81c13647128c9d381059828bf42a6852",
+        "raw_problem": "What is the main argument of the paper?",
+        "translated_problem": "这篇论文的主要论点是什么？"
+    },
+    {
+        "id": "39c1fd1a1893618ffe681c1a5e565a65",
+        "raw_problem": "What is the significance of quantum coherent oscillations?",
+        "translated_problem": "量子相干振荡的意义是什么？"
+    },
+    {
+        "id": "1bbc78a040ace314630aa5a0782f779e",
+        "raw_problem": "What is the multiscale entanglement renormalization ansatz (MERA)?",
+        "translated_problem": "什么是多尺度纠缠重整化分析（MERA）？"
+    },
+    {
+        "id": "0b733bf505c01c85a6862649038751a7",
+        "raw_problem": "What is the relationship between the total magnetic moment and the intra-atomic Coulomb repulsion U?",
+        "translated_problem": "总磁矩和原子内库仑斥力U之间的关系是什么？"
+    },
+    {
+        "id": "fcc59269c621e52c0e3efee7330e3487",
+        "raw_problem": "What is the order of strength of stirring that is studied?",
+        "translated_problem": "所研究的搅拌强度顺序是什么？"
+    },
+    {
+        "id": "afa9a12c0e53059d0a25ce416e78d606",
+        "raw_problem": "What is the suggestion for future experimental investigations?",
+        "translated_problem": "对未来的实验研究有什么建议？"
+    },
+    {
+        "id": "512ff0c42ad4b03c68891fdfb9764604",
+        "raw_problem": "What techniques are used to elucidate the development of the antiferromagnetic order?",
+        "translated_problem": "使用哪些技术来阐明反铁磁序的发展？"
+    },
+    {
+        "id": "d20b46c47f934f67b952e236645d5b55",
+        "raw_problem": "Write a brief summary of the properties of semiconductors.",
+        "translated_problem": "简要概述半导体的性质。"
+    },
+    {
+        "id": "7fb6858189f099a58154bda3d28e3cbe",
+        "raw_problem": "What is the rate constant for the reaction A + B → C + D, given that the rate of disappearance of A is 0.02 M/s and the initial concentrations of A and B are both 0.1 M?",
+        "translated_problem": "反应A+B的速率常数是多少→ C+D，假设A的消失速率为0.02M/s，A和B的初始浓度均为0.1M？"
+    },
+    {
+        "id": "1f2281ee6fa5d95cceaf2f5d05fd3c1d",
+        "raw_problem": "What is the current temperature range for commercial dehydrogenation processes?",
+        "translated_problem": "目前商业脱氢工艺的温度范围是多少？"
+    },
+    {
+        "id": "34a364a89be551adaaf058c95fe8b9c5",
+        "raw_problem": "What does the present formulation predict about fluctuations in the adsorbed surface charge density?",
+        "translated_problem": "本公式对吸附表面电荷密度的波动有何预测？"
+    },
+    {
+        "id": "e900e49176afc3379235f5d9a56355a2",
+        "raw_problem": "What transitions were identified in Cu$_{1.18}$Mn$_{0.82}$As and CuMn$_{0.964}$As$_{1.036}$?",
+        "translated_problem": "在Cu$_{1.18}$Mn$_{0.82}$As和CuMn$_{0.964}$As$_{1.036}$中发现了哪些转变？"
+    },
+    {
+        "id": "f87d7775c3be9d5e113cec91565d1863",
+        "raw_problem": "What is the approximate linear response regime?",
+        "translated_problem": "近似线性响应机制是什么？"
+    },
+    {
+        "id": "3b871ce4b912db786b93715c7691a3ee",
+        "raw_problem": "Can a set of fractals change its fractal dimension?",
+        "translated_problem": "一组分形可以改变其分形维数吗？"
+    },
+    {
+        "id": "3bc3b0e41d7d33ce54918274500e3d28",
+        "raw_problem": "What is the peculiar temperature dependence of variable range hopping conductivity in a film with large dielectric constant?",
+        "translated_problem": "在具有大介电常数的薄膜中，可变范围跳跃电导率的特殊温度依赖性是什么？"
+    },
+    {
+        "id": "4f771c85b8f5e711f540406cf60442d5",
+        "raw_problem": "What is doping in semiconductor materials?",
+        "translated_problem": "什么是半导体材料中的掺杂？"
+    },
+    {
+        "id": "a5ce7ed4147345a2ffe316602fc320a5",
+        "raw_problem": "How does reservoir engineering work in superconducting circuits?",
+        "translated_problem": "超导电路中的储层工程是如何工作的？"
+    },
+    {
+        "id": "93106094ce8b23ac1366bfb8fc1104e8",
+        "raw_problem": "Please identify the enzyme responsible for breaking down lactose in humans.",
+        "translated_problem": "请确定负责分解人体乳糖的酶。"
+    },
+    {
+        "id": "35fa8f1b0f19375f0f409ad67c4948f7",
+        "raw_problem": "What is the DSSC 2D imaging detector?",
+        "translated_problem": "什么是DSSC 2D成像探测器？"
+    },
+    {
+        "id": "3db20cda2e3858143296cb3c5c987610",
+        "raw_problem": "What are the topologically distinct structures that can be formed by coalescence of saddle-shaped surfaces?",
+        "translated_problem": "通过鞍形表面的合并可以形成哪些拓扑上不同的结构？"
+    },
+    {
+        "id": "ec6735a993ff4e89bdd633effd5fe13c",
+        "raw_problem": "What is the level of agreement between the predicted drain current and other electrical characteristics for the simulated device and the available experimental data?",
+        "translated_problem": "模拟器件的预测漏极电流和其他电气特性与可用实验数据之间的一致程度是多少？"
+    },
+    {
+        "id": "15b1e63eecd3c6fc35d3dfb0f73812c0",
+        "raw_problem": "What is the range of tunable pitch angle for the helices?",
+        "translated_problem": "螺旋的可调螺距角范围是多少？"
+    },
+    {
+        "id": "59813ce29b795bfd55b813c25c2d36b0",
+        "raw_problem": "What does temperature-dependent resistivity indicate about the NbVTiAl alloy?",
+        "translated_problem": "NbVTiAl合金的温度依赖电阻率表明了什么？"
+    },
+    {
+        "id": "092fca46417132cab711a81e0bfd7806",
+        "raw_problem": "What is the regime that the scheme focuses on?",
+        "translated_problem": "该计划的重点是什么？"
+    },
+    {
+        "id": "a530e6363af13da53f332de07737e8a4",
+        "raw_problem": "What is the experimental result of the study on the topological transition of geometric phases?",
+        "translated_problem": "几何相拓扑跃迁研究的实验结果是什么？"
+    },
+    {
+        "id": "d45adc64cdb9e7408499095a6aa4c01a",
+        "raw_problem": "What is the fundamental principle used to obtain the distributions?",
+        "translated_problem": "获得分布的基本原理是什么？"
+    },
+    {
+        "id": "06452d6583b39dd6fd65e387d5bc8f14",
+        "raw_problem": "What are the bullets?",
+        "translated_problem": "子弹是什么？"
+    },
+    {
+        "id": "1a8f31bd87614996693109f667f63ec0",
+        "raw_problem": "Edit the following sentence: 'Composites are materials made from two or more different materials that are combined to create a new material with improved properties.'",
+        "translated_problem": "编辑以下句子：“复合材料是由两种或多种不同材料制成的材料，这些材料结合在一起，形成了一种性能得到改善的新材料。”"
+    },
+    {
+        "id": "71a28938d9e959d56543b82b3e5e93d0",
+        "raw_problem": "How does the coupling in the proposed system enable photon absorption?",
+        "translated_problem": "所提出的系统中的耦合是如何实现光子吸收的？"
+    },
+    {
+        "id": "f21c36231f452d0da52e4af66dee38f1",
+        "raw_problem": "Can this study be used to predict the behavior of other materials?",
+        "translated_problem": "这项研究可以用来预测其他材料的行为吗？"
+    },
+    {
+        "id": "13a976a2e2e3a2aa551198d6af586428",
+        "raw_problem": "What is the potential application of defective bismuthene nanoribbons?",
+        "translated_problem": "缺陷铋纳米带的潜在应用是什么？"
+    },
+    {
+        "id": "9ea5c2fa9e7c34c25b46d5fff3fe8efd",
+        "raw_problem": "What does the following code do? for i in range(len(graphene)): print(graphene[i])",
+        "translated_problem": "以下代码的作用是什么？对于范围内的i（len（石墨烯））：打印（石墨烯[i]）"
+    },
+    {
+        "id": "93b692b4209efc7150be24d912f06e0d",
+        "raw_problem": "What is the second analytical characterization of the metastable behavior of a Markov chain?",
+        "translated_problem": "马尔可夫链亚稳态行为的第二个分析特征是什么？"
+    },
+    {
+        "id": "c41fd9e8968f0c92a591c84df67b37c9",
+        "raw_problem": "What is the toric code model with two parallel magnetic fields?",
+        "translated_problem": "什么是具有两个平行磁场的复曲面代码模型？"
+    },
+    {
+        "id": "7ce78ff6015f77da61a464ae8ee5895f",
+        "raw_problem": "What is the difference between anode and cathode?",
+        "translated_problem": "阳极和阴极有什么区别？"
+    },
+    {
+        "id": "0c69badf4b88b77231c7bac1303d623c",
+        "raw_problem": "What is the interpretation of the results?",
+        "translated_problem": "对结果的解释是什么？"
+    },
+    {
+        "id": "de44161ce83997b09151ea9d52976273",
+        "raw_problem": "How does mode decomposition learning save training costs?",
+        "translated_problem": "模式分解学习如何节省培训成本？"
+    },
+    {
+        "id": "fa9c8b8ed8d3200a513bf45273164a26",
+        "raw_problem": "What is the impact of the transition-metal dichalcogenide on the overall total density of states at the Fermi level?",
+        "translated_problem": "过渡金属二硫化物对费米能级的总态密度有何影响？"
+    },
+    {
+        "id": "55ebd014e0a39bef705baf3c64be8281",
+        "raw_problem": "What are some superconducting devices that use weak-links?",
+        "translated_problem": "哪些超导设备使用弱连接？"
+    },
+    {
+        "id": "083796773839faa716eba2c460e04dee",
+        "raw_problem": "Identify the relationships between climate change and the decline of polar bear populations.",
+        "translated_problem": "确定气候变化与北极熊种群减少之间的关系。"
+    },
+    {
+        "id": "018f59b8cc69e1524187efb09176b538",
+        "raw_problem": "What is the purpose of animal communication?",
+        "translated_problem": "动物交流的目的是什么？"
+    },
+    {
+        "id": "d6a06c4df9416191148d099d9d87b647",
+        "raw_problem": "What is reference-free XRF analysis used for?",
+        "translated_problem": "无参考的XRF分析用于什么？"
+    },
+    {
+        "id": "8c5681bc4769a9c131a72593f8ed0acf",
+        "raw_problem": "What kind of studies were performed on Cr2Ge2Te6?",
+        "translated_problem": "对Cr2Ge2Te6进行了哪些研究？"
+    },
+    {
+        "id": "7b1b993208e820be8407bfc25892a9de",
+        "raw_problem": "What is the fractional quantum Hall effect?",
+        "translated_problem": "什么是分数量子霍尔效应？"
+    },
+    {
+        "id": "ab9dbcf72af787534da4864533aed0d8",
+        "raw_problem": "Interpret the MATLAB code for a simulation of light propagation through a photonic crystal.",
+        "translated_problem": "解释用于模拟光通过光子晶体传播的MATLAB代码。"
+    },
+    {
+        "id": "afd0cb05b7d044ac3d49fcdd48e8e2bd",
+        "raw_problem": "Extract the relation between spider silk and material engineering.",
+        "translated_problem": "提取蜘蛛丝与材料工程的关系。"
+    },
+    {
+        "id": "a0acf02a0b56084e7cbf1e646cfcf04a",
+        "raw_problem": "What is the chemical formula for sulfuric acid?",
+        "translated_problem": "硫酸的化学式是什么？"
+    },
+    {
+        "id": "8d7e6d2cb68b195cfd80a42ab8dbd025",
+        "raw_problem": "What is the minimal model used in the study?",
+        "translated_problem": "研究中使用的最小模型是什么？"
+    },
+    {
+        "id": "0f0808a780a6ed86a0b49df44f5d8d88",
+        "raw_problem": "What is the relation between topological invariants defined through the twist boundary condition and the center-of-mass momentum state in multi-particle systems?",
+        "translated_problem": "在多粒子系统中，通过扭曲边界条件定义的拓扑不变量与质心动量状态之间的关系是什么？"
+    },
+    {
+        "id": "2bfb1b708a9844d090d7b78eaf650fcb",
+        "raw_problem": "What is the assumption made in the theoretical calculation?",
+        "translated_problem": "理论计算中的假设是什么？"
+    },
+    {
+        "id": "b45ac7a7f7ca7bddc629a12e49dd9626",
+        "raw_problem": "What are some challenges in studying highly deformable granular matter?",
+        "translated_problem": "研究高度可变形颗粒物质有哪些挑战？"
+    },
+    {
+        "id": "531b405a70c1fb38305e9a13b973b549",
+        "raw_problem": "What is the relationship between the height of the maximum of the stress-strain relation and the shear range?",
+        "translated_problem": "应力-应变关系最大值的高度与剪切范围之间的关系是什么？"
+    },
+    {
+        "id": "9057b4fc9785561ca3277ca0f61f44bf",
+        "raw_problem": "What is the scientific basis for manipulation of the chiral antiferromagnetic texture of Mn3Ge?",
+        "translated_problem": "操纵Mn3Ge手性反铁磁织构的科学依据是什么？"
+    },
+    {
+        "id": "024683f26aa5cc000747249b40dc2fdd",
+        "raw_problem": "Analyze the sentiment of the article about the use of nuclear power as a source of energy.",
+        "translated_problem": "分析文章中关于将核能用作能源的观点。"
+    },
+    {
+        "id": "17aa0c691aee01adffc51507723afe52",
+        "raw_problem": "What is the role of efficient use of preliminary data in performing successful measurements within limited experimental time?",
+        "translated_problem": "在有限的实验时间内有效利用初步数据在成功进行测量中的作用是什么？"
+    },
+    {
+        "id": "d18f439cccef0f67755952c0220eb6b3",
+        "raw_problem": "What is radiative damping?",
+        "translated_problem": "什么是辐射阻尼？"
+    },
+    {
+        "id": "7f23479d58832168ca249de84b279461",
+        "raw_problem": "Why is shape memory alloy useful?",
+        "translated_problem": "形状记忆合金为什么有用？"
+    },
+    {
+        "id": "bf85334e47733c61ff89bf100d06959f",
+        "raw_problem": "What factors control the concentrations of carriers?",
+        "translated_problem": "哪些因素控制着载体的浓度？"
+    },
+    {
+        "id": "bba07a8a15d24de8354fdd0330769dde",
+        "raw_problem": "What is the spin-mix conductance?",
+        "translated_problem": "什么是自旋混合电导？"
+    },
+    {
+        "id": "eebf9f96536ae68676f563e5f3c7759e",
+        "raw_problem": "What method was used to investigate the many-body physics of interacting fermions?",
+        "translated_problem": "使用什么方法来研究相互作用费米子的多体物理学？"
+    },
+    {
+        "id": "2e2541fddfcf0dfd09c34917f67f8503",
+        "raw_problem": "What is the evidence that magnetic polarons grow in size below T' in Eu$_{5}$In$_{2}$Sb$_{6}$?",
+        "translated_problem": "有什么证据表明磁极化子在Eu$_{5}$in$_{2}$Sb$_{6}$中的尺寸小于T'？"
+    },
+    {
+        "id": "ebda00939adc6c816408d14b8427c774",
+        "raw_problem": "What is the role of symmetries in the results?",
+        "translated_problem": "对称性在结果中起什么作用？"
+    },
+    {
+        "id": "5984253f115cd47929df5889d24f307a",
+        "raw_problem": "Can the elastic properties of 2D catenated DNA networks be tuned by modifying the underlying topology?",
+        "translated_problem": "通过修改底层拓扑结构，可以调整2D链式DNA网络的弹性特性吗？"
+    },
+    {
+        "id": "53ffa4ddeb1b810759e5900fcd5c256d",
+        "raw_problem": "What is the difference between learning Markovian and non-Markovian dynamics?",
+        "translated_problem": "学习马尔可夫动力学和非马尔可夫动力学有什么区别？"
+    },
+    {
+        "id": "aa5fbb894e3f26f11a0f96c056e63b42",
+        "raw_problem": "What is the significance of the fractal symmetries in the Pascal's triangle model?",
+        "translated_problem": "帕斯卡三角模型中分形对称性的意义是什么？"
+    },
+    {
+        "id": "befb81be3d0dfd1dfd9e2e2542c06e15",
+        "raw_problem": "What are the two main methods used to probe the particle?",
+        "translated_problem": "探测粒子的两种主要方法是什么？"
+    },
+    {
+        "id": "0fdd004357f23e02ce28b9ccf4556665",
+        "raw_problem": "Correct the grammar in the following sentence: The activation energy is the minimum energy required for a reaction to occur, and is affected by factors such as temperature and catalysts.",
+        "translated_problem": "纠正以下句子中的语法：活化能是反应发生所需的最小能量，受温度和催化剂等因素的影响。"
+    },
+    {
+        "id": "f4bcdfb64dd41fe92656b7a727e6740a",
+        "raw_problem": "What is the purpose of the study?",
+        "translated_problem": "这项研究的目的是什么？"
+    },
+    {
+        "id": "58aae562b2ec7785fe554440afc3bf17",
+        "raw_problem": "What is the WOT-SRSH functional and how does it compare to other functionals in $G_0W_0$ calculations?",
+        "translated_problem": "什么是WOT-RSH泛函，它与$G_0W_0$计算中的其他泛函相比如何？"
+    },
+    {
+        "id": "ae857c74464b35ade9a052d33ee8d3f9",
+        "raw_problem": "What did they observe when comparing their simplified theory to the experiment?",
+        "translated_problem": "在将他们的简化理论与实验进行比较时，他们观察到了什么？"
+    },
+    {
+        "id": "b4ac897402ec7ae5985fe3d9e27ca870",
+        "raw_problem": "What is the effect of electrically-induced band gap on THz detection in graphene bilayer with split-gate p-n junction?",
+        "translated_problem": "在具有分裂栅极p-n结的石墨烯双层中，电诱导带隙对THz检测有何影响？"
+    },
+    {
+        "id": "7206b5e3b4a201b0ce90ee3c348ca14f",
+        "raw_problem": "What is the phenomenon of coherent tunneling destruction?",
+        "translated_problem": "相干隧穿破坏现象是什么？"
+    },
+    {
+        "id": "b2620babd15f4a0aa06d6701bcedc1d8",
+        "raw_problem": "What is the largest system that can be studied with the new code?",
+        "translated_problem": "使用新代码可以研究的最大系统是什么？"
+    },
+    {
+        "id": "faaa479b93d963fca09fe871a328b859",
+        "raw_problem": "What is the most likely way to reach the threshold for caustic formation in three dimensions?",
+        "translated_problem": "在三维空间中达到腐蚀性形成阈值的最可能方法是什么？"
+    },
+    {
+        "id": "ea0cef1d47745b01ba03f075ddce1962",
+        "raw_problem": "What is the buffer layer formed for low O/Ti ratios?",
+        "translated_problem": "为低O/Ti比形成的缓冲层是什么？"
+    },
+    {
+        "id": "c6b0b1f0eff35992fcab8e25f2210219",
+        "raw_problem": "Write a report on the potential applications of thermoelectric materials in renewable energy systems.",
+        "translated_problem": "撰写一份关于热电材料在可再生能源系统中的潜在应用的报告。"
+    },
+    {
+        "id": "5a313ba24e559e75f716be24e77bce5f",
+        "raw_problem": "What is the topological interpretation of the zeros of the gap function?",
+        "translated_problem": "间隙函数零点的拓扑解释是什么？"
+    },
+    {
+        "id": "8157a1c449ab035991d15d8f382f1485",
+        "raw_problem": "Analyze the sentiment of a review for a smart fabric that can change color.",
+        "translated_problem": "分析评论对可以改变颜色的智能织物的看法。"
+    },
+    {
+        "id": "8ad0fa48f4c428f41a417d2590a737aa",
+        "raw_problem": "What is the working substance chosen for the asymmetric quantum Otto engine cycle?",
+        "translated_problem": "为非对称量子奥托发动机循环选择的工作物质是什么？"
+    },
+    {
+        "id": "32ac51ac7ac9f3100f78be14d60605ee",
+        "raw_problem": "What are the different thiol molecule linkers used in the study?",
+        "translated_problem": "研究中使用的不同巯基分子连接体是什么？"
+    },
+    {
+        "id": "a3f7be680beb1968780b00add51ef899",
+        "raw_problem": "What is chemotherapy?",
+        "translated_problem": "什么是化疗？"
+    },
+    {
+        "id": "e96365d381ccbdd3de6d8ae97d5649ad",
+        "raw_problem": "Explain the function of antibodies.",
+        "translated_problem": "解释抗体的功能。"
+    },
+    {
+        "id": "637bc86fd75e3b39fae477e7d1521f17",
+        "raw_problem": "Can the periodically driven extended Su-Schrieffer-Heeger model be experimentally realized?",
+        "translated_problem": "周期性驱动的扩展Su-Schrieffer-Heeger模型能否通过实验实现？"
+    },
+    {
+        "id": "c81f63e9d1ed116ec148e53dd2b39e26",
+        "raw_problem": "What is the controlled asymptotic long-time error and how does the adaptive Trotterization scheme allow for it?",
+        "translated_problem": "什么是受控的渐近长期误差，自适应Troturitization方案如何允许它？"
+    },
+    {
+        "id": "a7e3eab67522f489b41bf9dad0ad5e57",
+        "raw_problem": "What are the non-linear flow regimes found in the study?",
+        "translated_problem": "研究中发现的非线性流态是什么？"
+    },
+    {
+        "id": "51d8e704903508eca92bb51e6e21610b",
+        "raw_problem": "What is the method used to measure the thermal conductivity mean free path accumulation function?",
+        "translated_problem": "测量热导率平均自由程累积函数的方法是什么？"
+    },
+    {
+        "id": "caad02318b477e324c335f3a9f7615d6",
+        "raw_problem": "Write a brief essay on the history of semiconductor technology.",
+        "translated_problem": "写一篇关于半导体技术历史的短文。"
+    },
+    {
+        "id": "e18faf813fda4430430f2c5f8a44e7ed",
+        "raw_problem": "What is the ferromagnetic ordering temperature of F5GT?",
+        "translated_problem": "F5GT的铁磁有序温度是多少？"
+    },
+    {
+        "id": "623b0d4e96a2447a443f61d069ce6404",
+        "raw_problem": "Group the following elements into their respective families: lithium, sodium, potassium, rubidium, and cesium.",
+        "translated_problem": "将以下元素归入各自的家族：锂、钠、钾、铷和铯。"
+    },
+    {
+        "id": "ee42aabd4621496a03aa0666dea2fdf6",
+        "raw_problem": "Can you explain how a self-healing concrete material works?",
+        "translated_problem": "你能解释一下自愈混凝土材料是如何工作的吗？"
+    },
+    {
+        "id": "f2682f7453f4b21ef7b82c4c35e89dcb",
+        "raw_problem": "What are the two limiting cases considered in the paper?",
+        "translated_problem": "本文考虑的两种限制情况是什么？"
+    },
+    {
+        "id": "ee2fc65c7c3010203c4205bfcd67862c",
+        "raw_problem": "What is the behavior of the effective thermal conductivity of the jammed system?",
+        "translated_problem": "堵塞系统的有效导热系数的行为是什么？"
+    },
+    {
+        "id": "1c6c2ba0b2793151c12e2767ad0242b7",
+        "raw_problem": "What emergent properties are induced by the implementation of the two principles?",
+        "translated_problem": "这两个原则的实施引发了哪些涌现属性？"
+    },
+    {
+        "id": "59dc22d2d07b72578cc18692429645b0",
+        "raw_problem": "Please cluster the following list of substances based on their physical properties: oxygen, nitrogen, sulfur, mercury, gold",
+        "translated_problem": "请根据物质的物理性质对以下物质进行分类：氧、氮、硫、汞、金"
+    },
+    {
+        "id": "94bb02789744c8218df685d0c51043af",
+        "raw_problem": "What is the reason for the selectivity displayed by bi- and tri-layer graphene?",
+        "translated_problem": "双层和三层石墨烯显示选择性的原因是什么？"
+    },
+    {
+        "id": "2b2b357fd972a2458954167db59dd01b",
+        "raw_problem": "Extract the relationship between voltage and current in a battery.",
+        "translated_problem": "提取电池中电压和电流之间的关系。"
+    },
+    {
+        "id": "6eb76bb96fd7538cce4715f275eb4399",
+        "raw_problem": "What is the difference between ergodic and nonergodic configurations?",
+        "translated_problem": "遍历配置和非遍历配置之间有什么区别？"
+    },
+    {
+        "id": "f9a93334672091f1adda674e54b4eccf",
+        "raw_problem": "What is the interacting Rice-Mele model?",
+        "translated_problem": "什么是Rice-Mele交互模型？"
+    },
+    {
+        "id": "2467a427062ed4548fba87f55b752050",
+        "raw_problem": "What is the theory that maps onto an infinite collection of 1d chiral fermions?",
+        "translated_problem": "映射到一维手性费米子无限集合的理论是什么？"
+    },
+    {
+        "id": "c6a82ddccf7c63e2ec974428b6f9c17b",
+        "raw_problem": "Can the resulting formula be used for the TASEP with non-step initial conditions?",
+        "translated_problem": "所得公式可用于非步进初始条件下的TASEP吗？"
+    },
+    {
+        "id": "8f3a135e9d310852918e66d9f30b3864",
+        "raw_problem": "What is the significance of the functional dependencies of the tensor coefficients?",
+        "translated_problem": "张量系数的函数依赖关系有什么意义？"
+    },
+    {
+        "id": "8577644e4c7eaa16c6a4e1075307f1c2",
+        "raw_problem": "How do H-vacancy defects influence the size of the gap in graphane?",
+        "translated_problem": "H-空位缺陷如何影响石墨烯中的间隙大小？"
+    },
+    {
+        "id": "02092684d0bef7ff8d49f8ff5ebd84a2",
+        "raw_problem": "Can the authors provide more information on the complementary experimental and theoretical techniques used in their study?",
+        "translated_problem": "作者能否提供更多关于他们研究中使用的补充实验和理论技术的信息？"
+    }
+]
