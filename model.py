@@ -102,6 +102,8 @@ def call_huoshan(messages, model_name="deepseek-r1"):
             model_name="deepseek-r1"
         elif model_name == "doubao":
             model_name = "doubao-1.5-thinking-pro"
+        elif model_name == "v3":
+            model_name = "deepseek-v3"
         config_path=os.path.join(os.path.dirname(__file__), "api_config.yaml")
         # 加载模型配置
         try:
@@ -252,7 +254,71 @@ def call_openai(
             time.sleep(retry_delay)
             retry_delay *= 2  # 指数退避
 
-if __name__ =="__main__":
-    res= call_server("你是谁", model_name="our32b_s1math70w_code57w_liucong10w_ch_py_6k_32k")
-    print(res)
- 
+
+def call_v3(messages):
+    messages = [
+        {
+        "role": "user",
+        "content": messages
+        }
+    ]
+
+    url="https://ark.cn-beijing.volces.com/api/v3/chat/completions"
+    model=" ep-20250515170800-ssf5c"
+    key="30a70266-37d5-4210-b8a2-34d5fb629230"
+
+    """ 获取大模型生成的原始内容 """
+
+    response =  requests.post(url=url, json={
+        "model": model,
+        "messages": messages,
+        "max_tokens": 8192  # 只限制content的长度，不限制reasoning content的长度，后者默认最长32k
+    }, headers={
+        "Authorization": f"Bearer 30a70266-37d5-4210-b8a2-34d5fb629230",
+        "x-ark-moderation-scene": "skip-ark-moderation"
+    }).json()
+
+    choice = response["choices"][0]
+
+    finish_reason = choice["finish_reason"]
+    reasoning_content = choice["message"].get("reasoning_content", None)
+    content = choice["message"].get("content", None)
+
+    if finish_reason=="stop":
+        if reasoning_content:
+            reasoning_content = reasoning_content.strip()
+            content = content.strip()
+            formatted_content = f"<|thought_start|>\n{reasoning_content}\n<|thought_end|>\n{content}"
+        else:
+            content = content.strip()
+            formatted_content = content.strip()
+    else:
+        formatted_content = None
+        print("finish_reason: ", finish_reason)
+    return reasoning_content,content
+
+def OpenaiTranslator(
+    messages
+    # client: OpenAI
+):
+    messages="我将传给你一些文本，请你的回复仅包含文本翻译的内容，如果传给你的内容为空，希望你返回结果也是空字符串，请将以下内容翻译成中文：\n" + messages
+    _,content=call_openai(messages)
+    return content
+
+def V3Translator(
+    messages
+    # client: OpenAI
+):
+    messages="我将传给你一些文本，请你的回复仅包含文本翻译的内容，如果传给你的内容为空，希望你返回结果也是空字符串，请将以下内容翻译成中文：\n" + messages
+    reasoning_content,content=call_v3(messages)
+    return content
+
+    
+
+if __name__ == "__main__":
+    message = """
+    "raw_problem": "How do the macrocyclic ligands containing both nitrogen and sulfur donor atoms contribute to the potential of mimicking macromolecular biological systems?",
+    """
+    message=""
+    content = V3Translator(message)
+    print(content)

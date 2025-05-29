@@ -20,15 +20,16 @@ doubao-1.5-thinking-pro:
   retry_delay: 2.0
   timeout: 600
 
-DeepSeek-R1-Distill-Qwen-7B:
-  base_url: http://10.20.4.5:8081/v1/chat/completions
+deepseek-v3:
+  model_name: ep-20250515170800-ssf5c
+  api_key: 30a70266-37d5-4210-b8a2-34d5fb629230
+  base_url: https://ark.cn-beijing.volces.com/api/v3/chat/completions
+  max_tokens: 16000
   temperature: 0.6
   top_p: 0.95
-
-DeepSeek-R1-Distill-Qwen-32B:
-  base_url: http://10.20.4.5:8082/v1/chat/completions
-  temperature: 0.6
-  top_p: 0.95
+  max_retries: 3
+  retry_delay: 2.0
+  timeout: 600
   
 gpt-4o-2024-11-20:
   model_name: gpt-4o-2024-11-20

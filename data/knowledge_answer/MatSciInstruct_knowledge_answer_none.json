@@ -1,0 +1,266 @@
+{
+    "30fa752f9e78848eb004721cf297e04f": {
+        "raw_problem": "What is the name of the process by which cells become specialized during embryonic development?",
+        "raw_context": "",
+        "translated_problem": "在胚胎发育过程中，细胞变得特化的过程叫什么名字？",
+        "translated_context": "好的，请将需要翻译的文本提供给我。",
+        "translated_answer": "在胚胎发育过程中，细胞变得专门化的过程称为分化。",
+        "doubao": {
+            "reason": "该问题询问的是胚胎发育过程中细胞特化过程的名称，答案是一个普遍接受的事实性知识点，可通过回忆或查找获得，无需多步推理。",
+            "category": "KNOWLEDGE"
+        }
+    },
+    "4fe5c1b4406e14e794d3af879c875240": {
+        "raw_problem": "What is the mechanism of natural selection?",
+        "raw_context": "",
+        "translated_problem": "自然选择的机制是什么？",
+        "translated_context": "好的，请将需要翻译的文本提供给我。",
+        "translated_answer": "自然选择是指具有有利特征的生物更有可能生存和繁殖，并将这些特征传递给它们的后代的过程。",
+        "doubao": {
+            "reason": "该问题询问自然选择的机制，参考答案是一个普遍接受的事实性定义，属于客观知识，可通过回忆或查找获得，无需多步推理。",
+            "category": "KNOWLEDGE"
+        }
+    },
+    "43fff7447228d8670d844c75593dd69f": {
+        "raw_problem": "What are the three types of stem cells and what are their respective sources?",
+        "raw_context": "",
+        "translated_problem": "干细胞有三种类型，它们分别是：\n\n1. 胚胎干细胞（来源于早期胚胎）。\n2. 成体干细胞（来源于成年组织，如骨髓或脂肪组织）。\n3. 诱导多能干细胞（通过基因重编程从体细胞中获得）。",
+        "translated_context": "好的，请将需要翻译的文本发送给我。",
+        "translated_answer": "三种类型的干细胞是胚胎干细胞（从胚胎中获得）、成体干细胞（存在于身体的各种组织中）和诱导多能干细胞（通过重编程成体细胞创造）。",
+        "doubao": {
+            "reason": "该问题询问三种干细胞的类型及其各自来源，答案是客观事实，可通过直接查找或回忆知识点获得，无需多步逻辑推理。",
+            "category": "KNOWLEDGE"
+        }
+    },
+    "34bbe43d1825807bddba7d3d9dcc8246": {
+        "raw_problem": "What is the size range of nanoparticles?",
+        "raw_context": "",
+        "translated_problem": "纳米粒子的尺寸范围是多少？",
+        "translated_context": "好的，请提供您需要翻译的文本。",
+        "translated_answer": "纳米粒子的尺寸通常在1到100纳米之间。",
+        "doubao": {
+            "reason": "该问题询问纳米颗粒的尺寸范围，答案是一个普遍接受的事实性知识点，可通过查找或回忆直接获得，无需多步逻辑推理。",
+            "category": "KNOWLEDGE"
+        }
+    },
+    "fdc655ee6f5f5c072adfe9d24b5a7e6c": {
+        "raw_problem": "What are the main components of a signal transduction pathway?",
+        "raw_context": "",
+        "translated_problem": "信号传导途径的主要组成部分是什么？",
+        "translated_context": "好的，请提供需要翻译的文本。",
+        "translated_answer": "信号传导通路的主要组成部分是信号分子或配体、受体蛋白、细胞内信号分子或第二信使，以及产生细胞反应的效应蛋白。",
+        "doubao": {
+            "reason": "该问题询问信号转导通路的主要组成部分，答案是客观事实且可通过直接回忆或查找获得，无需多步逻辑推理。",
+            "category": "KNOWLEDGE"
+        }
+    },
+    "78fc593ec085e722128d86f489036b1f": {
+        "raw_problem": "What is the shape memory effect?",
+        "raw_context": "",
+        "translated_problem": "什么是形状记忆效应？",
+        "translated_context": "好的，请提供您需要翻译的文本。",
+        "translated_answer": "形状记忆效应是指某些材料在受到热或磁场等特定刺激后能够恢复到其原始形状的能力。",
+        "doubao": {
+            "reason": "该问题询问“形状记忆效应”的定义，答案是一个普遍接受的事实性知识点，无需多步逻辑推理即可通过查找或回忆获得。",
+            "category": "KNOWLEDGE"
+        }
+    },
+    "db103d5441f4d819cff3d38bf59bf89e": {
+        "raw_problem": "Correct the grammar in the following sentence: 'The bird's wings is blue.'",
+        "raw_context": "",
+        "translated_problem": "纠正以下句子的语法：“这只鸟的翅膀是蓝色的。”",
+        "translated_context": "好的，请提供您需要翻译的文本内容。",
+        "translated_answer": "鸟的翅膀是蓝色的。",
+        "doubao": {
+            "reason": "该问题要求纠正句子的语法错误，答案基于主谓一致的语法规则这一客观事实，可通过回忆或查找语法知识直接得出。",
+            "category": "KNOWLEDGE"
+        }
+    },
+    "759c9de0026ea6e9c64b5b89d9402b9b": {
+        "raw_problem": "Please correct the grammar errors in the following sentence: 'The biodiversity of coral reefs are threatened by pollution and overfishing.'",
+        "raw_context": "",
+        "translated_problem": "请纠正以下句子中的语法错误：“珊瑚礁的生物多样性受到污染和过度捕捞的威胁。”",
+        "translated_context": "好的，请将您需要翻译的文本提供给我。",
+        "translated_answer": "珊瑚礁的生物多样性正受到污染和过度捕捞的威胁。",
+        "doubao": {
+            "reason": "该问题要求纠正句子中的语法错误，答案基于主谓一致的客观语法规则，可通过回忆或查找语法知识直接得出。",
+            "category": "KNOWLEDGE"
+        }
+    },
+    "0f4e7a6f1ecd65136e9cad4d838eda20": {
+        "raw_problem": "Please edit the following sentence: The melting point of iron is 1538 degrees Celsius.",
+        "raw_context": "",
+        "translated_problem": "请编辑以下句子：铁的熔点是1538摄氏度。",
+        "translated_context": "好的，请提供您想要翻译的文本内容。",
+        "translated_answer": "铁的熔点是1538摄氏度。",
+        "doubao": {
+            "reason": "问题要求编辑给定句子，而原句“铁的熔点是1538摄氏度”是客观事实且正确无误，编辑后的答案与原句一致，属于可直接验证的客观事实，无需推理。",
+            "category": "KNOWLEDGE"
+        }
+    },
+    "93106094ce8b23ac1366bfb8fc1104e8": {
+        "raw_problem": "Please identify the enzyme responsible for breaking down lactose in humans.",
+        "raw_context": "",
+        "translated_problem": "请指出分解人类乳糖的酶。",
+        "translated_context": "好的，请提供您需要翻译的文本。",
+        "translated_answer": "在人类中负责分解乳糖的酶被称为乳糖酶。",
+        "doubao": {
+            "reason": "该问题询问的是分解乳糖的酶，答案是一个普遍接受的事实性知识点（乳糖酶），可以通过简单回忆或查找获得，无需多步逻辑推理。",
+            "category": "KNOWLEDGE"
+        }
+    },
+    "8ecce790932df1dcabcaa878fcbc522f": {
+        "raw_problem": "What are some common types of magnetic materials?",
+        "raw_context": "",
+        "translated_problem": "一些常见类型的磁性材料有哪些？",
+        "translated_context": "好的，请提供您需要翻译的文本。",
+        "translated_answer": "常见的磁性材料类型包括铁磁材料，它们在外部磁场的作用下会被强烈磁化，以及抗磁性材料，它们会被磁场微弱地排斥。",
+        "doubao": {
+            "reason": "该问题询问常见的磁性材料类型，参考答案列出了具体的客观事实性知识点（铁磁性材料、抗磁性材料），无需多步推理即可通过回忆或查找获得答案。",
+            "category": "KNOWLEDGE"
+        }
+    },
+    "4f771c85b8f5e711f540406cf60442d5": {
+        "raw_problem": "What is doping in semiconductor materials?",
+        "raw_context": "",
+        "translated_problem": "什么是半导体材料中的掺杂？",
+        "translated_context": "好的，请将需要翻译的文本发送给我。",
+        "translated_answer": "掺杂是将杂质有意引入半导体材料中，以改变其电学性能，使其更适合特定的应用。",
+        "doubao": {
+            "reason": "该问题询问半导体材料中掺杂（doping）的定义，参考答案是一个普遍接受的事实性知识点，可通过直接查找或回忆获得，无需多步逻辑推理。",
+            "category": "KNOWLEDGE"
+        }
+    },
+    "46a496b8decbd37f073f2e30bba85541": {
+        "raw_problem": "Please identify all the functional groups present in the following molecule: CH3CH2CH2OH.",
+        "raw_context": "",
+        "translated_problem": "请识别以下分子 CH3CH2CH2OH 中存在的所有官能团。",
+        "translated_context": "好的，请提供您需要翻译的文本内容。",
+        "translated_answer": "分子中存在的官能团是羟基（-OH）。",
+        "doubao": {
+            "reason": "该问题要求识别分子中的官能团，答案（羟基）是有机化学中可直接通过分子结构特征判断的客观事实，无需多步逻辑推理。",
+            "category": "KNOWLEDGE"
+        }
+    },
+    "018f59b8cc69e1524187efb09176b538": {
+        "raw_problem": "What is the purpose of animal communication?",
+        "raw_context": "",
+        "translated_problem": "动物交流的目的是什么？",
+        "translated_context": "好的，请提供您需要翻译的文本。",
+        "translated_answer": "动物交流的目的是在同种或不同种群的个体之间传递信息。这些信息可以包括危险警告、食物或配偶的位置以及社会地位。交流的形式多种多样，包括发声、肢体语言和化学信号。",
+        "doubao": {
+            "reason": "该问题询问动物交流的目的，参考答案提供了客观事实性的知识（传递信息的具体内容），无需多步逻辑推理即可得出答案。",
+            "category": "KNOWLEDGE"
+        }
+    },
+    "1360afe2b4838311790c01eb666a3836": {
+        "raw_problem": "What are some of the challenges facing the development of thermoelectric materials?",
+        "raw_context": "",
+        "translated_problem": "热电材料开发面临的一些挑战是什么？",
+        "translated_context": "好的，请提供您希望翻译的文本。",
+        "translated_answer": "提高热电材料的效率并降低其成本是其发展面临的最大挑战之一。其他挑战包括寻找在高温下稳定的材料、优化它们的热导率和电导率，以及提高其随时间推移的耐久性和可靠性。",
+        "doubao": {
+            "reason": "该问题询问热电材料发展面临的挑战，参考答案列举了客观存在的事实性挑战（如提高效率、降低成本等），这些答案可通过查找或回忆相关领域知识获得，无需多步逻辑推理。",
+            "category": "KNOWLEDGE"
+        }
+    },
+    "a0acf02a0b56084e7cbf1e646cfcf04a": {
+        "raw_problem": "What is the chemical formula for sulfuric acid?",
+        "raw_context": "",
+        "translated_problem": "硫酸的化学式是什么？",
+        "translated_context": "好的，请将需要翻译的文本提供给我。",
+        "translated_answer": "硫酸的化学式是H2SO4。",
+        "doubao": {
+            "reason": "该问题询问硫酸的化学式，答案是一个普遍接受的事实性知识点，可通过直接回忆或查找获得，无需多步逻辑推理。",
+            "category": "KNOWLEDGE"
+        }
+    },
+    "f63c6dc5688c7101e0063c16b113f942": {
+        "raw_problem": "Extract the events related to the use of concrete in construction.",
+        "raw_context": "",
+        "translated_problem": "提取与混凝土在建筑中使用相关的事件。",
+        "translated_context": "好的，请提供您需要翻译的文本，我会根据您的要求翻译。",
+        "translated_answer": "混凝土因其强度和耐久性而广泛用于建筑施工。与其使用相关的过程包括浇筑、养护和抹面。浇筑是将混凝土放入模板中，养护是让混凝土硬化并增强强度，而抹面是对混凝土表面进行平整和光滑处理。",
+        "doubao": {
+            "reason": "该问题要求提取与建筑中使用混凝土相关的事件，参考答案明确列出了具体的事件（pouring、curing、finishing）及其解释，属于可直接通过查找或回忆获得的客观事实。",
+            "category": "KNOWLEDGE"
+        }
+    },
+    "afd0cb05b7d044ac3d49fcdd48e8e2bd": {
+        "raw_problem": "Extract the relation between spider silk and material engineering.",
+        "raw_context": "",
+        "translated_problem": "提取蜘蛛丝与材料工程之间的关系。",
+        "translated_context": "好的，请提供您需要翻译的文本。",
+        "translated_answer": "蜘蛛丝因其独特的高抗拉强度和弹性等特性，在材料工程中的潜在应用已被广泛研究。",
+        "doubao": {
+            "reason": "该问题要求提取蜘蛛丝与材料工程之间的关系，参考答案直接给出了客观事实性的描述，属于可通过查找或回忆获得的客观事实。",
+            "category": "KNOWLEDGE"
+        }
+    },
+    "8276c5fc5a4e4602864af968d065ba99": {
+        "raw_problem": "What is the output of the following Python code: print(len('optical materials'))?",
+        "raw_context": "",
+        "translated_problem": "以下Python代码的输出是什么：print(len('optical materials'))？",
+        "translated_context": "好的，请提供您需要翻译的文本。",
+        "translated_answer": "16",
+        "doubao": {
+            "reason": "该问题要求计算Python代码中字符串的长度，答案是通过直接应用len()函数的基础知识即可得出的客观事实，无需多步推理。",
+            "category": "KNOWLEDGE"
+        }
+    },
+    "a3f7be680beb1968780b00add51ef899": {
+        "raw_problem": "What is chemotherapy?",
+        "raw_context": "",
+        "translated_problem": "什么是化疗？",
+        "translated_context": "好的，请提供需要翻译的文本。",
+        "translated_answer": "化疗是一种利用药物来消灭癌细胞的癌症治疗方法。这些药物通常通过静脉输液或口服方式给药，其作用机制是干扰癌细胞的分裂过程，从而阻止其生长和扩散。",
+        "doubao": {
+            "reason": "该问题询问化疗的定义，参考答案提供了客观事实性的解释，属于普遍接受的知识点，无需多步逻辑推理即可回答。",
+            "category": "KNOWLEDGE"
+        }
+    },
+    "e96365d381ccbdd3de6d8ae97d5649ad": {
+        "raw_problem": "Explain the function of antibodies.",
+        "raw_context": "",
+        "translated_problem": "解释抗体的功能。",
+        "translated_context": "好的，请提供您需要翻译的文本内容。",
+        "translated_answer": "抗体是由免疫系统产生的蛋白质，它们能够识别并中和病毒和细菌等外来物质。抗体会与这些病原体表面的特定抗原结合，标记它们以便其他免疫细胞进行消灭。",
+        "doubao": {
+            "reason": "问题要求解释抗体的功能，参考答案是关于抗体功能的客观事实性描述，属于普遍接受的知识点，无需多步推理即可获得。",
+            "category": "KNOWLEDGE"
+        }
+    },
+    "2b2b357fd972a2458954167db59dd01b": {
+        "raw_problem": "Extract the relationship between voltage and current in a battery.",
+        "raw_context": "",
+        "translated_problem": "提取电池中电压与电流之间的关系。",
+        "translated_context": "好的，请提供您需要翻译的文本。",
+        "translated_answer": "电池中电压与电流的关系由欧姆定律描述，该定律指出，导体两点间的电流与两点间的电压成正比。",
+        "doubao": {
+            "reason": "该问题要求提取电池中电压与电流的关系，答案直接引用了欧姆定律这一普遍接受的事实性知识点，无需多步逻辑推理即可通过回忆或查找获得。",
+            "category": "KNOWLEDGE"
+        }
+    },
+    "7f23479d58832168ca249de84b279461": {
+        "raw_problem": "Why is shape memory alloy useful?",
+        "raw_context": "",
+        "translated_problem": "为什么形状记忆合金有用？",
+        "translated_context": "好的，请提供您需要翻译的文本。",
+        "translated_answer": "形状记忆合金之所以有用，是因为它们在变形后可以恢复原始形状，这一特性可用于各种工程应用，例如致动器、传感器和生物医学设备。",
+        "doubao": {
+            "reason": "该问题询问形状记忆合金有用的原因，参考答案直接陈述了其恢复原形状的特性及其应用领域，属于可通过事实性知识直接回答的内容，无需多步逻辑推理。",
+            "category": "KNOWLEDGE"
+        }
+    },
+    "ee42aabd4621496a03aa0666dea2fdf6": {
+        "raw_problem": "Can you explain how a self-healing concrete material works?",
+        "raw_context": "",
+        "translated_problem": "你能解释一下自愈合混凝土材料是如何工作的吗？",
+        "translated_context": "好的，请提供您需要翻译的文本。",
+        "translated_answer": "自愈混凝土材料通常包含填充有修复剂的胶囊，例如细菌或聚合物。当混凝土受损时，胶囊破裂并释放修复剂，修复剂随后填充混凝土中的裂缝或孔洞。修复剂与周围材料发生反应，形成结合，从而恢复混凝土的强度和完整性。这项技术有可能显著延长混凝土结构的使用寿命并降低维护成本。",
+        "doubao": {
+            "reason": "该问题询问自修复混凝土材料的工作原理，参考答案是对其客观工作机制的事实性描述，可通过查找或回忆已知知识获得，无需多步逻辑推理。",
+            "category": "KNOWLEDGE"
+        }
+    }
+}
