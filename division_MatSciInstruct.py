@@ -4,7 +4,6 @@ import os
 import json
 
 
-DataSet="MatSciInstruct"
 
 # SciQAG
 #  MatSciInstruct
@@ -42,6 +41,10 @@ def process_item(signal_data_item,model_name):
         instruction = signal_data_item['metadata']['question']
         input_val = signal_data_item['metadata']['txt'] 
         output_val = signal_data_item['metadata']['answer']
+    elif DataSet == "mascqa":
+        instruction = signal_data_item['metadata']['question']
+        input_val =""
+        output_val = signal_data_item['metadata']['correct_answer']
     prompt = raw_prompt_template.replace("{{instruction}}", str(instruction)) \
                                 .replace("{{input}}", str(input_val)) \
                                 .replace("{{output}}", str(output_val))
@@ -96,13 +99,13 @@ def run_use_model(model_name,data,task):
 #     run_use_model(model_name)
 model_name= "r1"
 task_list=[
-    "MatSciInstruct_train_none",
-    "MatSciInstruct_train_txt",
-    "SciQAG_train",
-    "MatSciInstruct_test_none",
-   "MatSciInstruct_test_txt",
-
-    "SciQAG_test", 
+#     "MatSciInstruct_train_none",
+#     "MatSciInstruct_train_txt",
+#     "SciQAG_train",
+#     "MatSciInstruct_test_none",
+#    "MatSciInstruct_test_txt",
+#     "SciQAG_test", 
+    "mascqa",
 ]
 
 # DataSet="MatSciInstruct"
