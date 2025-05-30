@@ -320,5 +320,5 @@ if __name__ == "__main__":
     "raw_problem": "How do the macrocyclic ligands containing both nitrogen and sulfur donor atoms contribute to the potential of mimicking macromolecular biological systems?",
     """
     message=""
-    content = V3Translator(message)
+    content = OpenaiTranslator(message)
     print(content)
