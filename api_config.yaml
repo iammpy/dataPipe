@@ -1,5 +1,5 @@
 deepseek-r1:
-  model_name: ep-20250205151450-2s9x9
+  model_name: ep-20250603155107-dlz2b
   api_key: 30a70266-37d5-4210-b8a2-34d5fb629230
   base_url: https://ark.cn-beijing.volces.com/api/v3/chat/completions
   max_tokens: 16000

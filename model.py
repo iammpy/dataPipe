@@ -317,8 +317,8 @@ def V3Translator(
 
 if __name__ == "__main__":
     message = """
-    "raw_problem": "How do the macrocyclic ligands containing both nitrogen and sulfur donor atoms contribute to the potential of mimicking macromolecular biological systems?",
+
     """
-    message=""
-    content = OpenaiTranslator(message)
+    message="你是谁？"
+    content = call_huoshan(message, model_name="v3")
     print(content)
